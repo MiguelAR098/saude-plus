@@ -325,9 +325,9 @@
           "hidratante-facial",
           "hidratante-corporal-seca"
         ],
-        "orcamento_max": 80,
+        "orcamento_por_item": 80,
         "regras": [
-          "soma até R$ 80"
+          "cada opção até R$ 80 (kits já são pacotes)"
         ]
       }
     },
