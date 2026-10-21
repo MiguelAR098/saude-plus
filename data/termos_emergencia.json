@@ -1,0 +1,134 @@
+{
+  "_aviso": "Rascunho para revisão humana. Quando qualquer termo aparecer, a IA interrompe a recomendação de produtos e responde com a resposta padrão da categoria. Ampliar com gírias e erros de digitação.",
+  "versao": "0.2-rascunho",
+  "regra": "Emergência tem prioridade sobre qualquer outra etapa (antes da recomendação, do carrinho e dos produtos restritos). Casas de negação ('não estou com dor no peito') podem gerar falso alarme: usar a checagem por termos como 1ª camada e o LLM como 2ª camada de confirmação.",
+  "categorias": [
+    {
+      "id": "emerg-cardio-respiratoria",
+      "gravidade": "critica",
+      "termos": [
+        "dor no peito",
+        "aperto no peito",
+        "falta de ar",
+        "não consigo respirar",
+        "estou sem ar",
+        "coração disparado",
+        "desmaiei",
+        "desmaio",
+        "desmaiou",
+        "lábios roxos",
+        "parada cardíaca"
+      ],
+      "resposta_padrao": "O que você descreve pode ser sério e precisa de atendimento médico agora. Ligue para o SAMU (192) ou procure a emergência mais próxima. Vou pausar as sugestões de produtos."
+    },
+    {
+      "id": "emerg-neurologica",
+      "gravidade": "critica",
+      "termos": [
+        "convulsão",
+        "convulsionando",
+        "rosto torto",
+        "boca torta",
+        "fala enrolada",
+        "perdi a visão",
+        "pior dor de cabeça da vida",
+        "confusão mental",
+        "paralisia",
+        "formigamento no braço"
+      ],
+      "resposta_padrao": "Esses sinais precisam de avaliação médica imediata. Ligue para o SAMU (192) ou vá à emergência mais próxima. Vou pausar as sugestões de produtos."
+    },
+    {
+      "id": "emerg-alergia-grave",
+      "gravidade": "critica",
+      "termos": [
+        "garganta fechando",
+        "rosto inchado",
+        "língua inchada",
+        "lábios inchados",
+        "reação alérgica forte",
+        "reação alérgica grave",
+        "choque anafilático",
+        "anafilaxia"
+      ],
+      "resposta_padrao": "Uma reação alérgica com esses sinais é emergência. Ligue para o SAMU (192) ou vá à emergência agora. Vou pausar as sugestões de produtos."
+    },
+    {
+      "id": "emerg-sangramento-trauma",
+      "gravidade": "critica",
+      "termos": [
+        "sangramento que não para",
+        "sangrando muito",
+        "vomitando sangue",
+        "fezes com sangue",
+        "queimadura grave",
+        "queimadura com bolhas",
+        "traumatismo",
+        "fratura exposta",
+        "corte profundo",
+        "bati a cabeça"
+      ],
+      "resposta_padrao": "Isso precisa de atendimento médico imediato. Ligue para o SAMU (192) ou procure a emergência mais próxima. Vou pausar as sugestões de produtos."
+    },
+    {
+      "id": "emerg-intoxicacao",
+      "gravidade": "critica",
+      "termos": [
+        "overdose",
+        "tomei remédio demais",
+        "tomei muitos comprimidos",
+        "engoliu",
+        "engoli produto",
+        "envenenamento",
+        "intoxicação",
+        "criança engoliu",
+        "bebeu produto de limpeza"
+      ],
+      "resposta_padrao": "Em caso de ingestão de produto ou medicamento em excesso, procure atendimento médico imediatamente ou ligue para o SAMU (192). Se puder, leve a embalagem. Vou pausar as sugestões de produtos."
+    },
+    {
+      "id": "emerg-grupos-vulneraveis",
+      "gravidade": "alta",
+      "termos": [
+        "bebê recém-nascido com febre",
+        "recém-nascido com febre",
+        "bebê não respira direito",
+        "bebê muito molinho",
+        "gestante sangrando",
+        "grávida sangrando",
+        "grávida com dor forte"
+      ],
+      "resposta_padrao": "Nessa situação é importante buscar avaliação médica o quanto antes. Procure um serviço de saúde ou ligue para o SAMU (192). Vou pausar as sugestões de produtos."
+    },
+    {
+      "id": "emerg-sinais-graves-gerais",
+      "gravidade": "alta",
+      "termos": [
+        "febre há dias",
+        "febre muito alta",
+        "dor muito forte",
+        "não consigo levantar",
+        "pele muito vermelha com bolhas",
+        "manchas roxas pelo corpo"
+      ],
+      "resposta_padrao": "Esses sinais merecem avaliação médica. Procure um serviço de saúde, e, se piorar ou houver risco imediato, ligue para o SAMU (192). Vou pausar as sugestões de produtos."
+    },
+    {
+      "id": "crise-saude-mental",
+      "gravidade": "critica",
+      "termos": [
+        "quero morrer",
+        "quero me matar",
+        "vou me matar",
+        "suicídio",
+        "não quero mais viver",
+        "me machucar",
+        "acabar com tudo",
+        "melhor sem mim",
+        "não aguento mais viver"
+      ],
+      "resposta_padrao": "Sinto muito que você esteja passando por isso, e sua vida importa. Você não precisa enfrentar isso sozinho(a): o CVV atende 24 horas pelo telefone 188, de graça. Em risco imediato, ligue para o SAMU (192). Se quiser, posso ajudar a encontrar apoio perto de você."
+    }
+  ],
+  "observacao_de_revisao": "A categoria crise-saude-mental deve ser revisada com atenção: a resposta precisa ser acolhedora, sem perguntas que aprofundem a crise e sem sugerir produtos. Todas as respostas devem ser aprovadas por uma pessoa do squad."
+}

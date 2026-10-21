@@ -1,0 +1,5868 @@
+[
+  {
+    "id": "prod-0001",
+    "nome": "Hidratante Corporal Pele Seca Ureia 5% 400 ml",
+    "marca": "Dauf",
+    "categoria": "pele",
+    "subcategoria": "hidratante-corporal-seca",
+    "tamanho": "400 ml",
+    "preco": 21.9,
+    "nota": 4.4,
+    "num_avaliacoes": 410,
+    "imagem": "assets/produtos/prod-0001.png",
+    "estoque_simulado": true,
+    "descricao_curta": "Hidratante Corporal Pele Seca Ureia 5%: indicado para pele seca, inverno",
+    "faixa_etaria": "adulto",
+    "nivel_risco": "livre",
+    "marca_propria": true,
+    "origem_dado": "sintetico+linha-dauf-a-confirmar",
+    "data_coleta": "2026-10-20",
+    "indicado_para": [
+      "pele seca",
+      "inverno",
+      "pele que descasca",
+      "ressecamento"
+    ],
+    "tipo_pele": [
+      "seca",
+      "muito seca"
+    ],
+    "ingredientes_chave": [
+      "ureia",
+      "glicerina"
+    ],
+    "alertas": [],
+    "contraindicacoes": [
+      "Evitar em caso de alergia a algum componente da fórmula",
+      "Não aplicar em pele com lesões abertas"
+    ],
+    "equivalentes": [
+      "prod-0005",
+      "prod-0004",
+      "prod-0003"
+    ],
+    "texto_busca": "Hidratante Corporal Pele Seca Ureia 5% 400 ml Dauf Hidratante Corporal Pele Seca Ureia 5%: indicado para pele seca, inverno pele seca inverno pele que descasca ressecamento ureia glicerina seca muito seca"
+  },
+  {
+    "id": "prod-0002",
+    "nome": "Hidratante Corporal Pele Seca Ceramidas 400 ml",
+    "marca": "Aurora Derm",
+    "categoria": "pele",
+    "subcategoria": "hidratante-corporal-seca",
+    "tamanho": "400 ml",
+    "preco": 42.9,
+    "nota": 4.7,
+    "num_avaliacoes": 760,
+    "imagem": "assets/produtos/prod-0002.png",
+    "estoque_simulado": true,
+    "descricao_curta": "Hidratante Corporal Pele Seca Ceramidas: indicado para pele seca, inverno",
+    "faixa_etaria": "adulto",
+    "nivel_risco": "livre",
+    "marca_propria": false,
+    "origem_dado": "sintetico-marca-ficticia",
+    "data_coleta": "2026-10-20",
+    "indicado_para": [
+      "pele seca",
+      "inverno",
+      "pele que descasca",
+      "ressecamento",
+      "pele sensível"
+    ],
+    "tipo_pele": [
+      "seca",
+      "muito seca",
+      "sensível"
+    ],
+    "ingredientes_chave": [
+      "ceramidas",
+      "glicerina"
+    ],
+    "alertas": [],
+    "contraindicacoes": [
+      "Evitar em caso de alergia a algum componente da fórmula",
+      "Não aplicar em pele com lesões abertas"
+    ],
+    "equivalentes": [
+      "prod-0003",
+      "prod-0004",
+      "prod-0001"
+    ],
+    "texto_busca": "Hidratante Corporal Pele Seca Ceramidas 400 ml Aurora Derm Hidratante Corporal Pele Seca Ceramidas: indicado para pele seca, inverno pele seca inverno pele que descasca ressecamento pele sensível ceramidas glicerina seca muito seca sensível"
+  },
+  {
+    "id": "prod-0003",
+    "nome": "Hidratante Corporal Pele Seca Ureia 10% 200 ml",
+    "marca": "Vitalle",
+    "categoria": "pele",
+    "subcategoria": "hidratante-corporal-seca",
+    "tamanho": "200 ml",
+    "preco": 34.9,
+    "nota": 4.6,
+    "num_avaliacoes": 380,
+    "imagem": "assets/produtos/prod-0003.png",
+    "estoque_simulado": true,
+    "descricao_curta": "Hidratante Corporal Pele Seca Ureia 10%: indicado para pele seca, inverno",
+    "faixa_etaria": "adulto",
+    "nivel_risco": "livre",
+    "marca_propria": false,
+    "origem_dado": "sintetico-marca-ficticia",
+    "data_coleta": "2026-10-20",
+    "indicado_para": [
+      "pele seca",
+      "inverno",
+      "pele que descasca",
+      "ressecamento",
+      "pele muito seca"
+    ],
+    "tipo_pele": [
+      "seca",
+      "muito seca"
+    ],
+    "ingredientes_chave": [
+      "ureia"
+    ],
+    "alertas": [],
+    "contraindicacoes": [
+      "Evitar em caso de alergia a algum componente da fórmula",
+      "Não aplicar em pele com lesões abertas"
+    ],
+    "equivalentes": [
+      "prod-0004",
+      "prod-0002",
+      "prod-0001"
+    ],
+    "texto_busca": "Hidratante Corporal Pele Seca Ureia 10% 200 ml Vitalle Hidratante Corporal Pele Seca Ureia 10%: indicado para pele seca, inverno pele seca inverno pele que descasca ressecamento pele muito seca ureia seca muito seca"
+  },
+  {
+    "id": "prod-0004",
+    "nome": "Hidratante Corporal Pele Seca Karité e Aveia 400 ml",
+    "marca": "Naturalis",
+    "categoria": "pele",
+    "subcategoria": "hidratante-corporal-seca",
+    "tamanho": "400 ml",
+    "preco": 27.9,
+    "nota": 4.3,
+    "num_avaliacoes": 190,
+    "imagem": "assets/produtos/prod-0004.png",
+    "estoque_simulado": true,
+    "descricao_curta": "Hidratante Corporal Pele Seca Karité e Aveia: indicado para pele seca, inverno",
+    "faixa_etaria": "adulto",
+    "nivel_risco": "livre",
+    "marca_propria": false,
+    "origem_dado": "sintetico-marca-ficticia",
+    "data_coleta": "2026-10-20",
+    "indicado_para": [
+      "pele seca",
+      "inverno",
+      "pele que descasca",
+      "ressecamento"
+    ],
+    "tipo_pele": [
+      "seca",
+      "muito seca"
+    ],
+    "ingredientes_chave": [
+      "karité",
+      "aveia"
+    ],
+    "alertas": [],
+    "contraindicacoes": [
+      "Evitar em caso de alergia a algum componente da fórmula",
+      "Não aplicar em pele com lesões abertas"
+    ],
+    "equivalentes": [
+      "prod-0001",
+      "prod-0003",
+      "prod-0005"
+    ],
+    "texto_busca": "Hidratante Corporal Pele Seca Karité e Aveia 400 ml Naturalis Hidratante Corporal Pele Seca Karité e Aveia: indicado para pele seca, inverno pele seca inverno pele que descasca ressecamento karité aveia seca muito seca"
+  },
+  {
+    "id": "prod-0005",
+    "nome": "Hidratante Corporal Pele Seca Hidratação Intensa 500 ml",
+    "marca": "HidraMais",
+    "categoria": "pele",
+    "subcategoria": "hidratante-corporal-seca",
+    "tamanho": "500 ml",
+    "preco": 18.5,
+    "nota": 4.1,
+    "num_avaliacoes": 540,
+    "imagem": "assets/produtos/prod-0005.png",
+    "estoque_simulado": true,
+    "descricao_curta": "Hidratante Corporal Pele Seca Hidratação Intensa: indicado para pele seca, inverno",
+    "faixa_etaria": "adulto",
+    "nivel_risco": "livre",
+    "marca_propria": false,
+    "origem_dado": "sintetico-marca-ficticia",
+    "data_coleta": "2026-10-20",
+    "indicado_para": [
+      "pele seca",
+      "inverno",
+      "pele que descasca",
+      "ressecamento"
+    ],
+    "tipo_pele": [
+      "seca",
+      "muito seca"
+    ],
+    "ingredientes_chave": [
+      "glicerina",
+      "óleo de amêndoas"
+    ],
+    "alertas": [],
+    "contraindicacoes": [
+      "Evitar em caso de alergia a algum componente da fórmula",
+      "Não aplicar em pele com lesões abertas"
+    ],
+    "equivalentes": [
+      "prod-0001",
+      "prod-0004",
+      "prod-0003"
+    ],
+    "texto_busca": "Hidratante Corporal Pele Seca Hidratação Intensa 500 ml HidraMais Hidratante Corporal Pele Seca Hidratação Intensa: indicado para pele seca, inverno pele seca inverno pele que descasca ressecamento glicerina óleo de amêndoas seca muito seca"
+  },
+  {
+    "id": "prod-0006",
+    "nome": "Hidratante Corporal Uso Diário Vitamina E 400 ml",
+    "marca": "Dauf",
+    "categoria": "pele",
+    "subcategoria": "hidratante-corporal-diario",
+    "tamanho": "400 ml",
+    "preco": 15.9,
+    "nota": 4.3,
+    "num_avaliacoes": 620,
+    "imagem": "assets/produtos/prod-0006.png",
+    "estoque_simulado": true,
+    "descricao_curta": "Hidratante Corporal Uso Diário Vitamina E: indicado para hidratação diária, pele normal",
+    "faixa_etaria": "adulto",
+    "nivel_risco": "livre",
+    "marca_propria": true,
+    "origem_dado": "sintetico+linha-dauf-a-confirmar",
+    "data_coleta": "2026-10-20",
+    "indicado_para": [
+      "hidratação diária",
+      "pele normal",
+      "rotina de banho"
+    ],
+    "tipo_pele": [
+      "normal",
+      "mista",
+      "seca"
+    ],
+    "ingredientes_chave": [
+      "glicerina",
+      "vitamina E"
+    ],
+    "alertas": [],
+    "contraindicacoes": [
+      "Evitar em caso de alergia a algum componente da fórmula"
+    ],
+    "equivalentes": [
+      "prod-0007",
+      "prod-0008",
+      "prod-0009"
+    ],
+    "texto_busca": "Hidratante Corporal Uso Diário Vitamina E 400 ml Dauf Hidratante Corporal Uso Diário Vitamina E: indicado para hidratação diária, pele normal hidratação diária pele normal rotina de banho glicerina vitamina E normal mista seca"
+  },
+  {
+    "id": "prod-0007",
+    "nome": "Hidratante Corporal Uso Diário Aloe Vera 300 ml",
+    "marca": "Brisa",
+    "categoria": "pele",
+    "subcategoria": "hidratante-corporal-diario",
+    "tamanho": "300 ml",
+    "preco": 19.9,
+    "nota": 4.2,
+    "num_avaliacoes": 260,
+    "imagem": "assets/produtos/prod-0007.png",
+    "estoque_simulado": true,
+    "descricao_curta": "Hidratante Corporal Uso Diário Aloe Vera: indicado para hidratação diária, pele normal",
+    "faixa_etaria": "adulto",
+    "nivel_risco": "livre",
+    "marca_propria": false,
+    "origem_dado": "sintetico-marca-ficticia",
+    "data_coleta": "2026-10-20",
+    "indicado_para": [
+      "hidratação diária",
+      "pele normal",
+      "rotina de banho"
+    ],
+    "tipo_pele": [
+      "normal",
+      "mista",
+      "seca"
+    ],
+    "ingredientes_chave": [
+      "aloe vera",
+      "glicerina"
+    ],
+    "alertas": [],
+    "contraindicacoes": [
+      "Evitar em caso de alergia a algum componente da fórmula"
+    ],
+    "equivalentes": [
+      "prod-0006",
+      "prod-0008",
+      "prod-0009"
+    ],
+    "texto_busca": "Hidratante Corporal Uso Diário Aloe Vera 300 ml Brisa Hidratante Corporal Uso Diário Aloe Vera: indicado para hidratação diária, pele normal hidratação diária pele normal rotina de banho aloe vera glicerina normal mista seca"
+  },
+  {
+    "id": "prod-0008",
+    "nome": "Hidratante Corporal Uso Diário Absorção Rápida 400 ml",
+    "marca": "Lumina",
+    "categoria": "pele",
+    "subcategoria": "hidratante-corporal-diario",
+    "tamanho": "400 ml",
+    "preco": 24.9,
+    "nota": 4.5,
+    "num_avaliacoes": 330,
+    "imagem": "assets/produtos/prod-0008.png",
+    "estoque_simulado": true,
+    "descricao_curta": "Hidratante Corporal Uso Diário Absorção Rápida: indicado para hidratação diária, pele normal",
+    "faixa_etaria": "adulto",
+    "nivel_risco": "livre",
+    "marca_propria": false,
+    "origem_dado": "sintetico-marca-ficticia",
+    "data_coleta": "2026-10-20",
+    "indicado_para": [
+      "hidratação diária",
+      "pele normal",
+      "rotina de banho",
+      "toque seco",
+      "pele oleosa"
+    ],
+    "tipo_pele": [
+      "normal",
+      "mista",
+      "oleosa"
+    ],
+    "ingredientes_chave": [
+      "glicerina",
+      "pantenol"
+    ],
+    "alertas": [],
+    "contraindicacoes": [
+      "Evitar em caso de alergia a algum componente da fórmula"
+    ],
+    "equivalentes": [
+      "prod-0009",
+      "prod-0007",
+      "prod-0006"
+    ],
+    "texto_busca": "Hidratante Corporal Uso Diário Absorção Rápida 400 ml Lumina Hidratante Corporal Uso Diário Absorção Rápida: indicado para hidratação diária, pele normal hidratação diária pele normal rotina de banho toque seco pele oleosa glicerina pantenol normal mista oleosa"
+  },
+  {
+    "id": "prod-0009",
+    "nome": "Hidratante Corporal Uso Diário Manteiga de Cacau 400 ml",
+    "marca": "Naturalis",
+    "categoria": "pele",
+    "subcategoria": "hidratante-corporal-diario",
+    "tamanho": "400 ml",
+    "preco": 26.9,
+    "nota": 4.4,
+    "num_avaliacoes": 150,
+    "imagem": "assets/produtos/prod-0009.png",
+    "estoque_simulado": true,
+    "descricao_curta": "Hidratante Corporal Uso Diário Manteiga de Cacau: indicado para hidratação diária, pele normal",
+    "faixa_etaria": "adulto",
+    "nivel_risco": "livre",
+    "marca_propria": false,
+    "origem_dado": "sintetico-marca-ficticia",
+    "data_coleta": "2026-10-20",
+    "indicado_para": [
+      "hidratação diária",
+      "pele normal",
+      "rotina de banho"
+    ],
+    "tipo_pele": [
+      "normal",
+      "mista",
+      "seca"
+    ],
+    "ingredientes_chave": [
+      "manteiga de cacau"
+    ],
+    "alertas": [],
+    "contraindicacoes": [
+      "Evitar em caso de alergia a algum componente da fórmula"
+    ],
+    "equivalentes": [
+      "prod-0008",
+      "prod-0007",
+      "prod-0006"
+    ],
+    "texto_busca": "Hidratante Corporal Uso Diário Manteiga de Cacau 400 ml Naturalis Hidratante Corporal Uso Diário Manteiga de Cacau: indicado para hidratação diária, pele normal hidratação diária pele normal rotina de banho manteiga de cacau normal mista seca"
+  },
+  {
+    "id": "prod-0010",
+    "nome": "Hidratante Facial Gel-Creme Hidratante 50 g",
+    "marca": "Dauf",
+    "categoria": "pele",
+    "subcategoria": "hidratante-facial",
+    "tamanho": "50 g",
+    "preco": 19.9,
+    "nota": 4.2,
+    "num_avaliacoes": 310,
+    "imagem": "assets/produtos/prod-0010.png",
+    "estoque_simulado": true,
+    "descricao_curta": "Hidratante Facial Gel-Creme Hidratante: indicado para hidratação do rosto, rotina facial",
+    "faixa_etaria": "adulto",
+    "nivel_risco": "livre",
+    "marca_propria": true,
+    "origem_dado": "sintetico+linha-dauf-a-confirmar",
+    "data_coleta": "2026-10-20",
+    "indicado_para": [
+      "hidratação do rosto",
+      "rotina facial",
+      "pele seca"
+    ],
+    "tipo_pele": [
+      "normal",
+      "mista",
+      "oleosa"
+    ],
+    "ingredientes_chave": [
+      "glicerina",
+      "pantenol"
+    ],
+    "alertas": [
+      "Recomenda-se protetor solar durante o dia em rotinas faciais"
+    ],
+    "contraindicacoes": [
+      "Evitar em caso de alergia a algum componente da fórmula",
+      "Interromper o uso em caso de irritação"
+    ],
+    "equivalentes": [
+      "prod-0014",
+      "prod-0012",
+      "prod-0011"
+    ],
+    "texto_busca": "Hidratante Facial Gel-Creme Hidratante 50 g Dauf Hidratante Facial Gel-Creme Hidratante: indicado para hidratação do rosto, rotina facial hidratação do rosto rotina facial pele seca glicerina pantenol normal mista oleosa"
+  },
+  {
+    "id": "prod-0011",
+    "nome": "Hidratante Facial Ácido Hialurônico 50 g",
+    "marca": "Aurora Derm",
+    "categoria": "pele",
+    "subcategoria": "hidratante-facial",
+    "tamanho": "50 g",
+    "preco": 69.9,
+    "nota": 4.7,
+    "num_avaliacoes": 820,
+    "imagem": "assets/produtos/prod-0011.png",
+    "estoque_simulado": true,
+    "descricao_curta": "Hidratante Facial Ácido Hialurônico: indicado para hidratação do rosto, rotina facial",
+    "faixa_etaria": "adulto",
+    "nivel_risco": "livre",
+    "marca_propria": false,
+    "origem_dado": "sintetico-marca-ficticia",
+    "data_coleta": "2026-10-20",
+    "indicado_para": [
+      "hidratação do rosto",
+      "rotina facial",
+      "pele seca",
+      "pele desidratada"
+    ],
+    "tipo_pele": [
+      "seca",
+      "normal",
+      "mista"
+    ],
+    "ingredientes_chave": [
+      "ácido hialurônico",
+      "glicerina"
+    ],
+    "alertas": [
+      "Recomenda-se protetor solar durante o dia em rotinas faciais"
+    ],
+    "contraindicacoes": [
+      "Evitar em caso de alergia a algum componente da fórmula",
+      "Interromper o uso em caso de irritação"
+    ],
+    "equivalentes": [
+      "prod-0013",
+      "prod-0012",
+      "prod-0014"
+    ],
+    "texto_busca": "Hidratante Facial Ácido Hialurônico 50 g Aurora Derm Hidratante Facial Ácido Hialurônico: indicado para hidratação do rosto, rotina facial hidratação do rosto rotina facial pele seca pele desidratada ácido hialurônico glicerina seca normal mista"
+  },
+  {
+    "id": "prod-0012",
+    "nome": "Hidratante Facial Oil Free 50 g",
+    "marca": "ClearSkin",
+    "categoria": "pele",
+    "subcategoria": "hidratante-facial",
+    "tamanho": "50 g",
+    "preco": 44.9,
+    "nota": 4.5,
+    "num_avaliacoes": 540,
+    "imagem": "assets/produtos/prod-0012.png",
+    "estoque_simulado": true,
+    "descricao_curta": "Hidratante Facial Oil Free: indicado para hidratação do rosto, rotina facial",
+    "faixa_etaria": "adulto",
+    "nivel_risco": "livre",
+    "marca_propria": false,
+    "origem_dado": "sintetico-marca-ficticia",
+    "data_coleta": "2026-10-20",
+    "indicado_para": [
+      "hidratação do rosto",
+      "rotina facial",
+      "pele seca",
+      "pele oleosa",
+      "oil free"
+    ],
+    "tipo_pele": [
+      "oleosa",
+      "mista"
+    ],
+    "ingredientes_chave": [
+      "niacinamida",
+      "glicerina"
+    ],
+    "alertas": [
+      "Recomenda-se protetor solar durante o dia em rotinas faciais"
+    ],
+    "contraindicacoes": [
+      "Evitar em caso de alergia a algum componente da fórmula",
+      "Interromper o uso em caso de irritação"
+    ],
+    "equivalentes": [
+      "prod-0014",
+      "prod-0010",
+      "prod-0011"
+    ],
+    "texto_busca": "Hidratante Facial Oil Free 50 g ClearSkin Hidratante Facial Oil Free: indicado para hidratação do rosto, rotina facial hidratação do rosto rotina facial pele seca pele oleosa oil free niacinamida glicerina oleosa mista"
+  },
+  {
+    "id": "prod-0013",
+    "nome": "Hidratante Facial Ceramidas Pele Sensível 50 g",
+    "marca": "DermaVida",
+    "categoria": "pele",
+    "subcategoria": "hidratante-facial",
+    "tamanho": "50 g",
+    "preco": 74.9,
+    "nota": 4.8,
+    "num_avaliacoes": 410,
+    "imagem": "assets/produtos/prod-0013.png",
+    "estoque_simulado": true,
+    "descricao_curta": "Hidratante Facial Ceramidas Pele Sensível: indicado para hidratação do rosto, rotina facial",
+    "faixa_etaria": "adulto",
+    "nivel_risco": "livre",
+    "marca_propria": false,
+    "origem_dado": "sintetico-marca-ficticia",
+    "data_coleta": "2026-10-20",
+    "indicado_para": [
+      "hidratação do rosto",
+      "rotina facial",
+      "pele seca",
+      "pele sensível"
+    ],
+    "tipo_pele": [
+      "seca",
+      "sensível"
+    ],
+    "ingredientes_chave": [
+      "ceramidas",
+      "pantenol"
+    ],
+    "alertas": [
+      "Recomenda-se protetor solar durante o dia em rotinas faciais"
+    ],
+    "contraindicacoes": [
+      "Evitar em caso de alergia a algum componente da fórmula",
+      "Interromper o uso em caso de irritação"
+    ],
+    "equivalentes": [
+      "prod-0011",
+      "prod-0012",
+      "prod-0014"
+    ],
+    "texto_busca": "Hidratante Facial Ceramidas Pele Sensível 50 g DermaVida Hidratante Facial Ceramidas Pele Sensível: indicado para hidratação do rosto, rotina facial hidratação do rosto rotina facial pele seca pele sensível ceramidas pantenol seca sensível"
+  },
+  {
+    "id": "prod-0014",
+    "nome": "Hidratante Facial Creme Noturno 50 g",
+    "marca": "Lumina",
+    "categoria": "pele",
+    "subcategoria": "hidratante-facial",
+    "tamanho": "50 g",
+    "preco": 39.9,
+    "nota": 4.3,
+    "num_avaliacoes": 220,
+    "imagem": "assets/produtos/prod-0014.png",
+    "estoque_simulado": true,
+    "descricao_curta": "Hidratante Facial Creme Noturno: indicado para hidratação do rosto, rotina facial",
+    "faixa_etaria": "adulto",
+    "nivel_risco": "livre",
+    "marca_propria": false,
+    "origem_dado": "sintetico-marca-ficticia",
+    "data_coleta": "2026-10-20",
+    "indicado_para": [
+      "hidratação do rosto",
+      "rotina facial",
+      "pele seca",
+      "uso noturno"
+    ],
+    "tipo_pele": [
+      "seca",
+      "normal"
+    ],
+    "ingredientes_chave": [
+      "glicerina",
+      "vitamina E"
+    ],
+    "alertas": [
+      "Recomenda-se protetor solar durante o dia em rotinas faciais"
+    ],
+    "contraindicacoes": [
+      "Evitar em caso de alergia a algum componente da fórmula",
+      "Interromper o uso em caso de irritação"
+    ],
+    "equivalentes": [
+      "prod-0012",
+      "prod-0010",
+      "prod-0011"
+    ],
+    "texto_busca": "Hidratante Facial Creme Noturno 50 g Lumina Hidratante Facial Creme Noturno: indicado para hidratação do rosto, rotina facial hidratação do rosto rotina facial pele seca uso noturno glicerina vitamina E seca normal"
+  },
+  {
+    "id": "prod-0015",
+    "nome": "Protetor Solar Facial FPS 50 Oil Free 50 g",
+    "marca": "Dauf",
+    "categoria": "pele",
+    "subcategoria": "protetor-solar-facial",
+    "tamanho": "50 g",
+    "preco": 29.9,
+    "nota": 4.5,
+    "num_avaliacoes": 820,
+    "imagem": "assets/produtos/prod-0015.png",
+    "estoque_simulado": true,
+    "descricao_curta": "Protetor Solar Facial FPS 50 Oil Free: indicado para proteção solar, uso diário",
+    "faixa_etaria": "adulto",
+    "nivel_risco": "livre",
+    "marca_propria": true,
+    "origem_dado": "sintetico+linha-dauf-confirmada",
+    "data_coleta": "2026-10-20",
+    "indicado_para": [
+      "proteção solar",
+      "uso diário",
+      "rosto",
+      "oil free",
+      "pele oleosa"
+    ],
+    "tipo_pele": [
+      "oleosa",
+      "mista",
+      "normal"
+    ],
+    "ingredientes_chave": [
+      "filtros UVA/UVB"
+    ],
+    "alertas": [
+      "Reaplicar conforme orientação da embalagem",
+      "Protetor solar não dispensa outras medidas de proteção contra o sol"
+    ],
+    "contraindicacoes": [
+      "Interromper o uso em caso de irritação"
+    ],
+    "equivalentes": [
+      "prod-0016",
+      "prod-0018",
+      "prod-0019"
+    ],
+    "texto_busca": "Protetor Solar Facial FPS 50 Oil Free 50 g Dauf Protetor Solar Facial FPS 50 Oil Free: indicado para proteção solar, uso diário proteção solar uso diário rosto oil free pele oleosa filtros UVA/UVB oleosa mista normal"
+  },
+  {
+    "id": "prod-0016",
+    "nome": "Protetor Solar Facial FPS 30 Hidratante 50 g",
+    "marca": "Dauf",
+    "categoria": "pele",
+    "subcategoria": "protetor-solar-facial",
+    "tamanho": "50 g",
+    "preco": 24.9,
+    "nota": 4.3,
+    "num_avaliacoes": 450,
+    "imagem": "assets/produtos/prod-0016.png",
+    "estoque_simulado": true,
+    "descricao_curta": "Protetor Solar Facial FPS 30 Hidratante: indicado para proteção solar, uso diário",
+    "faixa_etaria": "adulto",
+    "nivel_risco": "livre",
+    "marca_propria": true,
+    "origem_dado": "sintetico+linha-dauf-confirmada",
+    "data_coleta": "2026-10-20",
+    "indicado_para": [
+      "proteção solar",
+      "uso diário",
+      "rosto",
+      "pele seca",
+      "hidratante"
+    ],
+    "tipo_pele": [
+      "seca",
+      "normal"
+    ],
+    "ingredientes_chave": [
+      "filtros UVA/UVB",
+      "glicerina"
+    ],
+    "alertas": [
+      "Reaplicar conforme orientação da embalagem",
+      "Protetor solar não dispensa outras medidas de proteção contra o sol"
+    ],
+    "contraindicacoes": [
+      "Interromper o uso em caso de irritação"
+    ],
+    "equivalentes": [
+      "prod-0015",
+      "prod-0018",
+      "prod-0019"
+    ],
+    "texto_busca": "Protetor Solar Facial FPS 30 Hidratante 50 g Dauf Protetor Solar Facial FPS 30 Hidratante: indicado para proteção solar, uso diário proteção solar uso diário rosto pele seca hidratante filtros UVA/UVB glicerina seca normal"
+  },
+  {
+    "id": "prod-0017",
+    "nome": "Protetor Solar Facial FPS 60 Toque Seco 50 g",
+    "marca": "Aurora Derm",
+    "categoria": "pele",
+    "subcategoria": "protetor-solar-facial",
+    "tamanho": "50 g",
+    "preco": 79.9,
+    "nota": 4.8,
+    "num_avaliacoes": 900,
+    "imagem": "assets/produtos/prod-0017.png",
+    "estoque_simulado": true,
+    "descricao_curta": "Protetor Solar Facial FPS 60 Toque Seco: indicado para proteção solar, uso diário",
+    "faixa_etaria": "adulto",
+    "nivel_risco": "livre",
+    "marca_propria": false,
+    "origem_dado": "sintetico-marca-ficticia",
+    "data_coleta": "2026-10-20",
+    "indicado_para": [
+      "proteção solar",
+      "uso diário",
+      "rosto",
+      "toque seco",
+      "pele mista"
+    ],
+    "tipo_pele": [
+      "mista",
+      "oleosa",
+      "normal"
+    ],
+    "ingredientes_chave": [
+      "filtros UVA/UVB"
+    ],
+    "alertas": [
+      "Reaplicar conforme orientação da embalagem",
+      "Protetor solar não dispensa outras medidas de proteção contra o sol"
+    ],
+    "contraindicacoes": [
+      "Interromper o uso em caso de irritação"
+    ],
+    "equivalentes": [
+      "prod-0020",
+      "prod-0019",
+      "prod-0018"
+    ],
+    "texto_busca": "Protetor Solar Facial FPS 60 Toque Seco 50 g Aurora Derm Protetor Solar Facial FPS 60 Toque Seco: indicado para proteção solar, uso diário proteção solar uso diário rosto toque seco pele mista filtros UVA/UVB mista oleosa normal"
+  },
+  {
+    "id": "prod-0018",
+    "nome": "Protetor Solar Facial FPS 50 Pele Oleosa 40 g",
+    "marca": "ClearSkin",
+    "categoria": "pele",
+    "subcategoria": "protetor-solar-facial",
+    "tamanho": "40 g",
+    "preco": 54.9,
+    "nota": 4.5,
+    "num_avaliacoes": 600,
+    "imagem": "assets/produtos/prod-0018.png",
+    "estoque_simulado": true,
+    "descricao_curta": "Protetor Solar Facial FPS 50 Pele Oleosa: indicado para proteção solar, uso diário",
+    "faixa_etaria": "adulto",
+    "nivel_risco": "livre",
+    "marca_propria": false,
+    "origem_dado": "sintetico-marca-ficticia",
+    "data_coleta": "2026-10-20",
+    "indicado_para": [
+      "proteção solar",
+      "uso diário",
+      "rosto",
+      "pele oleosa"
+    ],
+    "tipo_pele": [
+      "oleosa"
+    ],
+    "ingredientes_chave": [
+      "filtros UVA/UVB",
+      "niacinamida"
+    ],
+    "alertas": [
+      "Reaplicar conforme orientação da embalagem",
+      "Protetor solar não dispensa outras medidas de proteção contra o sol"
+    ],
+    "contraindicacoes": [
+      "Interromper o uso em caso de irritação"
+    ],
+    "equivalentes": [
+      "prod-0019",
+      "prod-0015",
+      "prod-0017"
+    ],
+    "texto_busca": "Protetor Solar Facial FPS 50 Pele Oleosa 40 g ClearSkin Protetor Solar Facial FPS 50 Pele Oleosa: indicado para proteção solar, uso diário proteção solar uso diário rosto pele oleosa filtros UVA/UVB niacinamida oleosa"
+  },
+  {
+    "id": "prod-0019",
+    "nome": "Protetor Solar Facial FPS 70 Antioxidante 50 g",
+    "marca": "Solare",
+    "categoria": "pele",
+    "subcategoria": "protetor-solar-facial",
+    "tamanho": "50 g",
+    "preco": 64.9,
+    "nota": 4.6,
+    "num_avaliacoes": 330,
+    "imagem": "assets/produtos/prod-0019.png",
+    "estoque_simulado": true,
+    "descricao_curta": "Protetor Solar Facial FPS 70 Antioxidante: indicado para proteção solar, uso diário",
+    "faixa_etaria": "adulto",
+    "nivel_risco": "livre",
+    "marca_propria": false,
+    "origem_dado": "sintetico-marca-ficticia",
+    "data_coleta": "2026-10-20",
+    "indicado_para": [
+      "proteção solar",
+      "uso diário",
+      "rosto",
+      "antioxidante"
+    ],
+    "tipo_pele": [
+      "normal",
+      "mista"
+    ],
+    "ingredientes_chave": [
+      "filtros UVA/UVB",
+      "vitamina C"
+    ],
+    "alertas": [
+      "Reaplicar conforme orientação da embalagem",
+      "Protetor solar não dispensa outras medidas de proteção contra o sol"
+    ],
+    "contraindicacoes": [
+      "Interromper o uso em caso de irritação"
+    ],
+    "equivalentes": [
+      "prod-0018",
+      "prod-0017",
+      "prod-0020"
+    ],
+    "texto_busca": "Protetor Solar Facial FPS 70 Antioxidante 50 g Solare Protetor Solar Facial FPS 70 Antioxidante: indicado para proteção solar, uso diário proteção solar uso diário rosto antioxidante filtros UVA/UVB vitamina C normal mista"
+  },
+  {
+    "id": "prod-0020",
+    "nome": "Protetor Solar Facial FPS 50 Pele Sensível 50 g",
+    "marca": "DermaVida",
+    "categoria": "pele",
+    "subcategoria": "protetor-solar-facial",
+    "tamanho": "50 g",
+    "preco": 89.9,
+    "nota": 4.7,
+    "num_avaliacoes": 480,
+    "imagem": "assets/produtos/prod-0020.png",
+    "estoque_simulado": true,
+    "descricao_curta": "Protetor Solar Facial FPS 50 Pele Sensível: indicado para proteção solar, uso diário",
+    "faixa_etaria": "adulto",
+    "nivel_risco": "livre",
+    "marca_propria": false,
+    "origem_dado": "sintetico-marca-ficticia",
+    "data_coleta": "2026-10-20",
+    "indicado_para": [
+      "proteção solar",
+      "uso diário",
+      "rosto",
+      "pele sensível"
+    ],
+    "tipo_pele": [
+      "sensível",
+      "seca"
+    ],
+    "ingredientes_chave": [
+      "filtros UVA/UVB",
+      "pantenol"
+    ],
+    "alertas": [
+      "Reaplicar conforme orientação da embalagem",
+      "Protetor solar não dispensa outras medidas de proteção contra o sol"
+    ],
+    "contraindicacoes": [
+      "Interromper o uso em caso de irritação"
+    ],
+    "equivalentes": [
+      "prod-0017",
+      "prod-0019",
+      "prod-0018"
+    ],
+    "texto_busca": "Protetor Solar Facial FPS 50 Pele Sensível 50 g DermaVida Protetor Solar Facial FPS 50 Pele Sensível: indicado para proteção solar, uso diário proteção solar uso diário rosto pele sensível filtros UVA/UVB pantenol sensível seca"
+  },
+  {
+    "id": "prod-0021",
+    "nome": "Protetor Solar Corporal FPS 30 Hidratante 200 ml",
+    "marca": "Dauf",
+    "categoria": "pele",
+    "subcategoria": "protetor-solar-corporal",
+    "tamanho": "200 ml",
+    "preco": 28.9,
+    "nota": 4.4,
+    "num_avaliacoes": 740,
+    "imagem": "assets/produtos/prod-0021.png",
+    "estoque_simulado": true,
+    "descricao_curta": "Protetor Solar Corporal FPS 30 Hidratante: indicado para proteção solar, praia",
+    "faixa_etaria": "adulto",
+    "nivel_risco": "livre",
+    "marca_propria": true,
+    "origem_dado": "sintetico+linha-dauf-confirmada",
+    "data_coleta": "2026-10-20",
+    "indicado_para": [
+      "proteção solar",
+      "praia",
+      "piscina",
+      "corpo",
+      "hidratante"
+    ],
+    "tipo_pele": [
+      "todos"
+    ],
+    "ingredientes_chave": [
+      "filtros UVA/UVB",
+      "glicerina"
+    ],
+    "alertas": [
+      "Reaplicar conforme orientação da embalagem",
+      "Protetor solar não dispensa outras medidas de proteção contra o sol"
+    ],
+    "contraindicacoes": [
+      "Interromper o uso em caso de irritação"
+    ],
+    "equivalentes": [
+      "prod-0022",
+      "prod-0025",
+      "prod-0023"
+    ],
+    "texto_busca": "Protetor Solar Corporal FPS 30 Hidratante 200 ml Dauf Protetor Solar Corporal FPS 30 Hidratante: indicado para proteção solar, praia proteção solar praia piscina corpo hidratante filtros UVA/UVB glicerina todos"
+  },
+  {
+    "id": "prod-0022",
+    "nome": "Protetor Solar Corporal FPS 50 Oil Free 200 ml",
+    "marca": "Dauf",
+    "categoria": "pele",
+    "subcategoria": "protetor-solar-corporal",
+    "tamanho": "200 ml",
+    "preco": 33.9,
+    "nota": 4.5,
+    "num_avaliacoes": 650,
+    "imagem": "assets/produtos/prod-0022.png",
+    "estoque_simulado": true,
+    "descricao_curta": "Protetor Solar Corporal FPS 50 Oil Free: indicado para proteção solar, praia",
+    "faixa_etaria": "adulto",
+    "nivel_risco": "livre",
+    "marca_propria": true,
+    "origem_dado": "sintetico+linha-dauf-confirmada",
+    "data_coleta": "2026-10-20",
+    "indicado_para": [
+      "proteção solar",
+      "praia",
+      "piscina",
+      "corpo",
+      "oil free"
+    ],
+    "tipo_pele": [
+      "todos"
+    ],
+    "ingredientes_chave": [
+      "filtros UVA/UVB"
+    ],
+    "alertas": [
+      "Reaplicar conforme orientação da embalagem",
+      "Protetor solar não dispensa outras medidas de proteção contra o sol"
+    ],
+    "contraindicacoes": [
+      "Interromper o uso em caso de irritação"
+    ],
+    "equivalentes": [
+      "prod-0021",
+      "prod-0025",
+      "prod-0023"
+    ],
+    "texto_busca": "Protetor Solar Corporal FPS 50 Oil Free 200 ml Dauf Protetor Solar Corporal FPS 50 Oil Free: indicado para proteção solar, praia proteção solar praia piscina corpo oil free filtros UVA/UVB todos"
+  },
+  {
+    "id": "prod-0023",
+    "nome": "Protetor Solar Corporal FPS 50 200 ml",
+    "marca": "Solare",
+    "categoria": "pele",
+    "subcategoria": "protetor-solar-corporal",
+    "tamanho": "200 ml",
+    "preco": 49.9,
+    "nota": 4.6,
+    "num_avaliacoes": 380,
+    "imagem": "assets/produtos/prod-0023.png",
+    "estoque_simulado": false,
+    "descricao_curta": "Protetor Solar Corporal FPS 50: indicado para proteção solar, praia",
+    "faixa_etaria": "adulto",
+    "nivel_risco": "livre",
+    "marca_propria": false,
+    "origem_dado": "sintetico-marca-ficticia",
+    "data_coleta": "2026-10-20",
+    "indicado_para": [
+      "proteção solar",
+      "praia",
+      "piscina",
+      "corpo"
+    ],
+    "tipo_pele": [
+      "todos"
+    ],
+    "ingredientes_chave": [
+      "filtros UVA/UVB"
+    ],
+    "alertas": [
+      "Reaplicar conforme orientação da embalagem",
+      "Protetor solar não dispensa outras medidas de proteção contra o sol"
+    ],
+    "contraindicacoes": [
+      "Interromper o uso em caso de irritação"
+    ],
+    "equivalentes": [
+      "prod-0024",
+      "prod-0025",
+      "prod-0022"
+    ],
+    "texto_busca": "Protetor Solar Corporal FPS 50 200 ml Solare Protetor Solar Corporal FPS 50: indicado para proteção solar, praia proteção solar praia piscina corpo filtros UVA/UVB todos"
+  },
+  {
+    "id": "prod-0024",
+    "nome": "Protetor Solar Corporal FPS 60 Resistente à Água 120 ml",
+    "marca": "Brisa",
+    "categoria": "pele",
+    "subcategoria": "protetor-solar-corporal",
+    "tamanho": "120 ml",
+    "preco": 52.9,
+    "nota": 4.5,
+    "num_avaliacoes": 270,
+    "imagem": "assets/produtos/prod-0024.png",
+    "estoque_simulado": true,
+    "descricao_curta": "Protetor Solar Corporal FPS 60 Resistente à Água: indicado para proteção solar, praia",
+    "faixa_etaria": "adulto",
+    "nivel_risco": "livre",
+    "marca_propria": false,
+    "origem_dado": "sintetico-marca-ficticia",
+    "data_coleta": "2026-10-20",
+    "indicado_para": [
+      "proteção solar",
+      "praia",
+      "piscina",
+      "corpo",
+      "resistente à água"
+    ],
+    "tipo_pele": [
+      "todos"
+    ],
+    "ingredientes_chave": [
+      "filtros UVA/UVB"
+    ],
+    "alertas": [
+      "Reaplicar conforme orientação da embalagem",
+      "Protetor solar não dispensa outras medidas de proteção contra o sol"
+    ],
+    "contraindicacoes": [
+      "Interromper o uso em caso de irritação"
+    ],
+    "equivalentes": [
+      "prod-0023",
+      "prod-0025",
+      "prod-0022"
+    ],
+    "texto_busca": "Protetor Solar Corporal FPS 60 Resistente à Água 120 ml Brisa Protetor Solar Corporal FPS 60 Resistente à Água: indicado para proteção solar, praia proteção solar praia piscina corpo resistente à água filtros UVA/UVB todos"
+  },
+  {
+    "id": "prod-0025",
+    "nome": "Protetor Solar Corporal FPS 30 200 ml",
+    "marca": "Vitalle",
+    "categoria": "pele",
+    "subcategoria": "protetor-solar-corporal",
+    "tamanho": "200 ml",
+    "preco": 38.9,
+    "nota": 4.2,
+    "num_avaliacoes": 210,
+    "imagem": "assets/produtos/prod-0025.png",
+    "estoque_simulado": true,
+    "descricao_curta": "Protetor Solar Corporal FPS 30: indicado para proteção solar, praia",
+    "faixa_etaria": "adulto",
+    "nivel_risco": "livre",
+    "marca_propria": false,
+    "origem_dado": "sintetico-marca-ficticia",
+    "data_coleta": "2026-10-20",
+    "indicado_para": [
+      "proteção solar",
+      "praia",
+      "piscina",
+      "corpo"
+    ],
+    "tipo_pele": [
+      "todos"
+    ],
+    "ingredientes_chave": [
+      "filtros UVA/UVB",
+      "vitamina E"
+    ],
+    "alertas": [
+      "Reaplicar conforme orientação da embalagem",
+      "Protetor solar não dispensa outras medidas de proteção contra o sol"
+    ],
+    "contraindicacoes": [
+      "Interromper o uso em caso de irritação"
+    ],
+    "equivalentes": [
+      "prod-0022",
+      "prod-0021",
+      "prod-0023"
+    ],
+    "texto_busca": "Protetor Solar Corporal FPS 30 200 ml Vitalle Protetor Solar Corporal FPS 30: indicado para proteção solar, praia proteção solar praia piscina corpo filtros UVA/UVB vitamina E todos"
+  },
+  {
+    "id": "prod-0026",
+    "nome": "Sabonete Facial Pele Normal 150 ml",
+    "marca": "Dauf",
+    "categoria": "pele",
+    "subcategoria": "limpeza-facial",
+    "tamanho": "150 ml",
+    "preco": 14.9,
+    "nota": 4.3,
+    "num_avaliacoes": 350,
+    "imagem": "assets/produtos/prod-0026.png",
+    "estoque_simulado": true,
+    "descricao_curta": "Sabonete Facial Pele Normal: indicado para limpeza do rosto, rotina facial",
+    "faixa_etaria": "adulto",
+    "nivel_risco": "livre",
+    "marca_propria": true,
+    "origem_dado": "sintetico+linha-dauf-confirmada",
+    "data_coleta": "2026-10-20",
+    "indicado_para": [
+      "limpeza do rosto",
+      "rotina facial",
+      "pele normal"
+    ],
+    "tipo_pele": [
+      "normal",
+      "seca"
+    ],
+    "ingredientes_chave": [
+      "glicerina"
+    ],
+    "alertas": [
+      "Recomenda-se protetor solar durante o dia em rotinas faciais"
+    ],
+    "contraindicacoes": [
+      "Interromper o uso em caso de irritação",
+      "Evitar contato com os olhos"
+    ],
+    "equivalentes": [
+      "prod-0027",
+      "prod-0030",
+      "prod-0028"
+    ],
+    "texto_busca": "Sabonete Facial Pele Normal 150 ml Dauf Sabonete Facial Pele Normal: indicado para limpeza do rosto, rotina facial limpeza do rosto rotina facial pele normal glicerina normal seca"
+  },
+  {
+    "id": "prod-0027",
+    "nome": "Sabonete Facial Pele Oleosa 150 ml",
+    "marca": "Dauf",
+    "categoria": "pele",
+    "subcategoria": "limpeza-facial",
+    "tamanho": "150 ml",
+    "preco": 15.9,
+    "nota": 4.4,
+    "num_avaliacoes": 420,
+    "imagem": "assets/produtos/prod-0027.png",
+    "estoque_simulado": true,
+    "descricao_curta": "Sabonete Facial Pele Oleosa: indicado para limpeza do rosto, rotina facial",
+    "faixa_etaria": "adulto",
+    "nivel_risco": "livre",
+    "marca_propria": true,
+    "origem_dado": "sintetico+linha-dauf-confirmada",
+    "data_coleta": "2026-10-20",
+    "indicado_para": [
+      "limpeza do rosto",
+      "rotina facial",
+      "pele oleosa",
+      "pele com tendência a acne"
+    ],
+    "tipo_pele": [
+      "oleosa",
+      "mista"
+    ],
+    "ingredientes_chave": [
+      "chá verde",
+      "glicerina"
+    ],
+    "alertas": [
+      "Recomenda-se protetor solar durante o dia em rotinas faciais"
+    ],
+    "contraindicacoes": [
+      "Interromper o uso em caso de irritação",
+      "Evitar contato com os olhos"
+    ],
+    "equivalentes": [
+      "prod-0026",
+      "prod-0030",
+      "prod-0028"
+    ],
+    "texto_busca": "Sabonete Facial Pele Oleosa 150 ml Dauf Sabonete Facial Pele Oleosa: indicado para limpeza do rosto, rotina facial limpeza do rosto rotina facial pele oleosa pele com tendência a acne chá verde glicerina oleosa mista"
+  },
+  {
+    "id": "prod-0028",
+    "nome": "Gel de Limpeza Facial Oil Free 150 g",
+    "marca": "ClearSkin",
+    "categoria": "pele",
+    "subcategoria": "limpeza-facial",
+    "tamanho": "150 g",
+    "preco": 39.9,
+    "nota": 4.6,
+    "num_avaliacoes": 610,
+    "imagem": "assets/produtos/prod-0028.png",
+    "estoque_simulado": true,
+    "descricao_curta": "Gel de Limpeza Facial Oil Free: indicado para limpeza do rosto, rotina facial",
+    "faixa_etaria": "adulto",
+    "nivel_risco": "livre",
+    "marca_propria": false,
+    "origem_dado": "sintetico-marca-ficticia",
+    "data_coleta": "2026-10-20",
+    "indicado_para": [
+      "limpeza do rosto",
+      "rotina facial",
+      "pele oleosa"
+    ],
+    "tipo_pele": [
+      "oleosa",
+      "mista"
+    ],
+    "ingredientes_chave": [
+      "niacinamida"
+    ],
+    "alertas": [
+      "Recomenda-se protetor solar durante o dia em rotinas faciais"
+    ],
+    "contraindicacoes": [
+      "Interromper o uso em caso de irritação",
+      "Evitar contato com os olhos"
+    ],
+    "equivalentes": [
+      "prod-0030",
+      "prod-0029",
+      "prod-0027"
+    ],
+    "texto_busca": "Gel de Limpeza Facial Oil Free 150 g ClearSkin Gel de Limpeza Facial Oil Free: indicado para limpeza do rosto, rotina facial limpeza do rosto rotina facial pele oleosa niacinamida oleosa mista"
+  },
+  {
+    "id": "prod-0029",
+    "nome": "Gel de Limpeza Facial Suave 200 ml",
+    "marca": "Aurora Derm",
+    "categoria": "pele",
+    "subcategoria": "limpeza-facial",
+    "tamanho": "200 ml",
+    "preco": 58.9,
+    "nota": 4.7,
+    "num_avaliacoes": 480,
+    "imagem": "assets/produtos/prod-0029.png",
+    "estoque_simulado": true,
+    "descricao_curta": "Gel de Limpeza Facial Suave: indicado para limpeza do rosto, rotina facial",
+    "faixa_etaria": "adulto",
+    "nivel_risco": "livre",
+    "marca_propria": false,
+    "origem_dado": "sintetico-marca-ficticia",
+    "data_coleta": "2026-10-20",
+    "indicado_para": [
+      "limpeza do rosto",
+      "rotina facial",
+      "pele sensível"
+    ],
+    "tipo_pele": [
+      "sensível",
+      "seca"
+    ],
+    "ingredientes_chave": [
+      "pantenol"
+    ],
+    "alertas": [
+      "Recomenda-se protetor solar durante o dia em rotinas faciais"
+    ],
+    "contraindicacoes": [
+      "Interromper o uso em caso de irritação",
+      "Evitar contato com os olhos"
+    ],
+    "equivalentes": [
+      "prod-0028",
+      "prod-0030",
+      "prod-0027"
+    ],
+    "texto_busca": "Gel de Limpeza Facial Suave 200 ml Aurora Derm Gel de Limpeza Facial Suave: indicado para limpeza do rosto, rotina facial limpeza do rosto rotina facial pele sensível pantenol sensível seca"
+  },
+  {
+    "id": "prod-0030",
+    "nome": "Sabonete Facial Esfoliante 100 g",
+    "marca": "Vitalle",
+    "categoria": "pele",
+    "subcategoria": "limpeza-facial",
+    "tamanho": "100 g",
+    "preco": 22.9,
+    "nota": 4.0,
+    "num_avaliacoes": 140,
+    "imagem": "assets/produtos/prod-0030.png",
+    "estoque_simulado": true,
+    "descricao_curta": "Sabonete Facial Esfoliante: indicado para limpeza do rosto, rotina facial",
+    "faixa_etaria": "adulto",
+    "nivel_risco": "livre",
+    "marca_propria": false,
+    "origem_dado": "sintetico-marca-ficticia",
+    "data_coleta": "2026-10-20",
+    "indicado_para": [
+      "limpeza do rosto",
+      "rotina facial",
+      "esfoliação suave"
+    ],
+    "tipo_pele": [
+      "normal",
+      "mista"
+    ],
+    "ingredientes_chave": [
+      "esfoliante suave"
+    ],
+    "alertas": [
+      "Recomenda-se protetor solar durante o dia em rotinas faciais"
+    ],
+    "contraindicacoes": [
+      "Interromper o uso em caso de irritação",
+      "Evitar contato com os olhos"
+    ],
+    "equivalentes": [
+      "prod-0027",
+      "prod-0026",
+      "prod-0028"
+    ],
+    "texto_busca": "Sabonete Facial Esfoliante 100 g Vitalle Sabonete Facial Esfoliante: indicado para limpeza do rosto, rotina facial limpeza do rosto rotina facial esfoliação suave esfoliante suave normal mista"
+  },
+  {
+    "id": "prod-0031",
+    "nome": "Água Micelar 200 ml",
+    "marca": "Dauf",
+    "categoria": "pele",
+    "subcategoria": "demaquilante",
+    "tamanho": "200 ml",
+    "preco": 19.9,
+    "nota": 4.4,
+    "num_avaliacoes": 520,
+    "imagem": "assets/produtos/prod-0031.png",
+    "estoque_simulado": true,
+    "descricao_curta": "Água Micelar: indicado para remover maquiagem, limpeza do rosto",
+    "faixa_etaria": "adulto",
+    "nivel_risco": "livre",
+    "marca_propria": true,
+    "origem_dado": "sintetico+linha-dauf-confirmada",
+    "data_coleta": "2026-10-20",
+    "indicado_para": [
+      "remover maquiagem",
+      "limpeza do rosto",
+      "água micelar"
+    ],
+    "tipo_pele": [
+      "todos"
+    ],
+    "ingredientes_chave": [
+      "água micelar"
+    ],
+    "alertas": [],
+    "contraindicacoes": [
+      "Interromper o uso em caso de irritação",
+      "Evitar contato com os olhos"
+    ],
+    "equivalentes": [
+      "prod-0032",
+      "prod-0035",
+      "prod-0033"
+    ],
+    "texto_busca": "Água Micelar 200 ml Dauf Água Micelar: indicado para remover maquiagem, limpeza do rosto remover maquiagem limpeza do rosto água micelar água micelar todos"
+  },
+  {
+    "id": "prod-0032",
+    "nome": "Demaquilante Bifásico 100 ml",
+    "marca": "Dauf",
+    "categoria": "pele",
+    "subcategoria": "demaquilante",
+    "tamanho": "100 ml",
+    "preco": 17.9,
+    "nota": 4.2,
+    "num_avaliacoes": 290,
+    "imagem": "assets/produtos/prod-0032.png",
+    "estoque_simulado": true,
+    "descricao_curta": "Demaquilante Bifásico: indicado para remover maquiagem, limpeza do rosto",
+    "faixa_etaria": "adulto",
+    "nivel_risco": "livre",
+    "marca_propria": true,
+    "origem_dado": "sintetico+linha-dauf-confirmada",
+    "data_coleta": "2026-10-20",
+    "indicado_para": [
+      "remover maquiagem",
+      "limpeza do rosto",
+      "água micelar",
+      "maquiagem à prova d'água"
+    ],
+    "tipo_pele": [
+      "todos"
+    ],
+    "ingredientes_chave": [
+      "óleo vegetal",
+      "água micelar"
+    ],
+    "alertas": [],
+    "contraindicacoes": [
+      "Interromper o uso em caso de irritação",
+      "Evitar contato com os olhos"
+    ],
+    "equivalentes": [
+      "prod-0031",
+      "prod-0035",
+      "prod-0033"
+    ],
+    "texto_busca": "Demaquilante Bifásico 100 ml Dauf Demaquilante Bifásico: indicado para remover maquiagem, limpeza do rosto remover maquiagem limpeza do rosto água micelar maquiagem à prova d'água óleo vegetal água micelar todos"
+  },
+  {
+    "id": "prod-0033",
+    "nome": "Água Micelar 400 ml",
+    "marca": "Lumina",
+    "categoria": "pele",
+    "subcategoria": "demaquilante",
+    "tamanho": "400 ml",
+    "preco": 34.9,
+    "nota": 4.5,
+    "num_avaliacoes": 440,
+    "imagem": "assets/produtos/prod-0033.png",
+    "estoque_simulado": true,
+    "descricao_curta": "Água Micelar: indicado para remover maquiagem, limpeza do rosto",
+    "faixa_etaria": "adulto",
+    "nivel_risco": "livre",
+    "marca_propria": false,
+    "origem_dado": "sintetico-marca-ficticia",
+    "data_coleta": "2026-10-20",
+    "indicado_para": [
+      "remover maquiagem",
+      "limpeza do rosto",
+      "água micelar"
+    ],
+    "tipo_pele": [
+      "todos"
+    ],
+    "ingredientes_chave": [
+      "água micelar"
+    ],
+    "alertas": [],
+    "contraindicacoes": [
+      "Interromper o uso em caso de irritação",
+      "Evitar contato com os olhos"
+    ],
+    "equivalentes": [
+      "prod-0035",
+      "prod-0031",
+      "prod-0034"
+    ],
+    "texto_busca": "Água Micelar 400 ml Lumina Água Micelar: indicado para remover maquiagem, limpeza do rosto remover maquiagem limpeza do rosto água micelar água micelar todos"
+  },
+  {
+    "id": "prod-0034",
+    "nome": "Água Micelar Pele Sensível 200 ml",
+    "marca": "Aurora Derm",
+    "categoria": "pele",
+    "subcategoria": "demaquilante",
+    "tamanho": "200 ml",
+    "preco": 49.9,
+    "nota": 4.7,
+    "num_avaliacoes": 390,
+    "imagem": "assets/produtos/prod-0034.png",
+    "estoque_simulado": true,
+    "descricao_curta": "Água Micelar Pele Sensível: indicado para remover maquiagem, limpeza do rosto",
+    "faixa_etaria": "adulto",
+    "nivel_risco": "livre",
+    "marca_propria": false,
+    "origem_dado": "sintetico-marca-ficticia",
+    "data_coleta": "2026-10-20",
+    "indicado_para": [
+      "remover maquiagem",
+      "limpeza do rosto",
+      "água micelar",
+      "pele sensível"
+    ],
+    "tipo_pele": [
+      "sensível",
+      "seca"
+    ],
+    "ingredientes_chave": [
+      "água micelar"
+    ],
+    "alertas": [],
+    "contraindicacoes": [
+      "Interromper o uso em caso de irritação",
+      "Evitar contato com os olhos"
+    ],
+    "equivalentes": [
+      "prod-0033",
+      "prod-0035",
+      "prod-0031"
+    ],
+    "texto_busca": "Água Micelar Pele Sensível 200 ml Aurora Derm Água Micelar Pele Sensível: indicado para remover maquiagem, limpeza do rosto remover maquiagem limpeza do rosto água micelar pele sensível água micelar sensível seca"
+  },
+  {
+    "id": "prod-0035",
+    "nome": "Lenços Demaquilantes 25 un",
+    "marca": "Brisa",
+    "categoria": "pele",
+    "subcategoria": "demaquilante",
+    "tamanho": "25 un",
+    "preco": 21.9,
+    "nota": 4.1,
+    "num_avaliacoes": 230,
+    "imagem": "assets/produtos/prod-0035.png",
+    "estoque_simulado": true,
+    "descricao_curta": "Lenços Demaquilantes: indicado para remover maquiagem, limpeza do rosto",
+    "faixa_etaria": "adulto",
+    "nivel_risco": "livre",
+    "marca_propria": false,
+    "origem_dado": "sintetico-marca-ficticia",
+    "data_coleta": "2026-10-20",
+    "indicado_para": [
+      "remover maquiagem",
+      "limpeza do rosto",
+      "água micelar",
+      "praticidade",
+      "viagem"
+    ],
+    "tipo_pele": [
+      "todos"
+    ],
+    "ingredientes_chave": [
+      "água micelar"
+    ],
+    "alertas": [],
+    "contraindicacoes": [
+      "Interromper o uso em caso de irritação",
+      "Evitar contato com os olhos"
+    ],
+    "equivalentes": [
+      "prod-0031",
+      "prod-0032",
+      "prod-0033"
+    ],
+    "texto_busca": "Lenços Demaquilantes 25 un Brisa Lenços Demaquilantes: indicado para remover maquiagem, limpeza do rosto remover maquiagem limpeza do rosto água micelar praticidade viagem água micelar todos"
+  },
+  {
+    "id": "prod-0036",
+    "nome": "Sérum Facial Vitamina C 10% 30 ml",
+    "marca": "Aurora Derm",
+    "categoria": "pele",
+    "subcategoria": "serum",
+    "tamanho": "30 ml",
+    "preco": 89.9,
+    "nota": 4.6,
+    "num_avaliacoes": 700,
+    "imagem": "assets/produtos/prod-0036.png",
+    "estoque_simulado": true,
+    "descricao_curta": "Sérum Facial Vitamina C 10%: indicado para manchas leves, uniformizar o tom",
+    "faixa_etaria": "adulto",
+    "nivel_risco": "livre",
+    "marca_propria": false,
+    "origem_dado": "sintetico-marca-ficticia",
+    "data_coleta": "2026-10-20",
+    "indicado_para": [
+      "manchas leves",
+      "uniformizar o tom",
+      "pele opaca",
+      "rotina facial"
+    ],
+    "tipo_pele": [
+      "normal",
+      "mista"
+    ],
+    "ingredientes_chave": [
+      "vitamina C"
+    ],
+    "alertas": [
+      "Recomenda-se protetor solar diário em rotinas com séruns para manchas"
+    ],
+    "contraindicacoes": [
+      "Evitar em caso de alergia a algum componente da fórmula",
+      "Pode causar sensibilidade em pele muito sensível: teste prévio na pele é indicado"
+    ],
+    "equivalentes": [
+      "prod-0039",
+      "prod-0037",
+      "prod-0038"
+    ],
+    "texto_busca": "Sérum Facial Vitamina C 10% 30 ml Aurora Derm Sérum Facial Vitamina C 10%: indicado para manchas leves, uniformizar o tom manchas leves uniformizar o tom pele opaca rotina facial vitamina C normal mista"
+  },
+  {
+    "id": "prod-0037",
+    "nome": "Sérum Facial Niacinamida 5% 30 ml",
+    "marca": "ClearSkin",
+    "categoria": "pele",
+    "subcategoria": "serum",
+    "tamanho": "30 ml",
+    "preco": 59.9,
+    "nota": 4.5,
+    "num_avaliacoes": 620,
+    "imagem": "assets/produtos/prod-0037.png",
+    "estoque_simulado": true,
+    "descricao_curta": "Sérum Facial Niacinamida 5%: indicado para manchas leves, uniformizar o tom",
+    "faixa_etaria": "adulto",
+    "nivel_risco": "livre",
+    "marca_propria": false,
+    "origem_dado": "sintetico-marca-ficticia",
+    "data_coleta": "2026-10-20",
+    "indicado_para": [
+      "manchas leves",
+      "uniformizar o tom",
+      "pele opaca",
+      "rotina facial",
+      "pele oleosa"
+    ],
+    "tipo_pele": [
+      "oleosa",
+      "mista"
+    ],
+    "ingredientes_chave": [
+      "niacinamida"
+    ],
+    "alertas": [
+      "Recomenda-se protetor solar diário em rotinas com séruns para manchas"
+    ],
+    "contraindicacoes": [
+      "Evitar em caso de alergia a algum componente da fórmula",
+      "Pode causar sensibilidade em pele muito sensível: teste prévio na pele é indicado"
+    ],
+    "equivalentes": [
+      "prod-0038",
+      "prod-0039",
+      "prod-0036"
+    ],
+    "texto_busca": "Sérum Facial Niacinamida 5% 30 ml ClearSkin Sérum Facial Niacinamida 5%: indicado para manchas leves, uniformizar o tom manchas leves uniformizar o tom pele opaca rotina facial pele oleosa niacinamida oleosa mista"
+  },
+  {
+    "id": "prod-0038",
+    "nome": "Sérum Facial Vitamina C Antioxidante 30 ml",
+    "marca": "Lumina",
+    "categoria": "pele",
+    "subcategoria": "serum",
+    "tamanho": "30 ml",
+    "preco": 49.9,
+    "nota": 4.2,
+    "num_avaliacoes": 280,
+    "imagem": "assets/produtos/prod-0038.png",
+    "estoque_simulado": true,
+    "descricao_curta": "Sérum Facial Vitamina C Antioxidante: indicado para manchas leves, uniformizar o tom",
+    "faixa_etaria": "adulto",
+    "nivel_risco": "livre",
+    "marca_propria": false,
+    "origem_dado": "sintetico-marca-ficticia",
+    "data_coleta": "2026-10-20",
+    "indicado_para": [
+      "manchas leves",
+      "uniformizar o tom",
+      "pele opaca",
+      "rotina facial"
+    ],
+    "tipo_pele": [
+      "normal",
+      "mista"
+    ],
+    "ingredientes_chave": [
+      "vitamina C",
+      "vitamina E"
+    ],
+    "alertas": [
+      "Recomenda-se protetor solar diário em rotinas com séruns para manchas"
+    ],
+    "contraindicacoes": [
+      "Evitar em caso de alergia a algum componente da fórmula",
+      "Pode causar sensibilidade em pele muito sensível: teste prévio na pele é indicado"
+    ],
+    "equivalentes": [
+      "prod-0037",
+      "prod-0039",
+      "prod-0036"
+    ],
+    "texto_busca": "Sérum Facial Vitamina C Antioxidante 30 ml Lumina Sérum Facial Vitamina C Antioxidante: indicado para manchas leves, uniformizar o tom manchas leves uniformizar o tom pele opaca rotina facial vitamina C vitamina E normal mista"
+  },
+  {
+    "id": "prod-0039",
+    "nome": "Sérum Facial Niacinamida Pele Sensível 30 ml",
+    "marca": "DermaVida",
+    "categoria": "pele",
+    "subcategoria": "serum",
+    "tamanho": "30 ml",
+    "preco": 79.9,
+    "nota": 4.7,
+    "num_avaliacoes": 350,
+    "imagem": "assets/produtos/prod-0039.png",
+    "estoque_simulado": true,
+    "descricao_curta": "Sérum Facial Niacinamida Pele Sensível: indicado para manchas leves, uniformizar o tom",
+    "faixa_etaria": "adulto",
+    "nivel_risco": "livre",
+    "marca_propria": false,
+    "origem_dado": "sintetico-marca-ficticia",
+    "data_coleta": "2026-10-20",
+    "indicado_para": [
+      "manchas leves",
+      "uniformizar o tom",
+      "pele opaca",
+      "rotina facial",
+      "pele sensível"
+    ],
+    "tipo_pele": [
+      "sensível",
+      "normal"
+    ],
+    "ingredientes_chave": [
+      "niacinamida",
+      "pantenol"
+    ],
+    "alertas": [
+      "Recomenda-se protetor solar diário em rotinas com séruns para manchas"
+    ],
+    "contraindicacoes": [
+      "Evitar em caso de alergia a algum componente da fórmula",
+      "Pode causar sensibilidade em pele muito sensível: teste prévio na pele é indicado"
+    ],
+    "equivalentes": [
+      "prod-0036",
+      "prod-0037",
+      "prod-0038"
+    ],
+    "texto_busca": "Sérum Facial Niacinamida Pele Sensível 30 ml DermaVida Sérum Facial Niacinamida Pele Sensível: indicado para manchas leves, uniformizar o tom manchas leves uniformizar o tom pele opaca rotina facial pele sensível niacinamida pantenol sensível normal"
+  },
+  {
+    "id": "prod-0040",
+    "nome": "Protetor Labial FPS 15 4,5 g",
+    "marca": "Dauf",
+    "categoria": "pele",
+    "subcategoria": "protetor-labial",
+    "tamanho": "4,5 g",
+    "preco": 6.9,
+    "nota": 4.2,
+    "num_avaliacoes": 510,
+    "imagem": "assets/produtos/prod-0040.png",
+    "estoque_simulado": true,
+    "descricao_curta": "Protetor Labial FPS 15: indicado para lábios ressecados, hidratação labial",
+    "faixa_etaria": "adulto",
+    "nivel_risco": "livre",
+    "marca_propria": true,
+    "origem_dado": "sintetico+linha-dauf-a-confirmar",
+    "data_coleta": "2026-10-20",
+    "indicado_para": [
+      "lábios ressecados",
+      "hidratação labial",
+      "frio",
+      "proteção solar labial"
+    ],
+    "tipo_pele": [
+      "todos"
+    ],
+    "ingredientes_chave": [
+      "filtros UVA/UVB",
+      "manteiga de karité"
+    ],
+    "alertas": [],
+    "contraindicacoes": [
+      "Evitar em caso de alergia a algum componente da fórmula"
+    ],
+    "equivalentes": [
+      "prod-0041",
+      "prod-0042",
+      "prod-0043"
+    ],
+    "texto_busca": "Protetor Labial FPS 15 4,5 g Dauf Protetor Labial FPS 15: indicado para lábios ressecados, hidratação labial lábios ressecados hidratação labial frio proteção solar labial filtros UVA/UVB manteiga de karité todos"
+  },
+  {
+    "id": "prod-0041",
+    "nome": "Hidratante Labial Cacau 4 g",
+    "marca": "Brisa",
+    "categoria": "pele",
+    "subcategoria": "protetor-labial",
+    "tamanho": "4 g",
+    "preco": 9.9,
+    "nota": 4.3,
+    "num_avaliacoes": 230,
+    "imagem": "assets/produtos/prod-0041.png",
+    "estoque_simulado": true,
+    "descricao_curta": "Hidratante Labial Cacau: indicado para lábios ressecados, hidratação labial",
+    "faixa_etaria": "adulto",
+    "nivel_risco": "livre",
+    "marca_propria": false,
+    "origem_dado": "sintetico-marca-ficticia",
+    "data_coleta": "2026-10-20",
+    "indicado_para": [
+      "lábios ressecados",
+      "hidratação labial",
+      "frio"
+    ],
+    "tipo_pele": [
+      "todos"
+    ],
+    "ingredientes_chave": [
+      "manteiga de cacau"
+    ],
+    "alertas": [],
+    "contraindicacoes": [
+      "Evitar em caso de alergia a algum componente da fórmula"
+    ],
+    "equivalentes": [
+      "prod-0040",
+      "prod-0042",
+      "prod-0043"
+    ],
+    "texto_busca": "Hidratante Labial Cacau 4 g Brisa Hidratante Labial Cacau: indicado para lábios ressecados, hidratação labial lábios ressecados hidratação labial frio manteiga de cacau todos"
+  },
+  {
+    "id": "prod-0042",
+    "nome": "Manteiga Labial 5 g",
+    "marca": "Verdi",
+    "categoria": "pele",
+    "subcategoria": "protetor-labial",
+    "tamanho": "5 g",
+    "preco": 12.9,
+    "nota": 4.5,
+    "num_avaliacoes": 170,
+    "imagem": "assets/produtos/prod-0042.png",
+    "estoque_simulado": true,
+    "descricao_curta": "Manteiga Labial: indicado para lábios ressecados, hidratação labial",
+    "faixa_etaria": "adulto",
+    "nivel_risco": "livre",
+    "marca_propria": false,
+    "origem_dado": "sintetico-marca-ficticia",
+    "data_coleta": "2026-10-20",
+    "indicado_para": [
+      "lábios ressecados",
+      "hidratação labial",
+      "frio"
+    ],
+    "tipo_pele": [
+      "todos"
+    ],
+    "ingredientes_chave": [
+      "manteiga de karité",
+      "óleo de coco"
+    ],
+    "alertas": [],
+    "contraindicacoes": [
+      "Evitar em caso de alergia a algum componente da fórmula"
+    ],
+    "equivalentes": [
+      "prod-0043",
+      "prod-0041",
+      "prod-0040"
+    ],
+    "texto_busca": "Manteiga Labial 5 g Verdi Manteiga Labial: indicado para lábios ressecados, hidratação labial lábios ressecados hidratação labial frio manteiga de karité óleo de coco todos"
+  },
+  {
+    "id": "prod-0043",
+    "nome": "Protetor Labial FPS 30 4,8 g",
+    "marca": "Solare",
+    "categoria": "pele",
+    "subcategoria": "protetor-labial",
+    "tamanho": "4,8 g",
+    "preco": 14.9,
+    "nota": 4.4,
+    "num_avaliacoes": 200,
+    "imagem": "assets/produtos/prod-0043.png",
+    "estoque_simulado": true,
+    "descricao_curta": "Protetor Labial FPS 30: indicado para lábios ressecados, hidratação labial",
+    "faixa_etaria": "adulto",
+    "nivel_risco": "livre",
+    "marca_propria": false,
+    "origem_dado": "sintetico-marca-ficticia",
+    "data_coleta": "2026-10-20",
+    "indicado_para": [
+      "lábios ressecados",
+      "hidratação labial",
+      "frio",
+      "proteção solar labial"
+    ],
+    "tipo_pele": [
+      "todos"
+    ],
+    "ingredientes_chave": [
+      "filtros UVA/UVB"
+    ],
+    "alertas": [],
+    "contraindicacoes": [
+      "Evitar em caso de alergia a algum componente da fórmula"
+    ],
+    "equivalentes": [
+      "prod-0042",
+      "prod-0041",
+      "prod-0040"
+    ],
+    "texto_busca": "Protetor Labial FPS 30 4,8 g Solare Protetor Labial FPS 30: indicado para lábios ressecados, hidratação labial lábios ressecados hidratação labial frio proteção solar labial filtros UVA/UVB todos"
+  },
+  {
+    "id": "prod-0044",
+    "nome": "Creme para as Mãos Hidratante 60 g",
+    "marca": "Dauf",
+    "categoria": "pele",
+    "subcategoria": "hidratante-maos",
+    "tamanho": "60 g",
+    "preco": 7.9,
+    "nota": 4.1,
+    "num_avaliacoes": 300,
+    "imagem": "assets/produtos/prod-0044.png",
+    "estoque_simulado": true,
+    "descricao_curta": "Creme para as Mãos Hidratante: indicado para mãos ressecadas, hidratação das mãos",
+    "faixa_etaria": "adulto",
+    "nivel_risco": "livre",
+    "marca_propria": true,
+    "origem_dado": "sintetico+linha-dauf-a-confirmar",
+    "data_coleta": "2026-10-20",
+    "indicado_para": [
+      "mãos ressecadas",
+      "hidratação das mãos",
+      "frio"
+    ],
+    "tipo_pele": [
+      "todos"
+    ],
+    "ingredientes_chave": [
+      "glicerina",
+      "vitamina E"
+    ],
+    "alertas": [],
+    "contraindicacoes": [
+      "Evitar em caso de alergia a algum componente da fórmula"
+    ],
+    "equivalentes": [
+      "prod-0046",
+      "prod-0045"
+    ],
+    "texto_busca": "Creme para as Mãos Hidratante 60 g Dauf Creme para as Mãos Hidratante: indicado para mãos ressecadas, hidratação das mãos mãos ressecadas hidratação das mãos frio glicerina vitamina E todos"
+  },
+  {
+    "id": "prod-0045",
+    "nome": "Creme para as Mãos Ureia 75 g",
+    "marca": "Vitalle",
+    "categoria": "pele",
+    "subcategoria": "hidratante-maos",
+    "tamanho": "75 g",
+    "preco": 18.9,
+    "nota": 4.6,
+    "num_avaliacoes": 260,
+    "imagem": "assets/produtos/prod-0045.png",
+    "estoque_simulado": true,
+    "descricao_curta": "Creme para as Mãos Ureia: indicado para mãos ressecadas, hidratação das mãos",
+    "faixa_etaria": "adulto",
+    "nivel_risco": "livre",
+    "marca_propria": false,
+    "origem_dado": "sintetico-marca-ficticia",
+    "data_coleta": "2026-10-20",
+    "indicado_para": [
+      "mãos ressecadas",
+      "hidratação das mãos",
+      "frio",
+      "pele muito seca"
+    ],
+    "tipo_pele": [
+      "todos"
+    ],
+    "ingredientes_chave": [
+      "ureia"
+    ],
+    "alertas": [],
+    "contraindicacoes": [
+      "Evitar em caso de alergia a algum componente da fórmula"
+    ],
+    "equivalentes": [
+      "prod-0046",
+      "prod-0044"
+    ],
+    "texto_busca": "Creme para as Mãos Ureia 75 g Vitalle Creme para as Mãos Ureia: indicado para mãos ressecadas, hidratação das mãos mãos ressecadas hidratação das mãos frio pele muito seca ureia todos"
+  },
+  {
+    "id": "prod-0046",
+    "nome": "Creme para as Mãos Karité 50 g",
+    "marca": "Naturalis",
+    "categoria": "pele",
+    "subcategoria": "hidratante-maos",
+    "tamanho": "50 g",
+    "preco": 15.9,
+    "nota": 4.4,
+    "num_avaliacoes": 140,
+    "imagem": "assets/produtos/prod-0046.png",
+    "estoque_simulado": false,
+    "descricao_curta": "Creme para as Mãos Karité: indicado para mãos ressecadas, hidratação das mãos",
+    "faixa_etaria": "adulto",
+    "nivel_risco": "livre",
+    "marca_propria": false,
+    "origem_dado": "sintetico-marca-ficticia",
+    "data_coleta": "2026-10-20",
+    "indicado_para": [
+      "mãos ressecadas",
+      "hidratação das mãos",
+      "frio"
+    ],
+    "tipo_pele": [
+      "todos"
+    ],
+    "ingredientes_chave": [
+      "karité"
+    ],
+    "alertas": [],
+    "contraindicacoes": [
+      "Evitar em caso de alergia a algum componente da fórmula"
+    ],
+    "equivalentes": [
+      "prod-0045",
+      "prod-0044"
+    ],
+    "texto_busca": "Creme para as Mãos Karité 50 g Naturalis Creme para as Mãos Karité: indicado para mãos ressecadas, hidratação das mãos mãos ressecadas hidratação das mãos frio karité todos"
+  },
+  {
+    "id": "prod-0047",
+    "nome": "Loção Pós-Sol 200 ml",
+    "marca": "Dauf",
+    "categoria": "pele",
+    "subcategoria": "pos-sol",
+    "tamanho": "200 ml",
+    "preco": 17.9,
+    "nota": 4.3,
+    "num_avaliacoes": 400,
+    "imagem": "assets/produtos/prod-0047.png",
+    "estoque_simulado": true,
+    "descricao_curta": "Loção Pós-Sol: indicado para pós-sol, pele exposta ao sol",
+    "faixa_etaria": "adulto",
+    "nivel_risco": "livre",
+    "marca_propria": true,
+    "origem_dado": "sintetico+linha-dauf-a-confirmar",
+    "data_coleta": "2026-10-20",
+    "indicado_para": [
+      "pós-sol",
+      "pele exposta ao sol",
+      "pele quente e ressecada",
+      "praia"
+    ],
+    "tipo_pele": [
+      "todos"
+    ],
+    "ingredientes_chave": [
+      "aloe vera",
+      "glicerina"
+    ],
+    "alertas": [
+      "Em caso de bolhas, febre ou dor intensa após exposição ao sol, buscar atendimento médico"
+    ],
+    "contraindicacoes": [
+      "Evitar em caso de alergia a algum componente da fórmula"
+    ],
+    "equivalentes": [
+      "prod-0048",
+      "prod-0049"
+    ],
+    "texto_busca": "Loção Pós-Sol 200 ml Dauf Loção Pós-Sol: indicado para pós-sol, pele exposta ao sol pós-sol pele exposta ao sol pele quente e ressecada praia aloe vera glicerina todos"
+  },
+  {
+    "id": "prod-0048",
+    "nome": "Gel Pós-Sol Aloe 200 g",
+    "marca": "Brisa",
+    "categoria": "pele",
+    "subcategoria": "pos-sol",
+    "tamanho": "200 g",
+    "preco": 24.9,
+    "nota": 4.4,
+    "num_avaliacoes": 250,
+    "imagem": "assets/produtos/prod-0048.png",
+    "estoque_simulado": true,
+    "descricao_curta": "Gel Pós-Sol Aloe: indicado para pós-sol, pele exposta ao sol",
+    "faixa_etaria": "adulto",
+    "nivel_risco": "livre",
+    "marca_propria": false,
+    "origem_dado": "sintetico-marca-ficticia",
+    "data_coleta": "2026-10-20",
+    "indicado_para": [
+      "pós-sol",
+      "pele exposta ao sol",
+      "pele quente e ressecada",
+      "praia"
+    ],
+    "tipo_pele": [
+      "todos"
+    ],
+    "ingredientes_chave": [
+      "aloe vera"
+    ],
+    "alertas": [
+      "Em caso de bolhas, febre ou dor intensa após exposição ao sol, buscar atendimento médico"
+    ],
+    "contraindicacoes": [
+      "Evitar em caso de alergia a algum componente da fórmula"
+    ],
+    "equivalentes": [
+      "prod-0049",
+      "prod-0047"
+    ],
+    "texto_busca": "Gel Pós-Sol Aloe 200 g Brisa Gel Pós-Sol Aloe: indicado para pós-sol, pele exposta ao sol pós-sol pele exposta ao sol pele quente e ressecada praia aloe vera todos"
+  },
+  {
+    "id": "prod-0049",
+    "nome": "Pós-Sol Calmante 240 ml",
+    "marca": "Solare",
+    "categoria": "pele",
+    "subcategoria": "pos-sol",
+    "tamanho": "240 ml",
+    "preco": 29.9,
+    "nota": 4.5,
+    "num_avaliacoes": 280,
+    "imagem": "assets/produtos/prod-0049.png",
+    "estoque_simulado": true,
+    "descricao_curta": "Pós-Sol Calmante: indicado para pós-sol, pele exposta ao sol",
+    "faixa_etaria": "adulto",
+    "nivel_risco": "livre",
+    "marca_propria": false,
+    "origem_dado": "sintetico-marca-ficticia",
+    "data_coleta": "2026-10-20",
+    "indicado_para": [
+      "pós-sol",
+      "pele exposta ao sol",
+      "pele quente e ressecada",
+      "praia"
+    ],
+    "tipo_pele": [
+      "todos"
+    ],
+    "ingredientes_chave": [
+      "aloe vera",
+      "pantenol"
+    ],
+    "alertas": [
+      "Em caso de bolhas, febre ou dor intensa após exposição ao sol, buscar atendimento médico"
+    ],
+    "contraindicacoes": [
+      "Evitar em caso de alergia a algum componente da fórmula"
+    ],
+    "equivalentes": [
+      "prod-0048",
+      "prod-0047"
+    ],
+    "texto_busca": "Pós-Sol Calmante 240 ml Solare Pós-Sol Calmante: indicado para pós-sol, pele exposta ao sol pós-sol pele exposta ao sol pele quente e ressecada praia aloe vera pantenol todos"
+  },
+  {
+    "id": "prod-0050",
+    "nome": "Shampoo Uso Diário 350 ml",
+    "marca": "Dauf",
+    "categoria": "cabelo",
+    "subcategoria": "shampoo-diario",
+    "tamanho": "350 ml",
+    "preco": 11.9,
+    "nota": 4.2,
+    "num_avaliacoes": 480,
+    "imagem": "assets/produtos/prod-0050.png",
+    "estoque_simulado": true,
+    "descricao_curta": "Shampoo Uso Diário: indicado para limpeza dos cabelos, uso diário",
+    "faixa_etaria": "adulto",
+    "nivel_risco": "livre",
+    "marca_propria": true,
+    "origem_dado": "sintetico+linha-dauf-a-confirmar",
+    "data_coleta": "2026-10-20",
+    "indicado_para": [
+      "limpeza dos cabelos",
+      "uso diário",
+      "cabelo normal"
+    ],
+    "tipo_pele": [],
+    "ingredientes_chave": [],
+    "alertas": [],
+    "contraindicacoes": [
+      "Evitar contato com os olhos"
+    ],
+    "equivalentes": [
+      "prod-0053",
+      "prod-0051",
+      "prod-0052"
+    ],
+    "texto_busca": "Shampoo Uso Diário 350 ml Dauf Shampoo Uso Diário: indicado para limpeza dos cabelos, uso diário limpeza dos cabelos uso diário cabelo normal  "
+  },
+  {
+    "id": "prod-0051",
+    "nome": "Shampoo Cabelos Normais 300 ml",
+    "marca": "Brisa",
+    "categoria": "cabelo",
+    "subcategoria": "shampoo-diario",
+    "tamanho": "300 ml",
+    "preco": 16.9,
+    "nota": 4.3,
+    "num_avaliacoes": 250,
+    "imagem": "assets/produtos/prod-0051.png",
+    "estoque_simulado": true,
+    "descricao_curta": "Shampoo Cabelos Normais: indicado para limpeza dos cabelos, uso diário",
+    "faixa_etaria": "adulto",
+    "nivel_risco": "livre",
+    "marca_propria": false,
+    "origem_dado": "sintetico-marca-ficticia",
+    "data_coleta": "2026-10-20",
+    "indicado_para": [
+      "limpeza dos cabelos",
+      "uso diário",
+      "cabelo normal"
+    ],
+    "tipo_pele": [],
+    "ingredientes_chave": [],
+    "alertas": [],
+    "contraindicacoes": [
+      "Evitar contato com os olhos"
+    ],
+    "equivalentes": [
+      "prod-0053",
+      "prod-0050",
+      "prod-0052"
+    ],
+    "texto_busca": "Shampoo Cabelos Normais 300 ml Brisa Shampoo Cabelos Normais: indicado para limpeza dos cabelos, uso diário limpeza dos cabelos uso diário cabelo normal  "
+  },
+  {
+    "id": "prod-0052",
+    "nome": "Shampoo Hidratação 350 ml",
+    "marca": "Naturalis",
+    "categoria": "cabelo",
+    "subcategoria": "shampoo-diario",
+    "tamanho": "350 ml",
+    "preco": 21.9,
+    "nota": 4.5,
+    "num_avaliacoes": 210,
+    "imagem": "assets/produtos/prod-0052.png",
+    "estoque_simulado": true,
+    "descricao_curta": "Shampoo Hidratação: indicado para limpeza dos cabelos, uso diário",
+    "faixa_etaria": "adulto",
+    "nivel_risco": "livre",
+    "marca_propria": false,
+    "origem_dado": "sintetico-marca-ficticia",
+    "data_coleta": "2026-10-20",
+    "indicado_para": [
+      "limpeza dos cabelos",
+      "uso diário",
+      "cabelo normal",
+      "cabelo seco"
+    ],
+    "tipo_pele": [],
+    "ingredientes_chave": [],
+    "alertas": [],
+    "contraindicacoes": [
+      "Evitar contato com os olhos"
+    ],
+    "equivalentes": [
+      "prod-0051",
+      "prod-0053",
+      "prod-0050"
+    ],
+    "texto_busca": "Shampoo Hidratação 350 ml Naturalis Shampoo Hidratação: indicado para limpeza dos cabelos, uso diário limpeza dos cabelos uso diário cabelo normal cabelo seco  "
+  },
+  {
+    "id": "prod-0053",
+    "nome": "Shampoo Suave 400 ml",
+    "marca": "Verdi",
+    "categoria": "cabelo",
+    "subcategoria": "shampoo-diario",
+    "tamanho": "400 ml",
+    "preco": 14.9,
+    "nota": 4.2,
+    "num_avaliacoes": 330,
+    "imagem": "assets/produtos/prod-0053.png",
+    "estoque_simulado": true,
+    "descricao_curta": "Shampoo Suave: indicado para limpeza dos cabelos, uso diário",
+    "faixa_etaria": "adulto",
+    "nivel_risco": "livre",
+    "marca_propria": false,
+    "origem_dado": "sintetico-marca-ficticia",
+    "data_coleta": "2026-10-20",
+    "indicado_para": [
+      "limpeza dos cabelos",
+      "uso diário",
+      "cabelo normal",
+      "uso frequente"
+    ],
+    "tipo_pele": [],
+    "ingredientes_chave": [],
+    "alertas": [],
+    "contraindicacoes": [
+      "Evitar contato com os olhos"
+    ],
+    "equivalentes": [
+      "prod-0051",
+      "prod-0050",
+      "prod-0052"
+    ],
+    "texto_busca": "Shampoo Suave 400 ml Verdi Shampoo Suave: indicado para limpeza dos cabelos, uso diário limpeza dos cabelos uso diário cabelo normal uso frequente  "
+  },
+  {
+    "id": "prod-0054",
+    "nome": "Shampoo Anticaspa Zinco 200 ml",
+    "marca": "Vitalle",
+    "categoria": "cabelo",
+    "subcategoria": "shampoo-anticaspa",
+    "tamanho": "200 ml",
+    "preco": 24.9,
+    "nota": 4.4,
+    "num_avaliacoes": 380,
+    "imagem": "assets/produtos/prod-0054.png",
+    "estoque_simulado": true,
+    "descricao_curta": "Shampoo Anticaspa Zinco: indicado para caspa, couro cabeludo com descamação",
+    "faixa_etaria": "adulto",
+    "nivel_risco": "livre",
+    "marca_propria": false,
+    "origem_dado": "sintetico-marca-ficticia",
+    "data_coleta": "2026-10-20",
+    "indicado_para": [
+      "caspa",
+      "couro cabeludo com descamação",
+      "couro cabeludo oleoso"
+    ],
+    "tipo_pele": [],
+    "ingredientes_chave": [
+      "piritionato de zinco"
+    ],
+    "alertas": [],
+    "contraindicacoes": [
+      "Evitar contato com os olhos",
+      "Interromper o uso em caso de irritação"
+    ],
+    "equivalentes": [
+      "prod-0056",
+      "prod-0057",
+      "prod-0055"
+    ],
+    "texto_busca": "Shampoo Anticaspa Zinco 200 ml Vitalle Shampoo Anticaspa Zinco: indicado para caspa, couro cabeludo com descamação caspa couro cabeludo com descamação couro cabeludo oleoso piritionato de zinco "
+  },
+  {
+    "id": "prod-0055",
+    "nome": "Shampoo Anticaspa Uso Frequente 350 ml",
+    "marca": "Dauf",
+    "categoria": "cabelo",
+    "subcategoria": "shampoo-anticaspa",
+    "tamanho": "350 ml",
+    "preco": 15.9,
+    "nota": 4.1,
+    "num_avaliacoes": 360,
+    "imagem": "assets/produtos/prod-0055.png",
+    "estoque_simulado": true,
+    "descricao_curta": "Shampoo Anticaspa Uso Frequente: indicado para caspa, couro cabeludo com descamação",
+    "faixa_etaria": "adulto",
+    "nivel_risco": "livre",
+    "marca_propria": true,
+    "origem_dado": "sintetico+linha-dauf-a-confirmar",
+    "data_coleta": "2026-10-20",
+    "indicado_para": [
+      "caspa",
+      "couro cabeludo com descamação",
+      "couro cabeludo oleoso"
+    ],
+    "tipo_pele": [],
+    "ingredientes_chave": [
+      "piritionato de zinco"
+    ],
+    "alertas": [],
+    "contraindicacoes": [
+      "Evitar contato com os olhos",
+      "Interromper o uso em caso de irritação"
+    ],
+    "equivalentes": [
+      "prod-0057",
+      "prod-0054",
+      "prod-0056"
+    ],
+    "texto_busca": "Shampoo Anticaspa Uso Frequente 350 ml Dauf Shampoo Anticaspa Uso Frequente: indicado para caspa, couro cabeludo com descamação caspa couro cabeludo com descamação couro cabeludo oleoso piritionato de zinco "
+  },
+  {
+    "id": "prod-0056",
+    "nome": "Shampoo Anticaspa Controle de Oleosidade 300 ml",
+    "marca": "ClearSkin",
+    "categoria": "cabelo",
+    "subcategoria": "shampoo-anticaspa",
+    "tamanho": "300 ml",
+    "preco": 29.9,
+    "nota": 4.5,
+    "num_avaliacoes": 290,
+    "imagem": "assets/produtos/prod-0056.png",
+    "estoque_simulado": true,
+    "descricao_curta": "Shampoo Anticaspa Controle de Oleosidade: indicado para caspa, couro cabeludo com descamação",
+    "faixa_etaria": "adulto",
+    "nivel_risco": "livre",
+    "marca_propria": false,
+    "origem_dado": "sintetico-marca-ficticia",
+    "data_coleta": "2026-10-20",
+    "indicado_para": [
+      "caspa",
+      "couro cabeludo com descamação",
+      "couro cabeludo oleoso",
+      "cabelo oleoso"
+    ],
+    "tipo_pele": [],
+    "ingredientes_chave": [
+      "piritionato de zinco"
+    ],
+    "alertas": [],
+    "contraindicacoes": [
+      "Evitar contato com os olhos",
+      "Interromper o uso em caso de irritação"
+    ],
+    "equivalentes": [
+      "prod-0054",
+      "prod-0057",
+      "prod-0055"
+    ],
+    "texto_busca": "Shampoo Anticaspa Controle de Oleosidade 300 ml ClearSkin Shampoo Anticaspa Controle de Oleosidade: indicado para caspa, couro cabeludo com descamação caspa couro cabeludo com descamação couro cabeludo oleoso cabelo oleoso piritionato de zinco "
+  },
+  {
+    "id": "prod-0057",
+    "nome": "Shampoo Anticaspa Menta 350 ml",
+    "marca": "Brisa",
+    "categoria": "cabelo",
+    "subcategoria": "shampoo-anticaspa",
+    "tamanho": "350 ml",
+    "preco": 19.9,
+    "nota": 4.2,
+    "num_avaliacoes": 240,
+    "imagem": "assets/produtos/prod-0057.png",
+    "estoque_simulado": true,
+    "descricao_curta": "Shampoo Anticaspa Menta: indicado para caspa, couro cabeludo com descamação",
+    "faixa_etaria": "adulto",
+    "nivel_risco": "livre",
+    "marca_propria": false,
+    "origem_dado": "sintetico-marca-ficticia",
+    "data_coleta": "2026-10-20",
+    "indicado_para": [
+      "caspa",
+      "couro cabeludo com descamação",
+      "couro cabeludo oleoso"
+    ],
+    "tipo_pele": [],
+    "ingredientes_chave": [
+      "piritionato de zinco",
+      "mentol"
+    ],
+    "alertas": [],
+    "contraindicacoes": [
+      "Evitar contato com os olhos",
+      "Interromper o uso em caso de irritação"
+    ],
+    "equivalentes": [
+      "prod-0055",
+      "prod-0054",
+      "prod-0056"
+    ],
+    "texto_busca": "Shampoo Anticaspa Menta 350 ml Brisa Shampoo Anticaspa Menta: indicado para caspa, couro cabeludo com descamação caspa couro cabeludo com descamação couro cabeludo oleoso piritionato de zinco mentol "
+  },
+  {
+    "id": "prod-0058",
+    "nome": "Condicionador Hidratação 350 ml",
+    "marca": "Dauf",
+    "categoria": "cabelo",
+    "subcategoria": "condicionador",
+    "tamanho": "350 ml",
+    "preco": 12.9,
+    "nota": 4.2,
+    "num_avaliacoes": 420,
+    "imagem": "assets/produtos/prod-0058.png",
+    "estoque_simulado": true,
+    "descricao_curta": "Condicionador Hidratação: indicado para desembaraçar, maciez",
+    "faixa_etaria": "adulto",
+    "nivel_risco": "livre",
+    "marca_propria": true,
+    "origem_dado": "sintetico+linha-dauf-a-confirmar",
+    "data_coleta": "2026-10-20",
+    "indicado_para": [
+      "desembaraçar",
+      "maciez",
+      "uso diário"
+    ],
+    "tipo_pele": [],
+    "ingredientes_chave": [],
+    "alertas": [],
+    "contraindicacoes": [
+      "Evitar contato com os olhos"
+    ],
+    "equivalentes": [
+      "prod-0061",
+      "prod-0059",
+      "prod-0060"
+    ],
+    "texto_busca": "Condicionador Hidratação 350 ml Dauf Condicionador Hidratação: indicado para desembaraçar, maciez desembaraçar maciez uso diário  "
+  },
+  {
+    "id": "prod-0059",
+    "nome": "Condicionador Cabelos Normais 300 ml",
+    "marca": "Brisa",
+    "categoria": "cabelo",
+    "subcategoria": "condicionador",
+    "tamanho": "300 ml",
+    "preco": 17.9,
+    "nota": 4.3,
+    "num_avaliacoes": 230,
+    "imagem": "assets/produtos/prod-0059.png",
+    "estoque_simulado": true,
+    "descricao_curta": "Condicionador Cabelos Normais: indicado para desembaraçar, maciez",
+    "faixa_etaria": "adulto",
+    "nivel_risco": "livre",
+    "marca_propria": false,
+    "origem_dado": "sintetico-marca-ficticia",
+    "data_coleta": "2026-10-20",
+    "indicado_para": [
+      "desembaraçar",
+      "maciez",
+      "uso diário"
+    ],
+    "tipo_pele": [],
+    "ingredientes_chave": [],
+    "alertas": [],
+    "contraindicacoes": [
+      "Evitar contato com os olhos"
+    ],
+    "equivalentes": [
+      "prod-0061",
+      "prod-0058",
+      "prod-0060"
+    ],
+    "texto_busca": "Condicionador Cabelos Normais 300 ml Brisa Condicionador Cabelos Normais: indicado para desembaraçar, maciez desembaraçar maciez uso diário  "
+  },
+  {
+    "id": "prod-0060",
+    "nome": "Condicionador Nutrição 350 ml",
+    "marca": "Naturalis",
+    "categoria": "cabelo",
+    "subcategoria": "condicionador",
+    "tamanho": "350 ml",
+    "preco": 22.9,
+    "nota": 4.5,
+    "num_avaliacoes": 200,
+    "imagem": "assets/produtos/prod-0060.png",
+    "estoque_simulado": true,
+    "descricao_curta": "Condicionador Nutrição: indicado para desembaraçar, maciez",
+    "faixa_etaria": "adulto",
+    "nivel_risco": "livre",
+    "marca_propria": false,
+    "origem_dado": "sintetico-marca-ficticia",
+    "data_coleta": "2026-10-20",
+    "indicado_para": [
+      "desembaraçar",
+      "maciez",
+      "uso diário",
+      "cabelo seco",
+      "frizz"
+    ],
+    "tipo_pele": [],
+    "ingredientes_chave": [],
+    "alertas": [],
+    "contraindicacoes": [
+      "Evitar contato com os olhos"
+    ],
+    "equivalentes": [
+      "prod-0059",
+      "prod-0061",
+      "prod-0058"
+    ],
+    "texto_busca": "Condicionador Nutrição 350 ml Naturalis Condicionador Nutrição: indicado para desembaraçar, maciez desembaraçar maciez uso diário cabelo seco frizz  "
+  },
+  {
+    "id": "prod-0061",
+    "nome": "Condicionador Suave 400 ml",
+    "marca": "Verdi",
+    "categoria": "cabelo",
+    "subcategoria": "condicionador",
+    "tamanho": "400 ml",
+    "preco": 15.9,
+    "nota": 4.2,
+    "num_avaliacoes": 310,
+    "imagem": "assets/produtos/prod-0061.png",
+    "estoque_simulado": true,
+    "descricao_curta": "Condicionador Suave: indicado para desembaraçar, maciez",
+    "faixa_etaria": "adulto",
+    "nivel_risco": "livre",
+    "marca_propria": false,
+    "origem_dado": "sintetico-marca-ficticia",
+    "data_coleta": "2026-10-20",
+    "indicado_para": [
+      "desembaraçar",
+      "maciez",
+      "uso diário"
+    ],
+    "tipo_pele": [],
+    "ingredientes_chave": [],
+    "alertas": [],
+    "contraindicacoes": [
+      "Evitar contato com os olhos"
+    ],
+    "equivalentes": [
+      "prod-0059",
+      "prod-0058",
+      "prod-0060"
+    ],
+    "texto_busca": "Condicionador Suave 400 ml Verdi Condicionador Suave: indicado para desembaraçar, maciez desembaraçar maciez uso diário  "
+  },
+  {
+    "id": "prod-0062",
+    "nome": "Máscara Capilar Hidratação Profunda 300 g",
+    "marca": "Aurora Derm",
+    "categoria": "cabelo",
+    "subcategoria": "mascara-capilar",
+    "tamanho": "300 g",
+    "preco": 49.9,
+    "nota": 4.7,
+    "num_avaliacoes": 340,
+    "imagem": "assets/produtos/prod-0062.png",
+    "estoque_simulado": true,
+    "descricao_curta": "Máscara Capilar Hidratação Profunda: indicado para hidratação profunda, nutrição",
+    "faixa_etaria": "adulto",
+    "nivel_risco": "livre",
+    "marca_propria": false,
+    "origem_dado": "sintetico-marca-ficticia",
+    "data_coleta": "2026-10-20",
+    "indicado_para": [
+      "hidratação profunda",
+      "nutrição",
+      "cabelo ressecado",
+      "frizz"
+    ],
+    "tipo_pele": [],
+    "ingredientes_chave": [],
+    "alertas": [],
+    "contraindicacoes": [
+      "Evitar contato com os olhos"
+    ],
+    "equivalentes": [
+      "prod-0064",
+      "prod-0063",
+      "prod-0065"
+    ],
+    "texto_busca": "Máscara Capilar Hidratação Profunda 300 g Aurora Derm Máscara Capilar Hidratação Profunda: indicado para hidratação profunda, nutrição hidratação profunda nutrição cabelo ressecado frizz  "
+  },
+  {
+    "id": "prod-0063",
+    "nome": "Máscara Capilar Nutrição 250 g",
+    "marca": "Naturalis",
+    "categoria": "cabelo",
+    "subcategoria": "mascara-capilar",
+    "tamanho": "250 g",
+    "preco": 29.9,
+    "nota": 4.4,
+    "num_avaliacoes": 180,
+    "imagem": "assets/produtos/prod-0063.png",
+    "estoque_simulado": true,
+    "descricao_curta": "Máscara Capilar Nutrição: indicado para hidratação profunda, nutrição",
+    "faixa_etaria": "adulto",
+    "nivel_risco": "livre",
+    "marca_propria": false,
+    "origem_dado": "sintetico-marca-ficticia",
+    "data_coleta": "2026-10-20",
+    "indicado_para": [
+      "hidratação profunda",
+      "nutrição",
+      "cabelo ressecado",
+      "frizz"
+    ],
+    "tipo_pele": [],
+    "ingredientes_chave": [],
+    "alertas": [],
+    "contraindicacoes": [
+      "Evitar contato com os olhos"
+    ],
+    "equivalentes": [
+      "prod-0064",
+      "prod-0065",
+      "prod-0062"
+    ],
+    "texto_busca": "Máscara Capilar Nutrição 250 g Naturalis Máscara Capilar Nutrição: indicado para hidratação profunda, nutrição hidratação profunda nutrição cabelo ressecado frizz  "
+  },
+  {
+    "id": "prod-0064",
+    "nome": "Máscara Capilar Reconstrução 300 g",
+    "marca": "Lumina",
+    "categoria": "cabelo",
+    "subcategoria": "mascara-capilar",
+    "tamanho": "300 g",
+    "preco": 34.9,
+    "nota": 4.5,
+    "num_avaliacoes": 220,
+    "imagem": "assets/produtos/prod-0064.png",
+    "estoque_simulado": true,
+    "descricao_curta": "Máscara Capilar Reconstrução: indicado para hidratação profunda, nutrição",
+    "faixa_etaria": "adulto",
+    "nivel_risco": "livre",
+    "marca_propria": false,
+    "origem_dado": "sintetico-marca-ficticia",
+    "data_coleta": "2026-10-20",
+    "indicado_para": [
+      "hidratação profunda",
+      "nutrição",
+      "cabelo ressecado",
+      "frizz"
+    ],
+    "tipo_pele": [],
+    "ingredientes_chave": [],
+    "alertas": [],
+    "contraindicacoes": [
+      "Evitar contato com os olhos"
+    ],
+    "equivalentes": [
+      "prod-0063",
+      "prod-0062",
+      "prod-0065"
+    ],
+    "texto_busca": "Máscara Capilar Reconstrução 300 g Lumina Máscara Capilar Reconstrução: indicado para hidratação profunda, nutrição hidratação profunda nutrição cabelo ressecado frizz  "
+  },
+  {
+    "id": "prod-0065",
+    "nome": "Máscara Capilar Hidratação 300 g",
+    "marca": "Dauf",
+    "categoria": "cabelo",
+    "subcategoria": "mascara-capilar",
+    "tamanho": "300 g",
+    "preco": 19.9,
+    "nota": 4.1,
+    "num_avaliacoes": 260,
+    "imagem": "assets/produtos/prod-0065.png",
+    "estoque_simulado": true,
+    "descricao_curta": "Máscara Capilar Hidratação: indicado para hidratação profunda, nutrição",
+    "faixa_etaria": "adulto",
+    "nivel_risco": "livre",
+    "marca_propria": true,
+    "origem_dado": "sintetico+linha-dauf-a-confirmar",
+    "data_coleta": "2026-10-20",
+    "indicado_para": [
+      "hidratação profunda",
+      "nutrição",
+      "cabelo ressecado",
+      "frizz"
+    ],
+    "tipo_pele": [],
+    "ingredientes_chave": [],
+    "alertas": [],
+    "contraindicacoes": [
+      "Evitar contato com os olhos"
+    ],
+    "equivalentes": [
+      "prod-0063",
+      "prod-0064",
+      "prod-0062"
+    ],
+    "texto_busca": "Máscara Capilar Hidratação 300 g Dauf Máscara Capilar Hidratação: indicado para hidratação profunda, nutrição hidratação profunda nutrição cabelo ressecado frizz  "
+  },
+  {
+    "id": "prod-0066",
+    "nome": "Creme de Pentear para Cachos 300 ml",
+    "marca": "Verdi",
+    "categoria": "cabelo",
+    "subcategoria": "cachos",
+    "tamanho": "300 ml",
+    "preco": 24.9,
+    "nota": 4.5,
+    "num_avaliacoes": 360,
+    "imagem": "assets/produtos/prod-0066.png",
+    "estoque_simulado": true,
+    "descricao_curta": "Creme de Pentear para Cachos: indicado para cabelos cacheados, definição de cachos",
+    "faixa_etaria": "adulto",
+    "nivel_risco": "livre",
+    "marca_propria": false,
+    "origem_dado": "sintetico-marca-ficticia",
+    "data_coleta": "2026-10-20",
+    "indicado_para": [
+      "cabelos cacheados",
+      "definição de cachos",
+      "frizz"
+    ],
+    "tipo_pele": [],
+    "ingredientes_chave": [],
+    "alertas": [],
+    "contraindicacoes": [
+      "Evitar contato com os olhos"
+    ],
+    "equivalentes": [
+      "prod-0068",
+      "prod-0067"
+    ],
+    "texto_busca": "Creme de Pentear para Cachos 300 ml Verdi Creme de Pentear para Cachos: indicado para cabelos cacheados, definição de cachos cabelos cacheados definição de cachos frizz  "
+  },
+  {
+    "id": "prod-0067",
+    "nome": "Ativador de Cachos 250 ml",
+    "marca": "Naturalis",
+    "categoria": "cabelo",
+    "subcategoria": "cachos",
+    "tamanho": "250 ml",
+    "preco": 31.9,
+    "nota": 4.6,
+    "num_avaliacoes": 240,
+    "imagem": "assets/produtos/prod-0067.png",
+    "estoque_simulado": true,
+    "descricao_curta": "Ativador de Cachos: indicado para cabelos cacheados, definição de cachos",
+    "faixa_etaria": "adulto",
+    "nivel_risco": "livre",
+    "marca_propria": false,
+    "origem_dado": "sintetico-marca-ficticia",
+    "data_coleta": "2026-10-20",
+    "indicado_para": [
+      "cabelos cacheados",
+      "definição de cachos",
+      "frizz"
+    ],
+    "tipo_pele": [],
+    "ingredientes_chave": [],
+    "alertas": [],
+    "contraindicacoes": [
+      "Evitar contato com os olhos"
+    ],
+    "equivalentes": [
+      "prod-0066",
+      "prod-0068"
+    ],
+    "texto_busca": "Ativador de Cachos 250 ml Naturalis Ativador de Cachos: indicado para cabelos cacheados, definição de cachos cabelos cacheados definição de cachos frizz  "
+  },
+  {
+    "id": "prod-0068",
+    "nome": "Gelatina para Definição de Cachos 300 g",
+    "marca": "Brisa",
+    "categoria": "cabelo",
+    "subcategoria": "cachos",
+    "tamanho": "300 g",
+    "preco": 19.9,
+    "nota": 4.2,
+    "num_avaliacoes": 190,
+    "imagem": "assets/produtos/prod-0068.png",
+    "estoque_simulado": true,
+    "descricao_curta": "Gelatina para Definição de Cachos: indicado para cabelos cacheados, definição de cachos",
+    "faixa_etaria": "adulto",
+    "nivel_risco": "livre",
+    "marca_propria": false,
+    "origem_dado": "sintetico-marca-ficticia",
+    "data_coleta": "2026-10-20",
+    "indicado_para": [
+      "cabelos cacheados",
+      "definição de cachos",
+      "frizz"
+    ],
+    "tipo_pele": [],
+    "ingredientes_chave": [],
+    "alertas": [],
+    "contraindicacoes": [
+      "Evitar contato com os olhos"
+    ],
+    "equivalentes": [
+      "prod-0066",
+      "prod-0067"
+    ],
+    "texto_busca": "Gelatina para Definição de Cachos 300 g Brisa Gelatina para Definição de Cachos: indicado para cabelos cacheados, definição de cachos cabelos cacheados definição de cachos frizz  "
+  },
+  {
+    "id": "prod-0069",
+    "nome": "Leave-in Protetor Térmico 200 ml",
+    "marca": "Lumina",
+    "categoria": "cabelo",
+    "subcategoria": "leave-in",
+    "tamanho": "200 ml",
+    "preco": 27.9,
+    "nota": 4.4,
+    "num_avaliacoes": 300,
+    "imagem": "assets/produtos/prod-0069.png",
+    "estoque_simulado": false,
+    "descricao_curta": "Leave-in Protetor Térmico: indicado para proteção térmica, frizz",
+    "faixa_etaria": "adulto",
+    "nivel_risco": "livre",
+    "marca_propria": false,
+    "origem_dado": "sintetico-marca-ficticia",
+    "data_coleta": "2026-10-20",
+    "indicado_para": [
+      "proteção térmica",
+      "frizz",
+      "finalização",
+      "hidratação sem enxágue"
+    ],
+    "tipo_pele": [],
+    "ingredientes_chave": [],
+    "alertas": [],
+    "contraindicacoes": [
+      "Evitar contato com os olhos"
+    ],
+    "equivalentes": [
+      "prod-0070",
+      "prod-0071"
+    ],
+    "texto_busca": "Leave-in Protetor Térmico 200 ml Lumina Leave-in Protetor Térmico: indicado para proteção térmica, frizz proteção térmica frizz finalização hidratação sem enxágue  "
+  },
+  {
+    "id": "prod-0070",
+    "nome": "Leave-in Hidratante 200 ml",
+    "marca": "Dauf",
+    "categoria": "cabelo",
+    "subcategoria": "leave-in",
+    "tamanho": "200 ml",
+    "preco": 14.9,
+    "nota": 4.0,
+    "num_avaliacoes": 250,
+    "imagem": "assets/produtos/prod-0070.png",
+    "estoque_simulado": true,
+    "descricao_curta": "Leave-in Hidratante: indicado para proteção térmica, frizz",
+    "faixa_etaria": "adulto",
+    "nivel_risco": "livre",
+    "marca_propria": true,
+    "origem_dado": "sintetico+linha-dauf-a-confirmar",
+    "data_coleta": "2026-10-20",
+    "indicado_para": [
+      "proteção térmica",
+      "frizz",
+      "finalização",
+      "hidratação sem enxágue"
+    ],
+    "tipo_pele": [],
+    "ingredientes_chave": [],
+    "alertas": [],
+    "contraindicacoes": [
+      "Evitar contato com os olhos"
+    ],
+    "equivalentes": [
+      "prod-0069",
+      "prod-0071"
+    ],
+    "texto_busca": "Leave-in Hidratante 200 ml Dauf Leave-in Hidratante: indicado para proteção térmica, frizz proteção térmica frizz finalização hidratação sem enxágue  "
+  },
+  {
+    "id": "prod-0071",
+    "nome": "Sérum Capilar 60 ml",
+    "marca": "Aurora Derm",
+    "categoria": "cabelo",
+    "subcategoria": "leave-in",
+    "tamanho": "60 ml",
+    "preco": 54.9,
+    "nota": 4.7,
+    "num_avaliacoes": 330,
+    "imagem": "assets/produtos/prod-0071.png",
+    "estoque_simulado": true,
+    "descricao_curta": "Sérum Capilar: indicado para proteção térmica, frizz",
+    "faixa_etaria": "adulto",
+    "nivel_risco": "livre",
+    "marca_propria": false,
+    "origem_dado": "sintetico-marca-ficticia",
+    "data_coleta": "2026-10-20",
+    "indicado_para": [
+      "proteção térmica",
+      "frizz",
+      "finalização",
+      "hidratação sem enxágue"
+    ],
+    "tipo_pele": [],
+    "ingredientes_chave": [],
+    "alertas": [],
+    "contraindicacoes": [
+      "Evitar contato com os olhos"
+    ],
+    "equivalentes": [
+      "prod-0069",
+      "prod-0070"
+    ],
+    "texto_busca": "Sérum Capilar 60 ml Aurora Derm Sérum Capilar: indicado para proteção térmica, frizz proteção térmica frizz finalização hidratação sem enxágue  "
+  },
+  {
+    "id": "prod-0072",
+    "nome": "Creme Dental Menta 90 g",
+    "marca": "Dauf",
+    "categoria": "higiene",
+    "subcategoria": "creme-dental",
+    "tamanho": "90 g",
+    "preco": 3.9,
+    "nota": 4.2,
+    "num_avaliacoes": 900,
+    "imagem": "assets/produtos/prod-0072.png",
+    "estoque_simulado": true,
+    "descricao_curta": "Creme Dental Menta: indicado para higiene bucal, proteção contra cáries",
+    "faixa_etaria": "adulto",
+    "nivel_risco": "livre",
+    "marca_propria": true,
+    "origem_dado": "sintetico+linha-dauf-confirmada",
+    "data_coleta": "2026-10-20",
+    "indicado_para": [
+      "higiene bucal",
+      "proteção contra cáries",
+      "hálito fresco"
+    ],
+    "tipo_pele": [],
+    "ingredientes_chave": [
+      "flúor"
+    ],
+    "alertas": [],
+    "contraindicacoes": [
+      "Manter fora do alcance de crianças pequenas"
+    ],
+    "equivalentes": [
+      "prod-0075",
+      "prod-0073",
+      "prod-0074"
+    ],
+    "texto_busca": "Creme Dental Menta 90 g Dauf Creme Dental Menta: indicado para higiene bucal, proteção contra cáries higiene bucal proteção contra cáries hálito fresco flúor "
+  },
+  {
+    "id": "prod-0073",
+    "nome": "Creme Dental Branqueador 90 g",
+    "marca": "Sorriso Pleno",
+    "categoria": "higiene",
+    "subcategoria": "creme-dental",
+    "tamanho": "90 g",
+    "preco": 11.9,
+    "nota": 4.3,
+    "num_avaliacoes": 410,
+    "imagem": "assets/produtos/prod-0073.png",
+    "estoque_simulado": true,
+    "descricao_curta": "Creme Dental Branqueador: indicado para higiene bucal, proteção contra cáries",
+    "faixa_etaria": "adulto",
+    "nivel_risco": "livre",
+    "marca_propria": false,
+    "origem_dado": "sintetico-marca-ficticia",
+    "data_coleta": "2026-10-20",
+    "indicado_para": [
+      "higiene bucal",
+      "proteção contra cáries",
+      "hálito fresco",
+      "branqueamento"
+    ],
+    "tipo_pele": [],
+    "ingredientes_chave": [
+      "flúor"
+    ],
+    "alertas": [],
+    "contraindicacoes": [
+      "Manter fora do alcance de crianças pequenas"
+    ],
+    "equivalentes": [
+      "prod-0074",
+      "prod-0075",
+      "prod-0072"
+    ],
+    "texto_busca": "Creme Dental Branqueador 90 g Sorriso Pleno Creme Dental Branqueador: indicado para higiene bucal, proteção contra cáries higiene bucal proteção contra cáries hálito fresco branqueamento flúor "
+  },
+  {
+    "id": "prod-0074",
+    "nome": "Creme Dental Dentes Sensíveis 90 g",
+    "marca": "Sorriso Pleno",
+    "categoria": "higiene",
+    "subcategoria": "creme-dental",
+    "tamanho": "90 g",
+    "preco": 14.9,
+    "nota": 4.5,
+    "num_avaliacoes": 360,
+    "imagem": "assets/produtos/prod-0074.png",
+    "estoque_simulado": true,
+    "descricao_curta": "Creme Dental Dentes Sensíveis: indicado para higiene bucal, proteção contra cáries",
+    "faixa_etaria": "adulto",
+    "nivel_risco": "livre",
+    "marca_propria": false,
+    "origem_dado": "sintetico-marca-ficticia",
+    "data_coleta": "2026-10-20",
+    "indicado_para": [
+      "higiene bucal",
+      "proteção contra cáries",
+      "hálito fresco",
+      "dentes sensíveis"
+    ],
+    "tipo_pele": [],
+    "ingredientes_chave": [
+      "flúor"
+    ],
+    "alertas": [],
+    "contraindicacoes": [
+      "Manter fora do alcance de crianças pequenas"
+    ],
+    "equivalentes": [
+      "prod-0073",
+      "prod-0075",
+      "prod-0072"
+    ],
+    "texto_busca": "Creme Dental Dentes Sensíveis 90 g Sorriso Pleno Creme Dental Dentes Sensíveis: indicado para higiene bucal, proteção contra cáries higiene bucal proteção contra cáries hálito fresco dentes sensíveis flúor "
+  },
+  {
+    "id": "prod-0075",
+    "nome": "Creme Dental Proteção Total 90 g",
+    "marca": "Cuide+",
+    "categoria": "higiene",
+    "subcategoria": "creme-dental",
+    "tamanho": "90 g",
+    "preco": 7.9,
+    "nota": 4.3,
+    "num_avaliacoes": 520,
+    "imagem": "assets/produtos/prod-0075.png",
+    "estoque_simulado": true,
+    "descricao_curta": "Creme Dental Proteção Total: indicado para higiene bucal, proteção contra cáries",
+    "faixa_etaria": "adulto",
+    "nivel_risco": "livre",
+    "marca_propria": false,
+    "origem_dado": "sintetico-marca-ficticia",
+    "data_coleta": "2026-10-20",
+    "indicado_para": [
+      "higiene bucal",
+      "proteção contra cáries",
+      "hálito fresco"
+    ],
+    "tipo_pele": [],
+    "ingredientes_chave": [
+      "flúor"
+    ],
+    "alertas": [],
+    "contraindicacoes": [
+      "Manter fora do alcance de crianças pequenas"
+    ],
+    "equivalentes": [
+      "prod-0072",
+      "prod-0073",
+      "prod-0074"
+    ],
+    "texto_busca": "Creme Dental Proteção Total 90 g Cuide+ Creme Dental Proteção Total: indicado para higiene bucal, proteção contra cáries higiene bucal proteção contra cáries hálito fresco flúor "
+  },
+  {
+    "id": "prod-0076",
+    "nome": "Escova Dental Macia 1 un",
+    "marca": "Dauf",
+    "categoria": "higiene",
+    "subcategoria": "escova-dental",
+    "tamanho": "1 un",
+    "preco": 5.9,
+    "nota": 4.1,
+    "num_avaliacoes": 600,
+    "imagem": "assets/produtos/prod-0076.png",
+    "estoque_simulado": true,
+    "descricao_curta": "Escova Dental Macia: indicado para higiene bucal, escovação diária",
+    "faixa_etaria": "adulto",
+    "nivel_risco": "livre",
+    "marca_propria": true,
+    "origem_dado": "sintetico+linha-dauf-confirmada",
+    "data_coleta": "2026-10-20",
+    "indicado_para": [
+      "higiene bucal",
+      "escovação diária"
+    ],
+    "tipo_pele": [],
+    "ingredientes_chave": [],
+    "alertas": [],
+    "contraindicacoes": [],
+    "equivalentes": [
+      "prod-0078",
+      "prod-0077"
+    ],
+    "texto_busca": "Escova Dental Macia 1 un Dauf Escova Dental Macia: indicado para higiene bucal, escovação diária higiene bucal escovação diária  "
+  },
+  {
+    "id": "prod-0077",
+    "nome": "Escova Dental Extramacia 2 un",
+    "marca": "Sorriso Pleno",
+    "categoria": "higiene",
+    "subcategoria": "escova-dental",
+    "tamanho": "2 un",
+    "preco": 14.9,
+    "nota": 4.5,
+    "num_avaliacoes": 330,
+    "imagem": "assets/produtos/prod-0077.png",
+    "estoque_simulado": true,
+    "descricao_curta": "Escova Dental Extramacia: indicado para higiene bucal, escovação diária",
+    "faixa_etaria": "adulto",
+    "nivel_risco": "livre",
+    "marca_propria": false,
+    "origem_dado": "sintetico-marca-ficticia",
+    "data_coleta": "2026-10-20",
+    "indicado_para": [
+      "higiene bucal",
+      "escovação diária",
+      "gengiva sensível"
+    ],
+    "tipo_pele": [],
+    "ingredientes_chave": [],
+    "alertas": [],
+    "contraindicacoes": [],
+    "equivalentes": [
+      "prod-0078",
+      "prod-0076"
+    ],
+    "texto_busca": "Escova Dental Extramacia 2 un Sorriso Pleno Escova Dental Extramacia: indicado para higiene bucal, escovação diária higiene bucal escovação diária gengiva sensível  "
+  },
+  {
+    "id": "prod-0078",
+    "nome": "Escova Dental Bambu 1 un",
+    "marca": "Cuide+",
+    "categoria": "higiene",
+    "subcategoria": "escova-dental",
+    "tamanho": "1 un",
+    "preco": 12.9,
+    "nota": 4.2,
+    "num_avaliacoes": 150,
+    "imagem": "assets/produtos/prod-0078.png",
+    "estoque_simulado": true,
+    "descricao_curta": "Escova Dental Bambu: indicado para higiene bucal, escovação diária",
+    "faixa_etaria": "adulto",
+    "nivel_risco": "livre",
+    "marca_propria": false,
+    "origem_dado": "sintetico-marca-ficticia",
+    "data_coleta": "2026-10-20",
+    "indicado_para": [
+      "higiene bucal",
+      "escovação diária",
+      "sustentável"
+    ],
+    "tipo_pele": [],
+    "ingredientes_chave": [],
+    "alertas": [],
+    "contraindicacoes": [],
+    "equivalentes": [
+      "prod-0077",
+      "prod-0076"
+    ],
+    "texto_busca": "Escova Dental Bambu 1 un Cuide+ Escova Dental Bambu: indicado para higiene bucal, escovação diária higiene bucal escovação diária sustentável  "
+  },
+  {
+    "id": "prod-0079",
+    "nome": "Fio Dental 50 m",
+    "marca": "Dauf",
+    "categoria": "higiene",
+    "subcategoria": "fio-dental",
+    "tamanho": "50 m",
+    "preco": 4.9,
+    "nota": 4.1,
+    "num_avaliacoes": 540,
+    "imagem": "assets/produtos/prod-0079.png",
+    "estoque_simulado": true,
+    "descricao_curta": "Fio Dental: indicado para higiene bucal, limpeza entre os dentes",
+    "faixa_etaria": "adulto",
+    "nivel_risco": "livre",
+    "marca_propria": true,
+    "origem_dado": "sintetico+linha-dauf-confirmada",
+    "data_coleta": "2026-10-20",
+    "indicado_para": [
+      "higiene bucal",
+      "limpeza entre os dentes"
+    ],
+    "tipo_pele": [],
+    "ingredientes_chave": [],
+    "alertas": [],
+    "contraindicacoes": [],
+    "equivalentes": [
+      "prod-0081",
+      "prod-0080"
+    ],
+    "texto_busca": "Fio Dental 50 m Dauf Fio Dental: indicado para higiene bucal, limpeza entre os dentes higiene bucal limpeza entre os dentes  "
+  },
+  {
+    "id": "prod-0080",
+    "nome": "Fio Dental Encerado 100 m",
+    "marca": "Sorriso Pleno",
+    "categoria": "higiene",
+    "subcategoria": "fio-dental",
+    "tamanho": "100 m",
+    "preco": 9.9,
+    "nota": 4.4,
+    "num_avaliacoes": 280,
+    "imagem": "assets/produtos/prod-0080.png",
+    "estoque_simulado": true,
+    "descricao_curta": "Fio Dental Encerado: indicado para higiene bucal, limpeza entre os dentes",
+    "faixa_etaria": "adulto",
+    "nivel_risco": "livre",
+    "marca_propria": false,
+    "origem_dado": "sintetico-marca-ficticia",
+    "data_coleta": "2026-10-20",
+    "indicado_para": [
+      "higiene bucal",
+      "limpeza entre os dentes"
+    ],
+    "tipo_pele": [],
+    "ingredientes_chave": [],
+    "alertas": [],
+    "contraindicacoes": [],
+    "equivalentes": [
+      "prod-0081",
+      "prod-0079"
+    ],
+    "texto_busca": "Fio Dental Encerado 100 m Sorriso Pleno Fio Dental Encerado: indicado para higiene bucal, limpeza entre os dentes higiene bucal limpeza entre os dentes  "
+  },
+  {
+    "id": "prod-0081",
+    "nome": "Fita Dental 50 m",
+    "marca": "Cuide+",
+    "categoria": "higiene",
+    "subcategoria": "fio-dental",
+    "tamanho": "50 m",
+    "preco": 7.9,
+    "nota": 4.3,
+    "num_avaliacoes": 190,
+    "imagem": "assets/produtos/prod-0081.png",
+    "estoque_simulado": true,
+    "descricao_curta": "Fita Dental: indicado para higiene bucal, limpeza entre os dentes",
+    "faixa_etaria": "adulto",
+    "nivel_risco": "livre",
+    "marca_propria": false,
+    "origem_dado": "sintetico-marca-ficticia",
+    "data_coleta": "2026-10-20",
+    "indicado_para": [
+      "higiene bucal",
+      "limpeza entre os dentes"
+    ],
+    "tipo_pele": [],
+    "ingredientes_chave": [],
+    "alertas": [],
+    "contraindicacoes": [],
+    "equivalentes": [
+      "prod-0080",
+      "prod-0079"
+    ],
+    "texto_busca": "Fita Dental 50 m Cuide+ Fita Dental: indicado para higiene bucal, limpeza entre os dentes higiene bucal limpeza entre os dentes  "
+  },
+  {
+    "id": "prod-0082",
+    "nome": "Enxaguante Bucal Sem Álcool 500 ml",
+    "marca": "Dauf",
+    "categoria": "higiene",
+    "subcategoria": "enxaguante-bucal",
+    "tamanho": "500 ml",
+    "preco": 12.9,
+    "nota": 4.2,
+    "num_avaliacoes": 330,
+    "imagem": "assets/produtos/prod-0082.png",
+    "estoque_simulado": true,
+    "descricao_curta": "Enxaguante Bucal Sem Álcool: indicado para higiene bucal, hálito fresco",
+    "faixa_etaria": "adulto",
+    "nivel_risco": "livre",
+    "marca_propria": true,
+    "origem_dado": "sintetico+linha-dauf-confirmada",
+    "data_coleta": "2026-10-20",
+    "indicado_para": [
+      "higiene bucal",
+      "hálito fresco",
+      "cuidado com a gengiva",
+      "sem álcool"
+    ],
+    "tipo_pele": [],
+    "ingredientes_chave": [],
+    "alertas": [],
+    "contraindicacoes": [
+      "Não engolir",
+      "Manter fora do alcance de crianças pequenas"
+    ],
+    "equivalentes": [
+      "prod-0084",
+      "prod-0083"
+    ],
+    "texto_busca": "Enxaguante Bucal Sem Álcool 500 ml Dauf Enxaguante Bucal Sem Álcool: indicado para higiene bucal, hálito fresco higiene bucal hálito fresco cuidado com a gengiva sem álcool  "
+  },
+  {
+    "id": "prod-0083",
+    "nome": "Enxaguante Bucal Proteção da Gengiva 500 ml",
+    "marca": "Sorriso Pleno",
+    "categoria": "higiene",
+    "subcategoria": "enxaguante-bucal",
+    "tamanho": "500 ml",
+    "preco": 21.9,
+    "nota": 4.5,
+    "num_avaliacoes": 270,
+    "imagem": "assets/produtos/prod-0083.png",
+    "estoque_simulado": true,
+    "descricao_curta": "Enxaguante Bucal Proteção da Gengiva: indicado para higiene bucal, hálito fresco",
+    "faixa_etaria": "adulto",
+    "nivel_risco": "livre",
+    "marca_propria": false,
+    "origem_dado": "sintetico-marca-ficticia",
+    "data_coleta": "2026-10-20",
+    "indicado_para": [
+      "higiene bucal",
+      "hálito fresco",
+      "cuidado com a gengiva"
+    ],
+    "tipo_pele": [],
+    "ingredientes_chave": [],
+    "alertas": [],
+    "contraindicacoes": [
+      "Não engolir",
+      "Manter fora do alcance de crianças pequenas"
+    ],
+    "equivalentes": [
+      "prod-0084",
+      "prod-0082"
+    ],
+    "texto_busca": "Enxaguante Bucal Proteção da Gengiva 500 ml Sorriso Pleno Enxaguante Bucal Proteção da Gengiva: indicado para higiene bucal, hálito fresco higiene bucal hálito fresco cuidado com a gengiva  "
+  },
+  {
+    "id": "prod-0084",
+    "nome": "Enxaguante Bucal Menta 500 ml",
+    "marca": "Cuide+",
+    "categoria": "higiene",
+    "subcategoria": "enxaguante-bucal",
+    "tamanho": "500 ml",
+    "preco": 14.9,
+    "nota": 4.2,
+    "num_avaliacoes": 210,
+    "imagem": "assets/produtos/prod-0084.png",
+    "estoque_simulado": true,
+    "descricao_curta": "Enxaguante Bucal Menta: indicado para higiene bucal, hálito fresco",
+    "faixa_etaria": "adulto",
+    "nivel_risco": "livre",
+    "marca_propria": false,
+    "origem_dado": "sintetico-marca-ficticia",
+    "data_coleta": "2026-10-20",
+    "indicado_para": [
+      "higiene bucal",
+      "hálito fresco",
+      "cuidado com a gengiva"
+    ],
+    "tipo_pele": [],
+    "ingredientes_chave": [],
+    "alertas": [],
+    "contraindicacoes": [
+      "Não engolir",
+      "Manter fora do alcance de crianças pequenas"
+    ],
+    "equivalentes": [
+      "prod-0082",
+      "prod-0083"
+    ],
+    "texto_busca": "Enxaguante Bucal Menta 500 ml Cuide+ Enxaguante Bucal Menta: indicado para higiene bucal, hálito fresco higiene bucal hálito fresco cuidado com a gengiva  "
+  },
+  {
+    "id": "prod-0085",
+    "nome": "Sabonete Líquido Corporal Hidratante 250 ml",
+    "marca": "Dauf",
+    "categoria": "higiene",
+    "subcategoria": "sabonete-liquido",
+    "tamanho": "250 ml",
+    "preco": 8.9,
+    "nota": 4.2,
+    "num_avaliacoes": 450,
+    "imagem": "assets/produtos/prod-0085.png",
+    "estoque_simulado": true,
+    "descricao_curta": "Sabonete Líquido Corporal Hidratante: indicado para banho, limpeza corporal",
+    "faixa_etaria": "adulto",
+    "nivel_risco": "livre",
+    "marca_propria": true,
+    "origem_dado": "sintetico+linha-dauf-confirmada",
+    "data_coleta": "2026-10-20",
+    "indicado_para": [
+      "banho",
+      "limpeza corporal",
+      "higiene diária"
+    ],
+    "tipo_pele": [
+      "todos"
+    ],
+    "ingredientes_chave": [],
+    "alertas": [],
+    "contraindicacoes": [
+      "Evitar em caso de alergia a algum componente da fórmula"
+    ],
+    "equivalentes": [
+      "prod-0088",
+      "prod-0086",
+      "prod-0087"
+    ],
+    "texto_busca": "Sabonete Líquido Corporal Hidratante 250 ml Dauf Sabonete Líquido Corporal Hidratante: indicado para banho, limpeza corporal banho limpeza corporal higiene diária  todos"
+  },
+  {
+    "id": "prod-0086",
+    "nome": "Sabonete Líquido Corporal Hidratante 300 ml",
+    "marca": "Brisa",
+    "categoria": "higiene",
+    "subcategoria": "sabonete-liquido",
+    "tamanho": "300 ml",
+    "preco": 14.9,
+    "nota": 4.3,
+    "num_avaliacoes": 240,
+    "imagem": "assets/produtos/prod-0086.png",
+    "estoque_simulado": true,
+    "descricao_curta": "Sabonete Líquido Corporal Hidratante: indicado para banho, limpeza corporal",
+    "faixa_etaria": "adulto",
+    "nivel_risco": "livre",
+    "marca_propria": false,
+    "origem_dado": "sintetico-marca-ficticia",
+    "data_coleta": "2026-10-20",
+    "indicado_para": [
+      "banho",
+      "limpeza corporal",
+      "higiene diária"
+    ],
+    "tipo_pele": [
+      "todos"
+    ],
+    "ingredientes_chave": [],
+    "alertas": [],
+    "contraindicacoes": [
+      "Evitar em caso de alergia a algum componente da fórmula"
+    ],
+    "equivalentes": [
+      "prod-0087",
+      "prod-0088",
+      "prod-0085"
+    ],
+    "texto_busca": "Sabonete Líquido Corporal Hidratante 300 ml Brisa Sabonete Líquido Corporal Hidratante: indicado para banho, limpeza corporal banho limpeza corporal higiene diária  todos"
+  },
+  {
+    "id": "prod-0087",
+    "nome": "Sabonete Líquido Corporal Aveia 250 ml",
+    "marca": "Naturalis",
+    "categoria": "higiene",
+    "subcategoria": "sabonete-liquido",
+    "tamanho": "250 ml",
+    "preco": 16.9,
+    "nota": 4.5,
+    "num_avaliacoes": 160,
+    "imagem": "assets/produtos/prod-0087.png",
+    "estoque_simulado": true,
+    "descricao_curta": "Sabonete Líquido Corporal Aveia: indicado para banho, limpeza corporal",
+    "faixa_etaria": "adulto",
+    "nivel_risco": "livre",
+    "marca_propria": false,
+    "origem_dado": "sintetico-marca-ficticia",
+    "data_coleta": "2026-10-20",
+    "indicado_para": [
+      "banho",
+      "limpeza corporal",
+      "higiene diária",
+      "pele sensível",
+      "pele seca"
+    ],
+    "tipo_pele": [
+      "sensível",
+      "seca"
+    ],
+    "ingredientes_chave": [
+      "aveia"
+    ],
+    "alertas": [],
+    "contraindicacoes": [
+      "Evitar em caso de alergia a algum componente da fórmula"
+    ],
+    "equivalentes": [
+      "prod-0086",
+      "prod-0088",
+      "prod-0085"
+    ],
+    "texto_busca": "Sabonete Líquido Corporal Aveia 250 ml Naturalis Sabonete Líquido Corporal Aveia: indicado para banho, limpeza corporal banho limpeza corporal higiene diária pele sensível pele seca aveia sensível seca"
+  },
+  {
+    "id": "prod-0088",
+    "nome": "Sabonete Líquido Corporal Neutro 300 ml",
+    "marca": "Verdi",
+    "categoria": "higiene",
+    "subcategoria": "sabonete-liquido",
+    "tamanho": "300 ml",
+    "preco": 11.9,
+    "nota": 4.2,
+    "num_avaliacoes": 210,
+    "imagem": "assets/produtos/prod-0088.png",
+    "estoque_simulado": true,
+    "descricao_curta": "Sabonete Líquido Corporal Neutro: indicado para banho, limpeza corporal",
+    "faixa_etaria": "adulto",
+    "nivel_risco": "livre",
+    "marca_propria": false,
+    "origem_dado": "sintetico-marca-ficticia",
+    "data_coleta": "2026-10-20",
+    "indicado_para": [
+      "banho",
+      "limpeza corporal",
+      "higiene diária",
+      "pele sensível"
+    ],
+    "tipo_pele": [
+      "todos"
+    ],
+    "ingredientes_chave": [],
+    "alertas": [],
+    "contraindicacoes": [
+      "Evitar em caso de alergia a algum componente da fórmula"
+    ],
+    "equivalentes": [
+      "prod-0085",
+      "prod-0086",
+      "prod-0087"
+    ],
+    "texto_busca": "Sabonete Líquido Corporal Neutro 300 ml Verdi Sabonete Líquido Corporal Neutro: indicado para banho, limpeza corporal banho limpeza corporal higiene diária pele sensível  todos"
+  },
+  {
+    "id": "prod-0089",
+    "nome": "Sabonete em Barra Hidratante 4 x 85 g",
+    "marca": "Dauf",
+    "categoria": "higiene",
+    "subcategoria": "sabonete-barra",
+    "tamanho": "4 x 85 g",
+    "preco": 9.9,
+    "nota": 4.2,
+    "num_avaliacoes": 380,
+    "imagem": "assets/produtos/prod-0089.png",
+    "estoque_simulado": true,
+    "descricao_curta": "Sabonete em Barra Hidratante: indicado para banho, limpeza corporal",
+    "faixa_etaria": "adulto",
+    "nivel_risco": "livre",
+    "marca_propria": true,
+    "origem_dado": "sintetico+linha-dauf-confirmada",
+    "data_coleta": "2026-10-20",
+    "indicado_para": [
+      "banho",
+      "limpeza corporal",
+      "higiene diária"
+    ],
+    "tipo_pele": [
+      "todos"
+    ],
+    "ingredientes_chave": [],
+    "alertas": [],
+    "contraindicacoes": [
+      "Evitar em caso de alergia a algum componente da fórmula"
+    ],
+    "equivalentes": [
+      "prod-0091",
+      "prod-0090"
+    ],
+    "texto_busca": "Sabonete em Barra Hidratante 4 x 85 g Dauf Sabonete em Barra Hidratante: indicado para banho, limpeza corporal banho limpeza corporal higiene diária  todos"
+  },
+  {
+    "id": "prod-0090",
+    "nome": "Sabonete em Barra Glicerinado 90 g",
+    "marca": "Brisa",
+    "categoria": "higiene",
+    "subcategoria": "sabonete-barra",
+    "tamanho": "90 g",
+    "preco": 4.9,
+    "nota": 4.3,
+    "num_avaliacoes": 220,
+    "imagem": "assets/produtos/prod-0090.png",
+    "estoque_simulado": true,
+    "descricao_curta": "Sabonete em Barra Glicerinado: indicado para banho, limpeza corporal",
+    "faixa_etaria": "adulto",
+    "nivel_risco": "livre",
+    "marca_propria": false,
+    "origem_dado": "sintetico-marca-ficticia",
+    "data_coleta": "2026-10-20",
+    "indicado_para": [
+      "banho",
+      "limpeza corporal",
+      "higiene diária"
+    ],
+    "tipo_pele": [
+      "todos"
+    ],
+    "ingredientes_chave": [],
+    "alertas": [],
+    "contraindicacoes": [
+      "Evitar em caso de alergia a algum componente da fórmula"
+    ],
+    "equivalentes": [
+      "prod-0091",
+      "prod-0089"
+    ],
+    "texto_busca": "Sabonete em Barra Glicerinado 90 g Brisa Sabonete em Barra Glicerinado: indicado para banho, limpeza corporal banho limpeza corporal higiene diária  todos"
+  },
+  {
+    "id": "prod-0091",
+    "nome": "Sabonete em Barra Argila 90 g",
+    "marca": "Naturalis",
+    "categoria": "higiene",
+    "subcategoria": "sabonete-barra",
+    "tamanho": "90 g",
+    "preco": 6.9,
+    "nota": 4.4,
+    "num_avaliacoes": 130,
+    "imagem": "assets/produtos/prod-0091.png",
+    "estoque_simulado": true,
+    "descricao_curta": "Sabonete em Barra Argila: indicado para banho, limpeza corporal",
+    "faixa_etaria": "adulto",
+    "nivel_risco": "livre",
+    "marca_propria": false,
+    "origem_dado": "sintetico-marca-ficticia",
+    "data_coleta": "2026-10-20",
+    "indicado_para": [
+      "banho",
+      "limpeza corporal",
+      "higiene diária",
+      "pele oleosa"
+    ],
+    "tipo_pele": [
+      "todos"
+    ],
+    "ingredientes_chave": [
+      "argila"
+    ],
+    "alertas": [],
+    "contraindicacoes": [
+      "Evitar em caso de alergia a algum componente da fórmula"
+    ],
+    "equivalentes": [
+      "prod-0090",
+      "prod-0089"
+    ],
+    "texto_busca": "Sabonete em Barra Argila 90 g Naturalis Sabonete em Barra Argila: indicado para banho, limpeza corporal banho limpeza corporal higiene diária pele oleosa argila todos"
+  },
+  {
+    "id": "prod-0092",
+    "nome": "Desodorante Aerossol 150 ml",
+    "marca": "Dauf",
+    "categoria": "higiene",
+    "subcategoria": "desodorante",
+    "tamanho": "150 ml",
+    "preco": 12.9,
+    "nota": 4.2,
+    "num_avaliacoes": 560,
+    "imagem": "assets/produtos/prod-0092.png",
+    "estoque_simulado": false,
+    "descricao_curta": "Desodorante Aerossol: indicado para desodorante, higiene diária",
+    "faixa_etaria": "adulto",
+    "nivel_risco": "livre",
+    "marca_propria": true,
+    "origem_dado": "sintetico+linha-dauf-confirmada",
+    "data_coleta": "2026-10-20",
+    "indicado_para": [
+      "desodorante",
+      "higiene diária",
+      "transpiração"
+    ],
+    "tipo_pele": [
+      "todos"
+    ],
+    "ingredientes_chave": [],
+    "alertas": [],
+    "contraindicacoes": [
+      "Interromper o uso em caso de irritação"
+    ],
+    "equivalentes": [
+      "prod-0093",
+      "prod-0094",
+      "prod-0095"
+    ],
+    "texto_busca": "Desodorante Aerossol 150 ml Dauf Desodorante Aerossol: indicado para desodorante, higiene diária desodorante higiene diária transpiração  todos"
+  },
+  {
+    "id": "prod-0093",
+    "nome": "Desodorante Roll-on 50 ml",
+    "marca": "Dauf",
+    "categoria": "higiene",
+    "subcategoria": "desodorante",
+    "tamanho": "50 ml",
+    "preco": 9.9,
+    "nota": 4.1,
+    "num_avaliacoes": 340,
+    "imagem": "assets/produtos/prod-0093.png",
+    "estoque_simulado": true,
+    "descricao_curta": "Desodorante Roll-on: indicado para desodorante, higiene diária",
+    "faixa_etaria": "adulto",
+    "nivel_risco": "livre",
+    "marca_propria": true,
+    "origem_dado": "sintetico+linha-dauf-confirmada",
+    "data_coleta": "2026-10-20",
+    "indicado_para": [
+      "desodorante",
+      "higiene diária",
+      "transpiração"
+    ],
+    "tipo_pele": [
+      "todos"
+    ],
+    "ingredientes_chave": [],
+    "alertas": [],
+    "contraindicacoes": [
+      "Interromper o uso em caso de irritação"
+    ],
+    "equivalentes": [
+      "prod-0092",
+      "prod-0094",
+      "prod-0095"
+    ],
+    "texto_busca": "Desodorante Roll-on 50 ml Dauf Desodorante Roll-on: indicado para desodorante, higiene diária desodorante higiene diária transpiração  todos"
+  },
+  {
+    "id": "prod-0094",
+    "nome": "Desodorante Antitranspirante Sem Perfume 90 ml",
+    "marca": "Brisa",
+    "categoria": "higiene",
+    "subcategoria": "desodorante",
+    "tamanho": "90 ml",
+    "preco": 17.9,
+    "nota": 4.5,
+    "num_avaliacoes": 180,
+    "imagem": "assets/produtos/prod-0094.png",
+    "estoque_simulado": true,
+    "descricao_curta": "Desodorante Antitranspirante Sem Perfume: indicado para desodorante, higiene diária",
+    "faixa_etaria": "adulto",
+    "nivel_risco": "livre",
+    "marca_propria": false,
+    "origem_dado": "sintetico-marca-ficticia",
+    "data_coleta": "2026-10-20",
+    "indicado_para": [
+      "desodorante",
+      "higiene diária",
+      "transpiração",
+      "pele sensível",
+      "sem perfume"
+    ],
+    "tipo_pele": [
+      "todos"
+    ],
+    "ingredientes_chave": [],
+    "alertas": [],
+    "contraindicacoes": [
+      "Interromper o uso em caso de irritação"
+    ],
+    "equivalentes": [
+      "prod-0095",
+      "prod-0092",
+      "prod-0093"
+    ],
+    "texto_busca": "Desodorante Antitranspirante Sem Perfume 90 ml Brisa Desodorante Antitranspirante Sem Perfume: indicado para desodorante, higiene diária desodorante higiene diária transpiração pele sensível sem perfume  todos"
+  },
+  {
+    "id": "prod-0095",
+    "nome": "Desodorante Antitranspirante 48h 150 ml",
+    "marca": "Vitalle",
+    "categoria": "higiene",
+    "subcategoria": "desodorante",
+    "tamanho": "150 ml",
+    "preco": 19.9,
+    "nota": 4.4,
+    "num_avaliacoes": 290,
+    "imagem": "assets/produtos/prod-0095.png",
+    "estoque_simulado": true,
+    "descricao_curta": "Desodorante Antitranspirante 48h: indicado para desodorante, higiene diária",
+    "faixa_etaria": "adulto",
+    "nivel_risco": "livre",
+    "marca_propria": false,
+    "origem_dado": "sintetico-marca-ficticia",
+    "data_coleta": "2026-10-20",
+    "indicado_para": [
+      "desodorante",
+      "higiene diária",
+      "transpiração",
+      "proteção prolongada"
+    ],
+    "tipo_pele": [
+      "todos"
+    ],
+    "ingredientes_chave": [],
+    "alertas": [],
+    "contraindicacoes": [
+      "Interromper o uso em caso de irritação"
+    ],
+    "equivalentes": [
+      "prod-0094",
+      "prod-0092",
+      "prod-0093"
+    ],
+    "texto_busca": "Desodorante Antitranspirante 48h 150 ml Vitalle Desodorante Antitranspirante 48h: indicado para desodorante, higiene diária desodorante higiene diária transpiração proteção prolongada  todos"
+  },
+  {
+    "id": "prod-0096",
+    "nome": "Depilação Depil Cera Fria Corporal 100 g",
+    "marca": "Dauf",
+    "categoria": "higiene",
+    "subcategoria": "depilacao",
+    "tamanho": "100 g",
+    "preco": 15.9,
+    "nota": 4.1,
+    "num_avaliacoes": 260,
+    "imagem": "assets/produtos/prod-0096.png",
+    "estoque_simulado": true,
+    "descricao_curta": "Depilação Depil Cera Fria Corporal: indicado para depilação, remoção de pelos",
+    "faixa_etaria": "adulto",
+    "nivel_risco": "livre",
+    "marca_propria": true,
+    "origem_dado": "sintetico+linha-dauf-confirmada",
+    "data_coleta": "2026-10-20",
+    "indicado_para": [
+      "depilação",
+      "remoção de pelos",
+      "depilação com cera"
+    ],
+    "tipo_pele": [
+      "todos"
+    ],
+    "ingredientes_chave": [],
+    "alertas": [
+      "Fazer teste prévio em pequena área da pele"
+    ],
+    "contraindicacoes": [
+      "Evitar em caso de alergia a algum componente da fórmula",
+      "Interromper o uso em caso de irritação"
+    ],
+    "equivalentes": [
+      "prod-0099",
+      "prod-0097",
+      "prod-0098"
+    ],
+    "texto_busca": "Depilação Depil Cera Fria Corporal 100 g Dauf Depilação Depil Cera Fria Corporal: indicado para depilação, remoção de pelos depilação remoção de pelos depilação com cera  todos"
+  },
+  {
+    "id": "prod-0097",
+    "nome": "Depilação Depil Creme Depilatório 100 g",
+    "marca": "Dauf",
+    "categoria": "higiene",
+    "subcategoria": "depilacao",
+    "tamanho": "100 g",
+    "preco": 12.9,
+    "nota": 4.0,
+    "num_avaliacoes": 220,
+    "imagem": "assets/produtos/prod-0097.png",
+    "estoque_simulado": true,
+    "descricao_curta": "Depilação Depil Creme Depilatório: indicado para depilação, remoção de pelos",
+    "faixa_etaria": "adulto",
+    "nivel_risco": "livre",
+    "marca_propria": true,
+    "origem_dado": "sintetico+linha-dauf-confirmada",
+    "data_coleta": "2026-10-20",
+    "indicado_para": [
+      "depilação",
+      "remoção de pelos",
+      "depilação com creme"
+    ],
+    "tipo_pele": [
+      "todos"
+    ],
+    "ingredientes_chave": [],
+    "alertas": [
+      "Fazer teste prévio em pequena área da pele"
+    ],
+    "contraindicacoes": [
+      "Evitar em caso de alergia a algum componente da fórmula",
+      "Interromper o uso em caso de irritação"
+    ],
+    "equivalentes": [
+      "prod-0096",
+      "prod-0098",
+      "prod-0099"
+    ],
+    "texto_busca": "Depilação Depil Creme Depilatório 100 g Dauf Depilação Depil Creme Depilatório: indicado para depilação, remoção de pelos depilação remoção de pelos depilação com creme  todos"
+  },
+  {
+    "id": "prod-0098",
+    "nome": "Depilação Lâmina de Barbear Descartável 4 un",
+    "marca": "Brisa",
+    "categoria": "higiene",
+    "subcategoria": "depilacao",
+    "tamanho": "4 un",
+    "preco": 9.9,
+    "nota": 4.2,
+    "num_avaliacoes": 310,
+    "imagem": "assets/produtos/prod-0098.png",
+    "estoque_simulado": true,
+    "descricao_curta": "Depilação Lâmina de Barbear Descartável: indicado para depilação, remoção de pelos",
+    "faixa_etaria": "adulto",
+    "nivel_risco": "livre",
+    "marca_propria": false,
+    "origem_dado": "sintetico-marca-ficticia",
+    "data_coleta": "2026-10-20",
+    "indicado_para": [
+      "depilação",
+      "remoção de pelos",
+      "barbear"
+    ],
+    "tipo_pele": [
+      "todos"
+    ],
+    "ingredientes_chave": [],
+    "alertas": [
+      "Fazer teste prévio em pequena área da pele"
+    ],
+    "contraindicacoes": [
+      "Evitar em caso de alergia a algum componente da fórmula",
+      "Interromper o uso em caso de irritação"
+    ],
+    "equivalentes": [
+      "prod-0097",
+      "prod-0096",
+      "prod-0099"
+    ],
+    "texto_busca": "Depilação Lâmina de Barbear Descartável 4 un Brisa Depilação Lâmina de Barbear Descartável: indicado para depilação, remoção de pelos depilação remoção de pelos barbear  todos"
+  },
+  {
+    "id": "prod-0099",
+    "nome": "Depilação Aparelho de Barbear 3 Lâminas 2 un",
+    "marca": "Cuide+",
+    "categoria": "higiene",
+    "subcategoria": "depilacao",
+    "tamanho": "2 un",
+    "preco": 15.9,
+    "nota": 4.4,
+    "num_avaliacoes": 280,
+    "imagem": "assets/produtos/prod-0099.png",
+    "estoque_simulado": true,
+    "descricao_curta": "Depilação Aparelho de Barbear 3 Lâminas: indicado para depilação, remoção de pelos",
+    "faixa_etaria": "adulto",
+    "nivel_risco": "livre",
+    "marca_propria": false,
+    "origem_dado": "sintetico-marca-ficticia",
+    "data_coleta": "2026-10-20",
+    "indicado_para": [
+      "depilação",
+      "remoção de pelos",
+      "barbear"
+    ],
+    "tipo_pele": [
+      "todos"
+    ],
+    "ingredientes_chave": [],
+    "alertas": [
+      "Fazer teste prévio em pequena área da pele"
+    ],
+    "contraindicacoes": [
+      "Evitar em caso de alergia a algum componente da fórmula",
+      "Interromper o uso em caso de irritação"
+    ],
+    "equivalentes": [
+      "prod-0096",
+      "prod-0097",
+      "prod-0098"
+    ],
+    "texto_busca": "Depilação Aparelho de Barbear 3 Lâminas 2 un Cuide+ Depilação Aparelho de Barbear 3 Lâminas: indicado para depilação, remoção de pelos depilação remoção de pelos barbear  todos"
+  },
+  {
+    "id": "prod-0100",
+    "nome": "Absorvente com Abas 16 un",
+    "marca": "Dauf",
+    "categoria": "higiene",
+    "subcategoria": "absorvente",
+    "tamanho": "16 un",
+    "preco": 4.5,
+    "nota": 4.2,
+    "num_avaliacoes": 420,
+    "imagem": "assets/produtos/prod-0100.png",
+    "estoque_simulado": true,
+    "descricao_curta": "Absorvente com Abas: indicado para higiene íntima, ciclo menstrual",
+    "faixa_etaria": "adulto",
+    "nivel_risco": "livre",
+    "marca_propria": true,
+    "origem_dado": "sintetico+linha-dauf-a-confirmar",
+    "data_coleta": "2026-10-20",
+    "indicado_para": [
+      "higiene íntima",
+      "ciclo menstrual",
+      "proteção diária"
+    ],
+    "tipo_pele": [],
+    "ingredientes_chave": [],
+    "alertas": [],
+    "contraindicacoes": [],
+    "equivalentes": [
+      "prod-0101",
+      "prod-0102"
+    ],
+    "texto_busca": "Absorvente com Abas 16 un Dauf Absorvente com Abas: indicado para higiene íntima, ciclo menstrual higiene íntima ciclo menstrual proteção diária  "
+  },
+  {
+    "id": "prod-0101",
+    "nome": "Absorvente Noturno 8 un",
+    "marca": "Brisa",
+    "categoria": "higiene",
+    "subcategoria": "absorvente",
+    "tamanho": "8 un",
+    "preco": 7.9,
+    "nota": 4.4,
+    "num_avaliacoes": 250,
+    "imagem": "assets/produtos/prod-0101.png",
+    "estoque_simulado": true,
+    "descricao_curta": "Absorvente Noturno: indicado para higiene íntima, ciclo menstrual",
+    "faixa_etaria": "adulto",
+    "nivel_risco": "livre",
+    "marca_propria": false,
+    "origem_dado": "sintetico-marca-ficticia",
+    "data_coleta": "2026-10-20",
+    "indicado_para": [
+      "higiene íntima",
+      "ciclo menstrual",
+      "proteção diária",
+      "uso noturno"
+    ],
+    "tipo_pele": [],
+    "ingredientes_chave": [],
+    "alertas": [],
+    "contraindicacoes": [],
+    "equivalentes": [
+      "prod-0102",
+      "prod-0100"
+    ],
+    "texto_busca": "Absorvente Noturno 8 un Brisa Absorvente Noturno: indicado para higiene íntima, ciclo menstrual higiene íntima ciclo menstrual proteção diária uso noturno  "
+  },
+  {
+    "id": "prod-0102",
+    "nome": "Protetor Diário 40 un",
+    "marca": "Cuide+",
+    "categoria": "higiene",
+    "subcategoria": "absorvente",
+    "tamanho": "40 un",
+    "preco": 8.9,
+    "nota": 4.3,
+    "num_avaliacoes": 200,
+    "imagem": "assets/produtos/prod-0102.png",
+    "estoque_simulado": true,
+    "descricao_curta": "Protetor Diário: indicado para higiene íntima, ciclo menstrual",
+    "faixa_etaria": "adulto",
+    "nivel_risco": "livre",
+    "marca_propria": false,
+    "origem_dado": "sintetico-marca-ficticia",
+    "data_coleta": "2026-10-20",
+    "indicado_para": [
+      "higiene íntima",
+      "ciclo menstrual",
+      "proteção diária",
+      "proteção diária"
+    ],
+    "tipo_pele": [],
+    "ingredientes_chave": [],
+    "alertas": [],
+    "contraindicacoes": [],
+    "equivalentes": [
+      "prod-0101",
+      "prod-0100"
+    ],
+    "texto_busca": "Protetor Diário 40 un Cuide+ Protetor Diário: indicado para higiene íntima, ciclo menstrual higiene íntima ciclo menstrual proteção diária proteção diária  "
+  },
+  {
+    "id": "prod-0103",
+    "nome": "Sabonete Líquido Infantil Sem Lágrimas 200 ml",
+    "marca": "Kidz Care",
+    "categoria": "bebe",
+    "subcategoria": "sabonete-infantil",
+    "tamanho": "200 ml",
+    "preco": 14.9,
+    "nota": 4.7,
+    "num_avaliacoes": 480,
+    "imagem": "assets/produtos/prod-0103.png",
+    "estoque_simulado": true,
+    "descricao_curta": "Sabonete Líquido Infantil Sem Lágrimas: indicado para banho do bebê, higiene infantil",
+    "faixa_etaria": "infantil",
+    "nivel_risco": "livre",
+    "marca_propria": false,
+    "origem_dado": "sintetico-marca-ficticia",
+    "data_coleta": "2026-10-20",
+    "indicado_para": [
+      "banho do bebê",
+      "higiene infantil",
+      "pele sensível"
+    ],
+    "tipo_pele": [
+      "sensível"
+    ],
+    "ingredientes_chave": [],
+    "alertas": [],
+    "contraindicacoes": [
+      "Evitar em caso de alergia a algum componente da fórmula"
+    ],
+    "equivalentes": [
+      "prod-0105",
+      "prod-0104"
+    ],
+    "texto_busca": "Sabonete Líquido Infantil Sem Lágrimas 200 ml Kidz Care Sabonete Líquido Infantil Sem Lágrimas: indicado para banho do bebê, higiene infantil banho do bebê higiene infantil pele sensível  sensível"
+  },
+  {
+    "id": "prod-0104",
+    "nome": "Sabonete Líquido Infantil Infantil 200 ml",
+    "marca": "Dauf",
+    "categoria": "bebe",
+    "subcategoria": "sabonete-infantil",
+    "tamanho": "200 ml",
+    "preco": 8.9,
+    "nota": 4.2,
+    "num_avaliacoes": 300,
+    "imagem": "assets/produtos/prod-0104.png",
+    "estoque_simulado": true,
+    "descricao_curta": "Sabonete Líquido Infantil Infantil: indicado para banho do bebê, higiene infantil",
+    "faixa_etaria": "infantil",
+    "nivel_risco": "livre",
+    "marca_propria": true,
+    "origem_dado": "sintetico+linha-dauf-a-confirmar",
+    "data_coleta": "2026-10-20",
+    "indicado_para": [
+      "banho do bebê",
+      "higiene infantil",
+      "pele sensível"
+    ],
+    "tipo_pele": [
+      "sensível"
+    ],
+    "ingredientes_chave": [],
+    "alertas": [],
+    "contraindicacoes": [
+      "Evitar em caso de alergia a algum componente da fórmula"
+    ],
+    "equivalentes": [
+      "prod-0105",
+      "prod-0103"
+    ],
+    "texto_busca": "Sabonete Líquido Infantil Infantil 200 ml Dauf Sabonete Líquido Infantil Infantil: indicado para banho do bebê, higiene infantil banho do bebê higiene infantil pele sensível  sensível"
+  },
+  {
+    "id": "prod-0105",
+    "nome": "Sabonete Líquido Infantil Neutro Bebê 150 ml",
+    "marca": "Nuvem",
+    "categoria": "bebe",
+    "subcategoria": "sabonete-infantil",
+    "tamanho": "150 ml",
+    "preco": 12.9,
+    "nota": 4.6,
+    "num_avaliacoes": 260,
+    "imagem": "assets/produtos/prod-0105.png",
+    "estoque_simulado": true,
+    "descricao_curta": "Sabonete Líquido Infantil Neutro Bebê: indicado para banho do bebê, higiene infantil",
+    "faixa_etaria": "infantil",
+    "nivel_risco": "livre",
+    "marca_propria": false,
+    "origem_dado": "sintetico-marca-ficticia",
+    "data_coleta": "2026-10-20",
+    "indicado_para": [
+      "banho do bebê",
+      "higiene infantil",
+      "pele sensível"
+    ],
+    "tipo_pele": [
+      "sensível"
+    ],
+    "ingredientes_chave": [],
+    "alertas": [],
+    "contraindicacoes": [
+      "Evitar em caso de alergia a algum componente da fórmula"
+    ],
+    "equivalentes": [
+      "prod-0103",
+      "prod-0104"
+    ],
+    "texto_busca": "Sabonete Líquido Infantil Neutro Bebê 150 ml Nuvem Sabonete Líquido Infantil Neutro Bebê: indicado para banho do bebê, higiene infantil banho do bebê higiene infantil pele sensível  sensível"
+  },
+  {
+    "id": "prod-0106",
+    "nome": "Shampoo Infantil Sem Lágrimas 200 ml",
+    "marca": "Kidz Care",
+    "categoria": "bebe",
+    "subcategoria": "shampoo-infantil",
+    "tamanho": "200 ml",
+    "preco": 15.9,
+    "nota": 4.7,
+    "num_avaliacoes": 450,
+    "imagem": "assets/produtos/prod-0106.png",
+    "estoque_simulado": true,
+    "descricao_curta": "Shampoo Infantil Sem Lágrimas: indicado para banho do bebê, cabelo infantil",
+    "faixa_etaria": "infantil",
+    "nivel_risco": "livre",
+    "marca_propria": false,
+    "origem_dado": "sintetico-marca-ficticia",
+    "data_coleta": "2026-10-20",
+    "indicado_para": [
+      "banho do bebê",
+      "cabelo infantil",
+      "sem lágrimas"
+    ],
+    "tipo_pele": [],
+    "ingredientes_chave": [],
+    "alertas": [],
+    "contraindicacoes": [
+      "Evitar contato com os olhos"
+    ],
+    "equivalentes": [
+      "prod-0107",
+      "prod-0108"
+    ],
+    "texto_busca": "Shampoo Infantil Sem Lágrimas 200 ml Kidz Care Shampoo Infantil Sem Lágrimas: indicado para banho do bebê, cabelo infantil banho do bebê cabelo infantil sem lágrimas  "
+  },
+  {
+    "id": "prod-0107",
+    "nome": "Shampoo Infantil Suave Bebê 200 ml",
+    "marca": "Nuvem",
+    "categoria": "bebe",
+    "subcategoria": "shampoo-infantil",
+    "tamanho": "200 ml",
+    "preco": 13.9,
+    "nota": 4.6,
+    "num_avaliacoes": 230,
+    "imagem": "assets/produtos/prod-0107.png",
+    "estoque_simulado": true,
+    "descricao_curta": "Shampoo Infantil Suave Bebê: indicado para banho do bebê, cabelo infantil",
+    "faixa_etaria": "infantil",
+    "nivel_risco": "livre",
+    "marca_propria": false,
+    "origem_dado": "sintetico-marca-ficticia",
+    "data_coleta": "2026-10-20",
+    "indicado_para": [
+      "banho do bebê",
+      "cabelo infantil",
+      "sem lágrimas"
+    ],
+    "tipo_pele": [],
+    "ingredientes_chave": [],
+    "alertas": [],
+    "contraindicacoes": [
+      "Evitar contato com os olhos"
+    ],
+    "equivalentes": [
+      "prod-0106",
+      "prod-0108"
+    ],
+    "texto_busca": "Shampoo Infantil Suave Bebê 200 ml Nuvem Shampoo Infantil Suave Bebê: indicado para banho do bebê, cabelo infantil banho do bebê cabelo infantil sem lágrimas  "
+  },
+  {
+    "id": "prod-0108",
+    "nome": "Shampoo Infantil Infantil 200 ml",
+    "marca": "Dauf",
+    "categoria": "bebe",
+    "subcategoria": "shampoo-infantil",
+    "tamanho": "200 ml",
+    "preco": 9.9,
+    "nota": 4.2,
+    "num_avaliacoes": 280,
+    "imagem": "assets/produtos/prod-0108.png",
+    "estoque_simulado": true,
+    "descricao_curta": "Shampoo Infantil Infantil: indicado para banho do bebê, cabelo infantil",
+    "faixa_etaria": "infantil",
+    "nivel_risco": "livre",
+    "marca_propria": true,
+    "origem_dado": "sintetico+linha-dauf-a-confirmar",
+    "data_coleta": "2026-10-20",
+    "indicado_para": [
+      "banho do bebê",
+      "cabelo infantil",
+      "sem lágrimas"
+    ],
+    "tipo_pele": [],
+    "ingredientes_chave": [],
+    "alertas": [],
+    "contraindicacoes": [
+      "Evitar contato com os olhos"
+    ],
+    "equivalentes": [
+      "prod-0107",
+      "prod-0106"
+    ],
+    "texto_busca": "Shampoo Infantil Infantil 200 ml Dauf Shampoo Infantil Infantil: indicado para banho do bebê, cabelo infantil banho do bebê cabelo infantil sem lágrimas  "
+  },
+  {
+    "id": "prod-0109",
+    "nome": "Loção Hidratante Bebê 200 ml",
+    "marca": "Kidz Care",
+    "categoria": "bebe",
+    "subcategoria": "hidratante-infantil",
+    "tamanho": "200 ml",
+    "preco": 19.9,
+    "nota": 4.7,
+    "num_avaliacoes": 400,
+    "imagem": "assets/produtos/prod-0109.png",
+    "estoque_simulado": true,
+    "descricao_curta": "Loção Hidratante Bebê: indicado para hidratação do bebê, pele sensível",
+    "faixa_etaria": "infantil",
+    "nivel_risco": "livre",
+    "marca_propria": false,
+    "origem_dado": "sintetico-marca-ficticia",
+    "data_coleta": "2026-10-20",
+    "indicado_para": [
+      "hidratação do bebê",
+      "pele sensível",
+      "pele seca infantil"
+    ],
+    "tipo_pele": [
+      "sensível",
+      "seca"
+    ],
+    "ingredientes_chave": [
+      "glicerina"
+    ],
+    "alertas": [],
+    "contraindicacoes": [
+      "Evitar em caso de alergia a algum componente da fórmula"
+    ],
+    "equivalentes": [
+      "prod-0110",
+      "prod-0111"
+    ],
+    "texto_busca": "Loção Hidratante Bebê 200 ml Kidz Care Loção Hidratante Bebê: indicado para hidratação do bebê, pele sensível hidratação do bebê pele sensível pele seca infantil glicerina sensível seca"
+  },
+  {
+    "id": "prod-0110",
+    "nome": "Creme Pele Sensível 200 g",
+    "marca": "Nuvem",
+    "categoria": "bebe",
+    "subcategoria": "hidratante-infantil",
+    "tamanho": "200 g",
+    "preco": 24.9,
+    "nota": 4.8,
+    "num_avaliacoes": 220,
+    "imagem": "assets/produtos/prod-0110.png",
+    "estoque_simulado": true,
+    "descricao_curta": "Creme Pele Sensível: indicado para hidratação do bebê, pele sensível",
+    "faixa_etaria": "infantil",
+    "nivel_risco": "livre",
+    "marca_propria": false,
+    "origem_dado": "sintetico-marca-ficticia",
+    "data_coleta": "2026-10-20",
+    "indicado_para": [
+      "hidratação do bebê",
+      "pele sensível",
+      "pele seca infantil"
+    ],
+    "tipo_pele": [
+      "sensível",
+      "seca"
+    ],
+    "ingredientes_chave": [
+      "pantenol",
+      "glicerina"
+    ],
+    "alertas": [],
+    "contraindicacoes": [
+      "Evitar em caso de alergia a algum componente da fórmula"
+    ],
+    "equivalentes": [
+      "prod-0109",
+      "prod-0111"
+    ],
+    "texto_busca": "Creme Pele Sensível 200 g Nuvem Creme Pele Sensível: indicado para hidratação do bebê, pele sensível hidratação do bebê pele sensível pele seca infantil pantenol glicerina sensível seca"
+  },
+  {
+    "id": "prod-0111",
+    "nome": "Loção Hidratante Infantil 200 ml",
+    "marca": "Dauf",
+    "categoria": "bebe",
+    "subcategoria": "hidratante-infantil",
+    "tamanho": "200 ml",
+    "preco": 11.9,
+    "nota": 4.2,
+    "num_avaliacoes": 310,
+    "imagem": "assets/produtos/prod-0111.png",
+    "estoque_simulado": true,
+    "descricao_curta": "Loção Hidratante Infantil: indicado para hidratação do bebê, pele sensível",
+    "faixa_etaria": "infantil",
+    "nivel_risco": "livre",
+    "marca_propria": true,
+    "origem_dado": "sintetico+linha-dauf-a-confirmar",
+    "data_coleta": "2026-10-20",
+    "indicado_para": [
+      "hidratação do bebê",
+      "pele sensível",
+      "pele seca infantil"
+    ],
+    "tipo_pele": [
+      "sensível",
+      "seca"
+    ],
+    "ingredientes_chave": [
+      "glicerina"
+    ],
+    "alertas": [],
+    "contraindicacoes": [
+      "Evitar em caso de alergia a algum componente da fórmula"
+    ],
+    "equivalentes": [
+      "prod-0109",
+      "prod-0110"
+    ],
+    "texto_busca": "Loção Hidratante Infantil 200 ml Dauf Loção Hidratante Infantil: indicado para hidratação do bebê, pele sensível hidratação do bebê pele sensível pele seca infantil glicerina sensível seca"
+  },
+  {
+    "id": "prod-0112",
+    "nome": "Lenço Umedecido Sem Perfume 100 un",
+    "marca": "Kidz Care",
+    "categoria": "bebe",
+    "subcategoria": "lenco-umedecido",
+    "tamanho": "100 un",
+    "preco": 14.9,
+    "nota": 4.6,
+    "num_avaliacoes": 520,
+    "imagem": "assets/produtos/prod-0112.png",
+    "estoque_simulado": true,
+    "descricao_curta": "Lenço Umedecido Sem Perfume: indicado para troca de fraldas, limpeza prática",
+    "faixa_etaria": "infantil",
+    "nivel_risco": "livre",
+    "marca_propria": false,
+    "origem_dado": "sintetico-marca-ficticia",
+    "data_coleta": "2026-10-20",
+    "indicado_para": [
+      "troca de fraldas",
+      "limpeza prática",
+      "higiene infantil"
+    ],
+    "tipo_pele": [
+      "sensível"
+    ],
+    "ingredientes_chave": [],
+    "alertas": [],
+    "contraindicacoes": [
+      "Interromper o uso em caso de irritação"
+    ],
+    "equivalentes": [
+      "prod-0113",
+      "prod-0114"
+    ],
+    "texto_busca": "Lenço Umedecido Sem Perfume 100 un Kidz Care Lenço Umedecido Sem Perfume: indicado para troca de fraldas, limpeza prática troca de fraldas limpeza prática higiene infantil  sensível"
+  },
+  {
+    "id": "prod-0113",
+    "nome": "Lenço Umedecido Hipoalergênico 80 un",
+    "marca": "Nuvem",
+    "categoria": "bebe",
+    "subcategoria": "lenco-umedecido",
+    "tamanho": "80 un",
+    "preco": 10.9,
+    "nota": 4.5,
+    "num_avaliacoes": 300,
+    "imagem": "assets/produtos/prod-0113.png",
+    "estoque_simulado": true,
+    "descricao_curta": "Lenço Umedecido Hipoalergênico: indicado para troca de fraldas, limpeza prática",
+    "faixa_etaria": "infantil",
+    "nivel_risco": "livre",
+    "marca_propria": false,
+    "origem_dado": "sintetico-marca-ficticia",
+    "data_coleta": "2026-10-20",
+    "indicado_para": [
+      "troca de fraldas",
+      "limpeza prática",
+      "higiene infantil",
+      "hipoalergênico"
+    ],
+    "tipo_pele": [
+      "sensível"
+    ],
+    "ingredientes_chave": [],
+    "alertas": [],
+    "contraindicacoes": [
+      "Interromper o uso em caso de irritação"
+    ],
+    "equivalentes": [
+      "prod-0114",
+      "prod-0112"
+    ],
+    "texto_busca": "Lenço Umedecido Hipoalergênico 80 un Nuvem Lenço Umedecido Hipoalergênico: indicado para troca de fraldas, limpeza prática troca de fraldas limpeza prática higiene infantil hipoalergênico  sensível"
+  },
+  {
+    "id": "prod-0114",
+    "nome": "Lenço Umedecido Lenço Umedecido 100 un",
+    "marca": "Dauf",
+    "categoria": "bebe",
+    "subcategoria": "lenco-umedecido",
+    "tamanho": "100 un",
+    "preco": 9.9,
+    "nota": 4.2,
+    "num_avaliacoes": 410,
+    "imagem": "assets/produtos/prod-0114.png",
+    "estoque_simulado": true,
+    "descricao_curta": "Lenço Umedecido Lenço Umedecido: indicado para troca de fraldas, limpeza prática",
+    "faixa_etaria": "infantil",
+    "nivel_risco": "livre",
+    "marca_propria": true,
+    "origem_dado": "sintetico+linha-dauf-a-confirmar",
+    "data_coleta": "2026-10-20",
+    "indicado_para": [
+      "troca de fraldas",
+      "limpeza prática",
+      "higiene infantil"
+    ],
+    "tipo_pele": [
+      "sensível"
+    ],
+    "ingredientes_chave": [],
+    "alertas": [],
+    "contraindicacoes": [
+      "Interromper o uso em caso de irritação"
+    ],
+    "equivalentes": [
+      "prod-0113",
+      "prod-0112"
+    ],
+    "texto_busca": "Lenço Umedecido Lenço Umedecido 100 un Dauf Lenço Umedecido Lenço Umedecido: indicado para troca de fraldas, limpeza prática troca de fraldas limpeza prática higiene infantil  sensível"
+  },
+  {
+    "id": "prod-0115",
+    "nome": "Protetor Solar Infantil FPS 50 120 ml",
+    "marca": "Kidz Care",
+    "categoria": "bebe",
+    "subcategoria": "protetor-solar-infantil",
+    "tamanho": "120 ml",
+    "preco": 49.9,
+    "nota": 4.7,
+    "num_avaliacoes": 330,
+    "imagem": "assets/produtos/prod-0115.png",
+    "estoque_simulado": false,
+    "descricao_curta": "Protetor Solar Infantil FPS 50: indicado para proteção solar infantil, praia",
+    "faixa_etaria": "infantil",
+    "nivel_risco": "livre",
+    "marca_propria": false,
+    "origem_dado": "sintetico-marca-ficticia",
+    "data_coleta": "2026-10-20",
+    "indicado_para": [
+      "proteção solar infantil",
+      "praia",
+      "piscina"
+    ],
+    "tipo_pele": [
+      "sensível"
+    ],
+    "ingredientes_chave": [
+      "filtros UVA/UVB"
+    ],
+    "alertas": [
+      "Reaplicar conforme orientação da embalagem",
+      "Verificar a faixa etária indicada na embalagem"
+    ],
+    "contraindicacoes": [
+      "Interromper o uso em caso de irritação"
+    ],
+    "equivalentes": [
+      "prod-0117",
+      "prod-0116"
+    ],
+    "texto_busca": "Protetor Solar Infantil FPS 50 120 ml Kidz Care Protetor Solar Infantil FPS 50: indicado para proteção solar infantil, praia proteção solar infantil praia piscina filtros UVA/UVB sensível"
+  },
+  {
+    "id": "prod-0116",
+    "nome": "Protetor Solar Infantil Kids FPS 50 120 ml",
+    "marca": "Dauf",
+    "categoria": "bebe",
+    "subcategoria": "protetor-solar-infantil",
+    "tamanho": "120 ml",
+    "preco": 29.9,
+    "nota": 4.4,
+    "num_avaliacoes": 360,
+    "imagem": "assets/produtos/prod-0116.png",
+    "estoque_simulado": true,
+    "descricao_curta": "Protetor Solar Infantil Kids FPS 50: indicado para proteção solar infantil, praia",
+    "faixa_etaria": "infantil",
+    "nivel_risco": "livre",
+    "marca_propria": true,
+    "origem_dado": "sintetico+linha-dauf-confirmada",
+    "data_coleta": "2026-10-20",
+    "indicado_para": [
+      "proteção solar infantil",
+      "praia",
+      "piscina"
+    ],
+    "tipo_pele": [
+      "sensível"
+    ],
+    "ingredientes_chave": [
+      "filtros UVA/UVB"
+    ],
+    "alertas": [
+      "Reaplicar conforme orientação da embalagem",
+      "Verificar a faixa etária indicada na embalagem"
+    ],
+    "contraindicacoes": [
+      "Interromper o uso em caso de irritação"
+    ],
+    "equivalentes": [
+      "prod-0117",
+      "prod-0115"
+    ],
+    "texto_busca": "Protetor Solar Infantil Kids FPS 50 120 ml Dauf Protetor Solar Infantil Kids FPS 50: indicado para proteção solar infantil, praia proteção solar infantil praia piscina filtros UVA/UVB sensível"
+  },
+  {
+    "id": "prod-0117",
+    "nome": "Protetor Solar Infantil Kids FPS 60 120 ml",
+    "marca": "Solare",
+    "categoria": "bebe",
+    "subcategoria": "protetor-solar-infantil",
+    "tamanho": "120 ml",
+    "preco": 44.9,
+    "nota": 4.6,
+    "num_avaliacoes": 240,
+    "imagem": "assets/produtos/prod-0117.png",
+    "estoque_simulado": true,
+    "descricao_curta": "Protetor Solar Infantil Kids FPS 60: indicado para proteção solar infantil, praia",
+    "faixa_etaria": "infantil",
+    "nivel_risco": "livre",
+    "marca_propria": false,
+    "origem_dado": "sintetico-marca-ficticia",
+    "data_coleta": "2026-10-20",
+    "indicado_para": [
+      "proteção solar infantil",
+      "praia",
+      "piscina"
+    ],
+    "tipo_pele": [
+      "sensível"
+    ],
+    "ingredientes_chave": [
+      "filtros UVA/UVB"
+    ],
+    "alertas": [
+      "Reaplicar conforme orientação da embalagem",
+      "Verificar a faixa etária indicada na embalagem"
+    ],
+    "contraindicacoes": [
+      "Interromper o uso em caso de irritação"
+    ],
+    "equivalentes": [
+      "prod-0115",
+      "prod-0116"
+    ],
+    "texto_busca": "Protetor Solar Infantil Kids FPS 60 120 ml Solare Protetor Solar Infantil Kids FPS 60: indicado para proteção solar infantil, praia proteção solar infantil praia piscina filtros UVA/UVB sensível"
+  },
+  {
+    "id": "prod-0118",
+    "nome": "Hastes Flexíveis 150 un",
+    "marca": "Dauf",
+    "categoria": "bebe",
+    "subcategoria": "hastes-flexiveis",
+    "tamanho": "150 un",
+    "preco": 3.9,
+    "nota": 4.2,
+    "num_avaliacoes": 480,
+    "imagem": "assets/produtos/prod-0118.png",
+    "estoque_simulado": true,
+    "descricao_curta": "Hastes Flexíveis: indicado para higiene externa das orelhas, uso geral",
+    "faixa_etaria": "todos",
+    "nivel_risco": "livre",
+    "marca_propria": true,
+    "origem_dado": "sintetico+linha-dauf-confirmada",
+    "data_coleta": "2026-10-20",
+    "indicado_para": [
+      "higiene externa das orelhas",
+      "uso geral"
+    ],
+    "tipo_pele": [],
+    "ingredientes_chave": [],
+    "alertas": [
+      "Uso apenas na parte externa"
+    ],
+    "contraindicacoes": [],
+    "equivalentes": [
+      "prod-0119"
+    ],
+    "texto_busca": "Hastes Flexíveis 150 un Dauf Hastes Flexíveis: indicado para higiene externa das orelhas, uso geral higiene externa das orelhas uso geral  "
+  },
+  {
+    "id": "prod-0119",
+    "nome": "Hastes Flexíveis Bebê 75 un",
+    "marca": "Nuvem",
+    "categoria": "bebe",
+    "subcategoria": "hastes-flexiveis",
+    "tamanho": "75 un",
+    "preco": 5.9,
+    "nota": 4.4,
+    "num_avaliacoes": 160,
+    "imagem": "assets/produtos/prod-0119.png",
+    "estoque_simulado": true,
+    "descricao_curta": "Hastes Flexíveis Bebê: indicado para higiene externa das orelhas, uso geral",
+    "faixa_etaria": "infantil",
+    "nivel_risco": "livre",
+    "marca_propria": false,
+    "origem_dado": "sintetico-marca-ficticia",
+    "data_coleta": "2026-10-20",
+    "indicado_para": [
+      "higiene externa das orelhas",
+      "uso geral"
+    ],
+    "tipo_pele": [],
+    "ingredientes_chave": [],
+    "alertas": [
+      "Uso apenas na parte externa"
+    ],
+    "contraindicacoes": [],
+    "equivalentes": [
+      "prod-0118"
+    ],
+    "texto_busca": "Hastes Flexíveis Bebê 75 un Nuvem Hastes Flexíveis Bebê: indicado para higiene externa das orelhas, uso geral higiene externa das orelhas uso geral  "
+  },
+  {
+    "id": "prod-0120",
+    "nome": "Gel Dental Infantil 50 g",
+    "marca": "Sorriso Pleno",
+    "categoria": "bebe",
+    "subcategoria": "creme-dental-infantil",
+    "tamanho": "50 g",
+    "preco": 9.9,
+    "nota": 4.5,
+    "num_avaliacoes": 280,
+    "imagem": "assets/produtos/prod-0120.png",
+    "estoque_simulado": true,
+    "descricao_curta": "Gel Dental Infantil: indicado para higiene bucal infantil, primeiros dentes",
+    "faixa_etaria": "infantil",
+    "nivel_risco": "livre",
+    "marca_propria": false,
+    "origem_dado": "sintetico-marca-ficticia",
+    "data_coleta": "2026-10-20",
+    "indicado_para": [
+      "higiene bucal infantil",
+      "primeiros dentes"
+    ],
+    "tipo_pele": [],
+    "ingredientes_chave": [
+      "flúor"
+    ],
+    "alertas": [
+      "Supervisão de um adulto durante a escovação"
+    ],
+    "contraindicacoes": [
+      "Manter fora do alcance de crianças pequenas"
+    ],
+    "equivalentes": [
+      "prod-0121"
+    ],
+    "texto_busca": "Gel Dental Infantil 50 g Sorriso Pleno Gel Dental Infantil: indicado para higiene bucal infantil, primeiros dentes higiene bucal infantil primeiros dentes flúor "
+  },
+  {
+    "id": "prod-0121",
+    "nome": "Creme Dental Infantil Frutas 50 g",
+    "marca": "Kidz Care",
+    "categoria": "bebe",
+    "subcategoria": "creme-dental-infantil",
+    "tamanho": "50 g",
+    "preco": 8.9,
+    "nota": 4.4,
+    "num_avaliacoes": 230,
+    "imagem": "assets/produtos/prod-0121.png",
+    "estoque_simulado": true,
+    "descricao_curta": "Creme Dental Infantil Frutas: indicado para higiene bucal infantil, primeiros dentes",
+    "faixa_etaria": "infantil",
+    "nivel_risco": "livre",
+    "marca_propria": false,
+    "origem_dado": "sintetico-marca-ficticia",
+    "data_coleta": "2026-10-20",
+    "indicado_para": [
+      "higiene bucal infantil",
+      "primeiros dentes"
+    ],
+    "tipo_pele": [],
+    "ingredientes_chave": [
+      "flúor"
+    ],
+    "alertas": [
+      "Supervisão de um adulto durante a escovação"
+    ],
+    "contraindicacoes": [
+      "Manter fora do alcance de crianças pequenas"
+    ],
+    "equivalentes": [
+      "prod-0120"
+    ],
+    "texto_busca": "Creme Dental Infantil Frutas 50 g Kidz Care Creme Dental Infantil Frutas: indicado para higiene bucal infantil, primeiros dentes higiene bucal infantil primeiros dentes flúor "
+  },
+  {
+    "id": "prod-0122",
+    "nome": "Repelente de Insetos Loção 100 ml",
+    "marca": "Dauf",
+    "categoria": "bem-estar",
+    "subcategoria": "repelente",
+    "tamanho": "100 ml",
+    "preco": 12.9,
+    "nota": 4.1,
+    "num_avaliacoes": 380,
+    "imagem": "assets/produtos/prod-0122.png",
+    "estoque_simulado": true,
+    "descricao_curta": "Repelente de Insetos Loção: indicado para repelente de insetos, mosquitos",
+    "faixa_etaria": "adulto",
+    "nivel_risco": "livre",
+    "marca_propria": true,
+    "origem_dado": "sintetico+linha-dauf-a-confirmar",
+    "data_coleta": "2026-10-20",
+    "indicado_para": [
+      "repelente de insetos",
+      "mosquitos",
+      "viagem",
+      "trilha",
+      "áreas externas"
+    ],
+    "tipo_pele": [],
+    "ingredientes_chave": [
+      "ativo repelente"
+    ],
+    "alertas": [
+      "Seguir a faixa etária e as instruções da embalagem"
+    ],
+    "contraindicacoes": [
+      "Evitar contato com olhos e mucosas",
+      "Não aplicar em pele com lesões"
+    ],
+    "equivalentes": [
+      "prod-0124",
+      "prod-0125",
+      "prod-0123"
+    ],
+    "texto_busca": "Repelente de Insetos Loção 100 ml Dauf Repelente de Insetos Loção: indicado para repelente de insetos, mosquitos repelente de insetos mosquitos viagem trilha áreas externas ativo repelente "
+  },
+  {
+    "id": "prod-0123",
+    "nome": "Repelente de Insetos Icaridina 100 ml",
+    "marca": "Verdi",
+    "categoria": "bem-estar",
+    "subcategoria": "repelente",
+    "tamanho": "100 ml",
+    "preco": 29.9,
+    "nota": 4.6,
+    "num_avaliacoes": 700,
+    "imagem": "assets/produtos/prod-0123.png",
+    "estoque_simulado": true,
+    "descricao_curta": "Repelente de Insetos Icaridina: indicado para repelente de insetos, mosquitos",
+    "faixa_etaria": "adulto",
+    "nivel_risco": "livre",
+    "marca_propria": false,
+    "origem_dado": "sintetico-marca-ficticia",
+    "data_coleta": "2026-10-20",
+    "indicado_para": [
+      "repelente de insetos",
+      "mosquitos",
+      "viagem",
+      "trilha",
+      "áreas externas"
+    ],
+    "tipo_pele": [],
+    "ingredientes_chave": [
+      "icaridina"
+    ],
+    "alertas": [
+      "Seguir a faixa etária e as instruções da embalagem"
+    ],
+    "contraindicacoes": [
+      "Evitar contato com olhos e mucosas",
+      "Não aplicar em pele com lesões"
+    ],
+    "equivalentes": [
+      "prod-0125",
+      "prod-0124",
+      "prod-0122"
+    ],
+    "texto_busca": "Repelente de Insetos Icaridina 100 ml Verdi Repelente de Insetos Icaridina: indicado para repelente de insetos, mosquitos repelente de insetos mosquitos viagem trilha áreas externas icaridina "
+  },
+  {
+    "id": "prod-0124",
+    "nome": "Repelente de Insetos Infantil 100 ml",
+    "marca": "Kidz Care",
+    "categoria": "bem-estar",
+    "subcategoria": "repelente",
+    "tamanho": "100 ml",
+    "preco": 24.9,
+    "nota": 4.5,
+    "num_avaliacoes": 260,
+    "imagem": "assets/produtos/prod-0124.png",
+    "estoque_simulado": true,
+    "descricao_curta": "Repelente de Insetos Infantil: indicado para repelente de insetos, mosquitos",
+    "faixa_etaria": "infantil",
+    "nivel_risco": "livre",
+    "marca_propria": false,
+    "origem_dado": "sintetico-marca-ficticia",
+    "data_coleta": "2026-10-20",
+    "indicado_para": [
+      "repelente de insetos",
+      "mosquitos",
+      "viagem",
+      "trilha",
+      "áreas externas",
+      "uso infantil conforme a embalagem"
+    ],
+    "tipo_pele": [],
+    "ingredientes_chave": [
+      "ativo repelente"
+    ],
+    "alertas": [
+      "Seguir a faixa etária e as instruções da embalagem"
+    ],
+    "contraindicacoes": [
+      "Evitar contato com olhos e mucosas",
+      "Não aplicar em pele com lesões"
+    ],
+    "equivalentes": [
+      "prod-0125",
+      "prod-0123",
+      "prod-0122"
+    ],
+    "texto_busca": "Repelente de Insetos Infantil 100 ml Kidz Care Repelente de Insetos Infantil: indicado para repelente de insetos, mosquitos repelente de insetos mosquitos viagem trilha áreas externas uso infantil conforme a embalagem ativo repelente "
+  },
+  {
+    "id": "prod-0125",
+    "nome": "Repelente de Insetos Spray 200 ml",
+    "marca": "Brisa",
+    "categoria": "bem-estar",
+    "subcategoria": "repelente",
+    "tamanho": "200 ml",
+    "preco": 27.9,
+    "nota": 4.3,
+    "num_avaliacoes": 310,
+    "imagem": "assets/produtos/prod-0125.png",
+    "estoque_simulado": true,
+    "descricao_curta": "Repelente de Insetos Spray: indicado para repelente de insetos, mosquitos",
+    "faixa_etaria": "adulto",
+    "nivel_risco": "livre",
+    "marca_propria": false,
+    "origem_dado": "sintetico-marca-ficticia",
+    "data_coleta": "2026-10-20",
+    "indicado_para": [
+      "repelente de insetos",
+      "mosquitos",
+      "viagem",
+      "trilha",
+      "áreas externas"
+    ],
+    "tipo_pele": [],
+    "ingredientes_chave": [
+      "ativo repelente"
+    ],
+    "alertas": [
+      "Seguir a faixa etária e as instruções da embalagem"
+    ],
+    "contraindicacoes": [
+      "Evitar contato com olhos e mucosas",
+      "Não aplicar em pele com lesões"
+    ],
+    "equivalentes": [
+      "prod-0123",
+      "prod-0124",
+      "prod-0122"
+    ],
+    "texto_busca": "Repelente de Insetos Spray 200 ml Brisa Repelente de Insetos Spray: indicado para repelente de insetos, mosquitos repelente de insetos mosquitos viagem trilha áreas externas ativo repelente "
+  },
+  {
+    "id": "prod-0126",
+    "nome": "Curativos Adesivos 40 un",
+    "marca": "Dauf",
+    "categoria": "bem-estar",
+    "subcategoria": "curativos",
+    "tamanho": "40 un",
+    "preco": 5.9,
+    "nota": 4.3,
+    "num_avaliacoes": 520,
+    "imagem": "assets/produtos/prod-0126.png",
+    "estoque_simulado": true,
+    "descricao_curta": "Curativos Adesivos: indicado para pequenos cortes e arranhões, primeiros socorros",
+    "faixa_etaria": "todos",
+    "nivel_risco": "livre",
+    "marca_propria": true,
+    "origem_dado": "sintetico+linha-dauf-confirmada",
+    "data_coleta": "2026-10-20",
+    "indicado_para": [
+      "pequenos cortes e arranhões",
+      "primeiros socorros",
+      "ferimentos superficiais"
+    ],
+    "tipo_pele": [],
+    "ingredientes_chave": [],
+    "alertas": [],
+    "contraindicacoes": [
+      "Em ferimentos profundos ou com sangramento intenso, buscar atendimento médico"
+    ],
+    "equivalentes": [
+      "prod-0127",
+      "prod-0128"
+    ],
+    "texto_busca": "Curativos Adesivos 40 un Dauf Curativos Adesivos: indicado para pequenos cortes e arranhões, primeiros socorros pequenos cortes e arranhões primeiros socorros ferimentos superficiais  "
+  },
+  {
+    "id": "prod-0127",
+    "nome": "Curativo Impermeável 20 un",
+    "marca": "FlexCare",
+    "categoria": "bem-estar",
+    "subcategoria": "curativos",
+    "tamanho": "20 un",
+    "preco": 12.9,
+    "nota": 4.6,
+    "num_avaliacoes": 300,
+    "imagem": "assets/produtos/prod-0127.png",
+    "estoque_simulado": true,
+    "descricao_curta": "Curativo Impermeável: indicado para pequenos cortes e arranhões, primeiros socorros",
+    "faixa_etaria": "todos",
+    "nivel_risco": "livre",
+    "marca_propria": false,
+    "origem_dado": "sintetico-marca-ficticia",
+    "data_coleta": "2026-10-20",
+    "indicado_para": [
+      "pequenos cortes e arranhões",
+      "primeiros socorros",
+      "ferimentos superficiais",
+      "à prova d'água"
+    ],
+    "tipo_pele": [],
+    "ingredientes_chave": [],
+    "alertas": [],
+    "contraindicacoes": [
+      "Em ferimentos profundos ou com sangramento intenso, buscar atendimento médico"
+    ],
+    "equivalentes": [
+      "prod-0128",
+      "prod-0126"
+    ],
+    "texto_busca": "Curativo Impermeável 20 un FlexCare Curativo Impermeável: indicado para pequenos cortes e arranhões, primeiros socorros pequenos cortes e arranhões primeiros socorros ferimentos superficiais à prova d'água  "
+  },
+  {
+    "id": "prod-0128",
+    "nome": "Curativo Transparente 30 un",
+    "marca": "Cuide+",
+    "categoria": "bem-estar",
+    "subcategoria": "curativos",
+    "tamanho": "30 un",
+    "preco": 14.9,
+    "nota": 4.4,
+    "num_avaliacoes": 180,
+    "imagem": "assets/produtos/prod-0128.png",
+    "estoque_simulado": true,
+    "descricao_curta": "Curativo Transparente: indicado para pequenos cortes e arranhões, primeiros socorros",
+    "faixa_etaria": "todos",
+    "nivel_risco": "livre",
+    "marca_propria": false,
+    "origem_dado": "sintetico-marca-ficticia",
+    "data_coleta": "2026-10-20",
+    "indicado_para": [
+      "pequenos cortes e arranhões",
+      "primeiros socorros",
+      "ferimentos superficiais",
+      "discreto"
+    ],
+    "tipo_pele": [],
+    "ingredientes_chave": [],
+    "alertas": [],
+    "contraindicacoes": [
+      "Em ferimentos profundos ou com sangramento intenso, buscar atendimento médico"
+    ],
+    "equivalentes": [
+      "prod-0127",
+      "prod-0126"
+    ],
+    "texto_busca": "Curativo Transparente 30 un Cuide+ Curativo Transparente: indicado para pequenos cortes e arranhões, primeiros socorros pequenos cortes e arranhões primeiros socorros ferimentos superficiais discreto  "
+  },
+  {
+    "id": "prod-0129",
+    "nome": "Algodão Hidrófilo 50 g",
+    "marca": "Dauf",
+    "categoria": "bem-estar",
+    "subcategoria": "algodao-gaze",
+    "tamanho": "50 g",
+    "preco": 4.9,
+    "nota": 4.2,
+    "num_avaliacoes": 400,
+    "imagem": "assets/produtos/prod-0129.png",
+    "estoque_simulado": true,
+    "descricao_curta": "Algodão Hidrófilo: indicado para primeiros socorros, higiene",
+    "faixa_etaria": "todos",
+    "nivel_risco": "livre",
+    "marca_propria": true,
+    "origem_dado": "sintetico+linha-dauf-confirmada",
+    "data_coleta": "2026-10-20",
+    "indicado_para": [
+      "primeiros socorros",
+      "higiene",
+      "curativos",
+      "algodão"
+    ],
+    "tipo_pele": [],
+    "ingredientes_chave": [],
+    "alertas": [],
+    "contraindicacoes": [],
+    "equivalentes": [
+      "prod-0130",
+      "prod-0131"
+    ],
+    "texto_busca": "Algodão Hidrófilo 50 g Dauf Algodão Hidrófilo: indicado para primeiros socorros, higiene primeiros socorros higiene curativos algodão  "
+  },
+  {
+    "id": "prod-0130",
+    "nome": "Gaze Estéril 10 un",
+    "marca": "Dauf",
+    "categoria": "bem-estar",
+    "subcategoria": "algodao-gaze",
+    "tamanho": "10 un",
+    "preco": 4.5,
+    "nota": 4.3,
+    "num_avaliacoes": 260,
+    "imagem": "assets/produtos/prod-0130.png",
+    "estoque_simulado": true,
+    "descricao_curta": "Gaze Estéril: indicado para primeiros socorros, higiene",
+    "faixa_etaria": "todos",
+    "nivel_risco": "livre",
+    "marca_propria": true,
+    "origem_dado": "sintetico+linha-dauf-confirmada",
+    "data_coleta": "2026-10-20",
+    "indicado_para": [
+      "primeiros socorros",
+      "higiene",
+      "curativos",
+      "gaze"
+    ],
+    "tipo_pele": [],
+    "ingredientes_chave": [],
+    "alertas": [],
+    "contraindicacoes": [],
+    "equivalentes": [
+      "prod-0129",
+      "prod-0131"
+    ],
+    "texto_busca": "Gaze Estéril 10 un Dauf Gaze Estéril: indicado para primeiros socorros, higiene primeiros socorros higiene curativos gaze  "
+  },
+  {
+    "id": "prod-0131",
+    "nome": "Kit Gaze 20 un",
+    "marca": "FlexCare",
+    "categoria": "bem-estar",
+    "subcategoria": "algodao-gaze",
+    "tamanho": "20 un",
+    "preco": 6.9,
+    "nota": 4.4,
+    "num_avaliacoes": 150,
+    "imagem": "assets/produtos/prod-0131.png",
+    "estoque_simulado": true,
+    "descricao_curta": "Kit Gaze: indicado para primeiros socorros, higiene",
+    "faixa_etaria": "todos",
+    "nivel_risco": "livre",
+    "marca_propria": false,
+    "origem_dado": "sintetico-marca-ficticia",
+    "data_coleta": "2026-10-20",
+    "indicado_para": [
+      "primeiros socorros",
+      "higiene",
+      "curativos",
+      "gaze"
+    ],
+    "tipo_pele": [],
+    "ingredientes_chave": [],
+    "alertas": [],
+    "contraindicacoes": [],
+    "equivalentes": [
+      "prod-0129",
+      "prod-0130"
+    ],
+    "texto_busca": "Kit Gaze 20 un FlexCare Kit Gaze: indicado para primeiros socorros, higiene primeiros socorros higiene curativos gaze  "
+  },
+  {
+    "id": "prod-0132",
+    "nome": "Álcool em Gel 70% 500 g",
+    "marca": "Dauf",
+    "categoria": "bem-estar",
+    "subcategoria": "alcool",
+    "tamanho": "500 g",
+    "preco": 9.9,
+    "nota": 4.3,
+    "num_avaliacoes": 470,
+    "imagem": "assets/produtos/prod-0132.png",
+    "estoque_simulado": true,
+    "descricao_curta": "Álcool em Gel 70%: indicado para higienização das mãos, higienização de superfícies",
+    "faixa_etaria": "adulto",
+    "nivel_risco": "livre",
+    "marca_propria": true,
+    "origem_dado": "sintetico+linha-dauf-confirmada",
+    "data_coleta": "2026-10-20",
+    "indicado_para": [
+      "higienização das mãos",
+      "higienização de superfícies",
+      "primeiros socorros",
+      "gel"
+    ],
+    "tipo_pele": [],
+    "ingredientes_chave": [
+      "álcool 70%"
+    ],
+    "alertas": [
+      "Produto inflamável: manter longe do fogo"
+    ],
+    "contraindicacoes": [
+      "Manter fora do alcance de crianças"
+    ],
+    "equivalentes": [
+      "prod-0133",
+      "prod-0134"
+    ],
+    "texto_busca": "Álcool em Gel 70% 500 g Dauf Álcool em Gel 70%: indicado para higienização das mãos, higienização de superfícies higienização das mãos higienização de superfícies primeiros socorros gel álcool 70% "
+  },
+  {
+    "id": "prod-0133",
+    "nome": "Álcool 70% Líquido 1 L",
+    "marca": "Dauf",
+    "categoria": "bem-estar",
+    "subcategoria": "alcool",
+    "tamanho": "1 L",
+    "preco": 11.9,
+    "nota": 4.2,
+    "num_avaliacoes": 330,
+    "imagem": "assets/produtos/prod-0133.png",
+    "estoque_simulado": true,
+    "descricao_curta": "Álcool 70% Líquido: indicado para higienização das mãos, higienização de superfícies",
+    "faixa_etaria": "adulto",
+    "nivel_risco": "livre",
+    "marca_propria": true,
+    "origem_dado": "sintetico+linha-dauf-confirmada",
+    "data_coleta": "2026-10-20",
+    "indicado_para": [
+      "higienização das mãos",
+      "higienização de superfícies",
+      "primeiros socorros",
+      "líquido"
+    ],
+    "tipo_pele": [],
+    "ingredientes_chave": [
+      "álcool 70%"
+    ],
+    "alertas": [
+      "Produto inflamável: manter longe do fogo"
+    ],
+    "contraindicacoes": [
+      "Manter fora do alcance de crianças"
+    ],
+    "equivalentes": [
+      "prod-0132",
+      "prod-0134"
+    ],
+    "texto_busca": "Álcool 70% Líquido 1 L Dauf Álcool 70% Líquido: indicado para higienização das mãos, higienização de superfícies higienização das mãos higienização de superfícies primeiros socorros líquido álcool 70% "
+  },
+  {
+    "id": "prod-0134",
+    "nome": "Álcool Gel 70% de Bolso 60 ml",
+    "marca": "Cuide+",
+    "categoria": "bem-estar",
+    "subcategoria": "alcool",
+    "tamanho": "60 ml",
+    "preco": 5.9,
+    "nota": 4.2,
+    "num_avaliacoes": 210,
+    "imagem": "assets/produtos/prod-0134.png",
+    "estoque_simulado": true,
+    "descricao_curta": "Álcool Gel 70% de Bolso: indicado para higienização das mãos, higienização de superfícies",
+    "faixa_etaria": "adulto",
+    "nivel_risco": "livre",
+    "marca_propria": false,
+    "origem_dado": "sintetico-marca-ficticia",
+    "data_coleta": "2026-10-20",
+    "indicado_para": [
+      "higienização das mãos",
+      "higienização de superfícies",
+      "primeiros socorros",
+      "bolso",
+      "viagem"
+    ],
+    "tipo_pele": [],
+    "ingredientes_chave": [
+      "álcool 70%"
+    ],
+    "alertas": [
+      "Produto inflamável: manter longe do fogo"
+    ],
+    "contraindicacoes": [
+      "Manter fora do alcance de crianças"
+    ],
+    "equivalentes": [
+      "prod-0132",
+      "prod-0133"
+    ],
+    "texto_busca": "Álcool Gel 70% de Bolso 60 ml Cuide+ Álcool Gel 70% de Bolso: indicado para higienização das mãos, higienização de superfícies higienização das mãos higienização de superfícies primeiros socorros bolso viagem álcool 70% "
+  },
+  {
+    "id": "prod-0135",
+    "nome": "Termômetro Digital 1 un",
+    "marca": "FlexCare",
+    "categoria": "bem-estar",
+    "subcategoria": "termometro",
+    "tamanho": "1 un",
+    "preco": 24.9,
+    "nota": 4.5,
+    "num_avaliacoes": 650,
+    "imagem": "assets/produtos/prod-0135.png",
+    "estoque_simulado": true,
+    "descricao_curta": "Termômetro Digital: indicado para medir a temperatura corporal, uso doméstico",
+    "faixa_etaria": "todos",
+    "nivel_risco": "livre",
+    "marca_propria": false,
+    "origem_dado": "sintetico-marca-ficticia",
+    "data_coleta": "2026-10-20",
+    "indicado_para": [
+      "medir a temperatura corporal",
+      "uso doméstico"
+    ],
+    "tipo_pele": [],
+    "ingredientes_chave": [],
+    "alertas": [
+      "Seguir o manual de uso do fabricante"
+    ],
+    "contraindicacoes": [
+      "Em caso de febre persistente ou sinais de gravidade, buscar atendimento médico"
+    ],
+    "equivalentes": [
+      "prod-0136",
+      "prod-0137"
+    ],
+    "texto_busca": "Termômetro Digital 1 un FlexCare Termômetro Digital: indicado para medir a temperatura corporal, uso doméstico medir a temperatura corporal uso doméstico  "
+  },
+  {
+    "id": "prod-0136",
+    "nome": "Termômetro Digital 1 un",
+    "marca": "Dauf",
+    "categoria": "bem-estar",
+    "subcategoria": "termometro",
+    "tamanho": "1 un",
+    "preco": 19.9,
+    "nota": 4.2,
+    "num_avaliacoes": 400,
+    "imagem": "assets/produtos/prod-0136.png",
+    "estoque_simulado": true,
+    "descricao_curta": "Termômetro Digital: indicado para medir a temperatura corporal, uso doméstico",
+    "faixa_etaria": "todos",
+    "nivel_risco": "livre",
+    "marca_propria": true,
+    "origem_dado": "sintetico+linha-dauf-a-confirmar",
+    "data_coleta": "2026-10-20",
+    "indicado_para": [
+      "medir a temperatura corporal",
+      "uso doméstico"
+    ],
+    "tipo_pele": [],
+    "ingredientes_chave": [],
+    "alertas": [
+      "Seguir o manual de uso do fabricante"
+    ],
+    "contraindicacoes": [
+      "Em caso de febre persistente ou sinais de gravidade, buscar atendimento médico"
+    ],
+    "equivalentes": [
+      "prod-0135",
+      "prod-0137"
+    ],
+    "texto_busca": "Termômetro Digital 1 un Dauf Termômetro Digital: indicado para medir a temperatura corporal, uso doméstico medir a temperatura corporal uso doméstico  "
+  },
+  {
+    "id": "prod-0137",
+    "nome": "Termômetro Infravermelho de Testa 1 un",
+    "marca": "Cuide+",
+    "categoria": "bem-estar",
+    "subcategoria": "termometro",
+    "tamanho": "1 un",
+    "preco": 89.9,
+    "nota": 4.4,
+    "num_avaliacoes": 210,
+    "imagem": "assets/produtos/prod-0137.png",
+    "estoque_simulado": true,
+    "descricao_curta": "Termômetro Infravermelho de Testa: indicado para medir a temperatura corporal, uso doméstico",
+    "faixa_etaria": "todos",
+    "nivel_risco": "livre",
+    "marca_propria": false,
+    "origem_dado": "sintetico-marca-ficticia",
+    "data_coleta": "2026-10-20",
+    "indicado_para": [
+      "medir a temperatura corporal",
+      "uso doméstico",
+      "sem contato"
+    ],
+    "tipo_pele": [],
+    "ingredientes_chave": [],
+    "alertas": [
+      "Seguir o manual de uso do fabricante"
+    ],
+    "contraindicacoes": [
+      "Em caso de febre persistente ou sinais de gravidade, buscar atendimento médico"
+    ],
+    "equivalentes": [
+      "prod-0135",
+      "prod-0136"
+    ],
+    "texto_busca": "Termômetro Infravermelho de Testa 1 un Cuide+ Termômetro Infravermelho de Testa: indicado para medir a temperatura corporal, uso doméstico medir a temperatura corporal uso doméstico sem contato  "
+  },
+  {
+    "id": "prod-0138",
+    "nome": "Máscara de Dormir 1 un",
+    "marca": "Equilibra",
+    "categoria": "bem-estar",
+    "subcategoria": "conforto-sono",
+    "tamanho": "1 un",
+    "preco": 19.9,
+    "nota": 4.4,
+    "num_avaliacoes": 260,
+    "imagem": "assets/produtos/prod-0138.png",
+    "estoque_simulado": false,
+    "descricao_curta": "Máscara de Dormir: indicado para conforto para dormir, viagem",
+    "faixa_etaria": "adulto",
+    "nivel_risco": "livre",
+    "marca_propria": false,
+    "origem_dado": "sintetico-marca-ficticia",
+    "data_coleta": "2026-10-20",
+    "indicado_para": [
+      "conforto para dormir",
+      "viagem",
+      "ambiente barulhento",
+      "luz",
+      "máscara de dormir"
+    ],
+    "tipo_pele": [],
+    "ingredientes_chave": [],
+    "alertas": [],
+    "contraindicacoes": [],
+    "equivalentes": [
+      "prod-0139",
+      "prod-0140"
+    ],
+    "texto_busca": "Máscara de Dormir 1 un Equilibra Máscara de Dormir: indicado para conforto para dormir, viagem conforto para dormir viagem ambiente barulhento luz máscara de dormir  "
+  },
+  {
+    "id": "prod-0139",
+    "nome": "Protetor Auricular de Espuma 6 pares",
+    "marca": "Equilibra",
+    "categoria": "bem-estar",
+    "subcategoria": "conforto-sono",
+    "tamanho": "6 pares",
+    "preco": 12.9,
+    "nota": 4.3,
+    "num_avaliacoes": 340,
+    "imagem": "assets/produtos/prod-0139.png",
+    "estoque_simulado": true,
+    "descricao_curta": "Protetor Auricular de Espuma: indicado para conforto para dormir, viagem",
+    "faixa_etaria": "adulto",
+    "nivel_risco": "livre",
+    "marca_propria": false,
+    "origem_dado": "sintetico-marca-ficticia",
+    "data_coleta": "2026-10-20",
+    "indicado_para": [
+      "conforto para dormir",
+      "viagem",
+      "ambiente barulhento",
+      "luz",
+      "protetor auricular"
+    ],
+    "tipo_pele": [],
+    "ingredientes_chave": [],
+    "alertas": [],
+    "contraindicacoes": [],
+    "equivalentes": [
+      "prod-0138",
+      "prod-0140"
+    ],
+    "texto_busca": "Protetor Auricular de Espuma 6 pares Equilibra Protetor Auricular de Espuma: indicado para conforto para dormir, viagem conforto para dormir viagem ambiente barulhento luz protetor auricular  "
+  },
+  {
+    "id": "prod-0140",
+    "nome": "Máscara de Dormir de Gel 1 un",
+    "marca": "Ondas",
+    "categoria": "bem-estar",
+    "subcategoria": "conforto-sono",
+    "tamanho": "1 un",
+    "preco": 29.9,
+    "nota": 4.5,
+    "num_avaliacoes": 140,
+    "imagem": "assets/produtos/prod-0140.png",
+    "estoque_simulado": true,
+    "descricao_curta": "Máscara de Dormir de Gel: indicado para conforto para dormir, viagem",
+    "faixa_etaria": "adulto",
+    "nivel_risco": "livre",
+    "marca_propria": false,
+    "origem_dado": "sintetico-marca-ficticia",
+    "data_coleta": "2026-10-20",
+    "indicado_para": [
+      "conforto para dormir",
+      "viagem",
+      "ambiente barulhento",
+      "luz",
+      "máscara de dormir"
+    ],
+    "tipo_pele": [],
+    "ingredientes_chave": [],
+    "alertas": [],
+    "contraindicacoes": [],
+    "equivalentes": [
+      "prod-0138",
+      "prod-0139"
+    ],
+    "texto_busca": "Máscara de Dormir de Gel 1 un Ondas Máscara de Dormir de Gel: indicado para conforto para dormir, viagem conforto para dormir viagem ambiente barulhento luz máscara de dormir  "
+  },
+  {
+    "id": "prod-0141",
+    "nome": "Bolsa Térmica Gel 1 un",
+    "marca": "FlexCare",
+    "categoria": "bem-estar",
+    "subcategoria": "bolsa-termica",
+    "tamanho": "1 un",
+    "preco": 29.9,
+    "nota": 4.4,
+    "num_avaliacoes": 170,
+    "imagem": "assets/produtos/prod-0141.png",
+    "estoque_simulado": true,
+    "descricao_curta": "Bolsa Térmica Gel: indicado para conforto muscular, calor local",
+    "faixa_etaria": "adulto",
+    "nivel_risco": "livre",
+    "marca_propria": false,
+    "origem_dado": "sintetico-marca-ficticia",
+    "data_coleta": "2026-10-20",
+    "indicado_para": [
+      "conforto muscular",
+      "calor local",
+      "relaxamento"
+    ],
+    "tipo_pele": [],
+    "ingredientes_chave": [],
+    "alertas": [
+      "Seguir o manual de uso do fabricante",
+      "Não aplicar diretamente em pele lesionada"
+    ],
+    "contraindicacoes": [],
+    "equivalentes": [
+      "prod-0142"
+    ],
+    "texto_busca": "Bolsa Térmica Gel 1 un FlexCare Bolsa Térmica Gel: indicado para conforto muscular, calor local conforto muscular calor local relaxamento  "
+  },
+  {
+    "id": "prod-0142",
+    "nome": "Bolsa Térmica Água Quente 1 un",
+    "marca": "Cuide+",
+    "categoria": "bem-estar",
+    "subcategoria": "bolsa-termica",
+    "tamanho": "1 un",
+    "preco": 34.9,
+    "nota": 4.3,
+    "num_avaliacoes": 130,
+    "imagem": "assets/produtos/prod-0142.png",
+    "estoque_simulado": true,
+    "descricao_curta": "Bolsa Térmica Água Quente: indicado para conforto muscular, calor local",
+    "faixa_etaria": "adulto",
+    "nivel_risco": "livre",
+    "marca_propria": false,
+    "origem_dado": "sintetico-marca-ficticia",
+    "data_coleta": "2026-10-20",
+    "indicado_para": [
+      "conforto muscular",
+      "calor local",
+      "relaxamento"
+    ],
+    "tipo_pele": [],
+    "ingredientes_chave": [],
+    "alertas": [
+      "Seguir o manual de uso do fabricante",
+      "Não aplicar diretamente em pele lesionada"
+    ],
+    "contraindicacoes": [],
+    "equivalentes": [
+      "prod-0141"
+    ],
+    "texto_busca": "Bolsa Térmica Água Quente 1 un Cuide+ Bolsa Térmica Água Quente: indicado para conforto muscular, calor local conforto muscular calor local relaxamento  "
+  },
+  {
+    "id": "prod-0143",
+    "nome": "Kit Rotina Facial Básica (Sabonete Facial + Água Micelar + Gel-Creme Hidratante) 3 itens",
+    "marca": "Dauf",
+    "categoria": "kits",
+    "subcategoria": "kit-rotina-facial",
+    "tamanho": "3 itens",
+    "preco": 49.9,
+    "nota": 4.5,
+    "num_avaliacoes": 190,
+    "imagem": "assets/produtos/prod-0143.png",
+    "estoque_simulado": true,
+    "descricao_curta": "Kit com sabonete facial, água micelar e gel-creme hidratante para uma rotina facial completa e econômica",
+    "faixa_etaria": "adulto",
+    "nivel_risco": "livre",
+    "marca_propria": true,
+    "origem_dado": "sintetico+linha-dauf-confirmada",
+    "data_coleta": "2026-10-20",
+    "indicado_para": [
+      "rotina facial",
+      "iniciante",
+      "custo-benefício"
+    ],
+    "tipo_pele": [
+      "normal",
+      "mista",
+      "oleosa"
+    ],
+    "ingredientes_chave": [],
+    "alertas": [],
+    "contraindicacoes": [
+      "Evitar em caso de alergia a algum componente da fórmula"
+    ],
+    "equivalentes": [],
+    "texto_busca": "Kit Rotina Facial Básica (Sabonete Facial + Água Micelar + Gel-Creme Hidratante) 3 itens Dauf Kit com sabonete facial, água micelar e gel-creme hidratante para uma rotina facial completa e econômica rotina facial iniciante custo-benefício  normal mista oleosa"
+  },
+  {
+    "id": "prod-0144",
+    "nome": "Kit Proteção Solar Dia a Dia (Facial FPS 50 + Corporal FPS 50 + Protetor Labial) 3 itens",
+    "marca": "Dauf",
+    "categoria": "kits",
+    "subcategoria": "kit-protecao-solar",
+    "tamanho": "3 itens",
+    "preco": 64.9,
+    "nota": 4.6,
+    "num_avaliacoes": 210,
+    "imagem": "assets/produtos/prod-0144.png",
+    "estoque_simulado": true,
+    "descricao_curta": "Kit com protetor solar facial, corporal e labial para o dia a dia",
+    "faixa_etaria": "adulto",
+    "nivel_risco": "livre",
+    "marca_propria": true,
+    "origem_dado": "sintetico+linha-dauf-confirmada",
+    "data_coleta": "2026-10-20",
+    "indicado_para": [
+      "proteção solar",
+      "praia",
+      "uso diário"
+    ],
+    "tipo_pele": [
+      "todos"
+    ],
+    "ingredientes_chave": [
+      "filtros UVA/UVB"
+    ],
+    "alertas": [
+      "Reaplicar conforme orientação da embalagem"
+    ],
+    "contraindicacoes": [
+      "Interromper o uso em caso de irritação"
+    ],
+    "equivalentes": [],
+    "texto_busca": "Kit Proteção Solar Dia a Dia (Facial FPS 50 + Corporal FPS 50 + Protetor Labial) 3 itens Dauf Kit com protetor solar facial, corporal e labial para o dia a dia proteção solar praia uso diário filtros UVA/UVB todos"
+  },
+  {
+    "id": "prod-0145",
+    "nome": "Kit Higiene Bucal (Creme Dental + Escova + Fio Dental + Enxaguante) 4 itens",
+    "marca": "Dauf",
+    "categoria": "kits",
+    "subcategoria": "kit-higiene-bucal",
+    "tamanho": "4 itens",
+    "preco": 24.9,
+    "nota": 4.4,
+    "num_avaliacoes": 240,
+    "imagem": "assets/produtos/prod-0145.png",
+    "estoque_simulado": true,
+    "descricao_curta": "Kit com creme dental, escova, fio dental e enxaguante para a rotina de higiene bucal",
+    "faixa_etaria": "adulto",
+    "nivel_risco": "livre",
+    "marca_propria": true,
+    "origem_dado": "sintetico+linha-dauf-confirmada",
+    "data_coleta": "2026-10-20",
+    "indicado_para": [
+      "higiene bucal",
+      "família",
+      "escovação completa"
+    ],
+    "tipo_pele": [],
+    "ingredientes_chave": [
+      "flúor"
+    ],
+    "alertas": [],
+    "contraindicacoes": [
+      "Manter fora do alcance de crianças pequenas"
+    ],
+    "equivalentes": [],
+    "texto_busca": "Kit Higiene Bucal (Creme Dental + Escova + Fio Dental + Enxaguante) 4 itens Dauf Kit com creme dental, escova, fio dental e enxaguante para a rotina de higiene bucal higiene bucal família escovação completa flúor "
+  },
+  {
+    "id": "prod-0146",
+    "nome": "Kit Primeiros Socorros para Casa (Curativos + Algodão + Gaze + Álcool 70% + Termômetro) 5 itens",
+    "marca": "Dauf",
+    "categoria": "kits",
+    "subcategoria": "kit-primeiros-socorros",
+    "tamanho": "5 itens",
+    "preco": 42.9,
+    "nota": 4.5,
+    "num_avaliacoes": 170,
+    "imagem": "assets/produtos/prod-0146.png",
+    "estoque_simulado": true,
+    "descricao_curta": "Kit com curativos, algodão, gaze, álcool 70% e termômetro para ter em casa",
+    "faixa_etaria": "todos",
+    "nivel_risco": "livre",
+    "marca_propria": true,
+    "origem_dado": "sintetico+linha-dauf-confirmada",
+    "data_coleta": "2026-10-20",
+    "indicado_para": [
+      "primeiros socorros",
+      "casa",
+      "pequenos ferimentos"
+    ],
+    "tipo_pele": [],
+    "ingredientes_chave": [],
+    "alertas": [],
+    "contraindicacoes": [
+      "Em ferimentos profundos ou com sangramento intenso, buscar atendimento médico"
+    ],
+    "equivalentes": [],
+    "texto_busca": "Kit Primeiros Socorros para Casa (Curativos + Algodão + Gaze + Álcool 70% + Termômetro) 5 itens Dauf Kit com curativos, algodão, gaze, álcool 70% e termômetro para ter em casa primeiros socorros casa pequenos ferimentos  "
+  },
+  {
+    "id": "prod-0147",
+    "nome": "Kit Banho e Corpo (Sabonete Líquido + Hidratante Corporal + Desodorante) 3 itens",
+    "marca": "Dauf",
+    "categoria": "kits",
+    "subcategoria": "kit-banho-corpo",
+    "tamanho": "3 itens",
+    "preco": 39.9,
+    "nota": 4.3,
+    "num_avaliacoes": 150,
+    "imagem": "assets/produtos/prod-0147.png",
+    "estoque_simulado": true,
+    "descricao_curta": "Kit com sabonete líquido, hidratante corporal e desodorante",
+    "faixa_etaria": "adulto",
+    "nivel_risco": "livre",
+    "marca_propria": true,
+    "origem_dado": "sintetico+linha-dauf-confirmada",
+    "data_coleta": "2026-10-20",
+    "indicado_para": [
+      "banho",
+      "hidratação",
+      "higiene diária",
+      "presente"
+    ],
+    "tipo_pele": [
+      "todos"
+    ],
+    "ingredientes_chave": [],
+    "alertas": [],
+    "contraindicacoes": [
+      "Evitar em caso de alergia a algum componente da fórmula"
+    ],
+    "equivalentes": [],
+    "texto_busca": "Kit Banho e Corpo (Sabonete Líquido + Hidratante Corporal + Desodorante) 3 itens Dauf Kit com sabonete líquido, hidratante corporal e desodorante banho hidratação higiene diária presente  todos"
+  },
+  {
+    "id": "prod-0148",
+    "nome": "Kit Viagem e Praia (Repelente + Protetor Solar Corporal FPS 30 + Pós-Sol) 3 itens",
+    "marca": "Dauf",
+    "categoria": "kits",
+    "subcategoria": "kit-viagem",
+    "tamanho": "3 itens",
+    "preco": 54.9,
+    "nota": 4.4,
+    "num_avaliacoes": 160,
+    "imagem": "assets/produtos/prod-0148.png",
+    "estoque_simulado": true,
+    "descricao_curta": "Kit com repelente, protetor solar corporal e pós-sol para viagens e praia",
+    "faixa_etaria": "adulto",
+    "nivel_risco": "livre",
+    "marca_propria": true,
+    "origem_dado": "sintetico+linha-dauf-confirmada",
+    "data_coleta": "2026-10-20",
+    "indicado_para": [
+      "viagem",
+      "praia",
+      "proteção solar",
+      "repelente"
+    ],
+    "tipo_pele": [
+      "todos"
+    ],
+    "ingredientes_chave": [],
+    "alertas": [
+      "Reaplicar conforme orientação da embalagem"
+    ],
+    "contraindicacoes": [
+      "Interromper o uso em caso de irritação"
+    ],
+    "equivalentes": [],
+    "texto_busca": "Kit Viagem e Praia (Repelente + Protetor Solar Corporal FPS 30 + Pós-Sol) 3 itens Dauf Kit com repelente, protetor solar corporal e pós-sol para viagens e praia viagem praia proteção solar repelente  todos"
+  },
+  {
+    "id": "prod-0149",
+    "nome": "Kit Cuidados Infantis (Sabonete + Shampoo + Loção Hidratante) 3 itens",
+    "marca": "Kidz Care",
+    "categoria": "kits",
+    "subcategoria": "kit-cuidados-infantis",
+    "tamanho": "3 itens",
+    "preco": 44.9,
+    "nota": 4.7,
+    "num_avaliacoes": 200,
+    "imagem": "assets/produtos/prod-0149.png",
+    "estoque_simulado": true,
+    "descricao_curta": "Kit com sabonete, shampoo e loção hidratante infantis",
+    "faixa_etaria": "infantil",
+    "nivel_risco": "livre",
+    "marca_propria": false,
+    "origem_dado": "sintetico-marca-ficticia",
+    "data_coleta": "2026-10-20",
+    "indicado_para": [
+      "banho do bebê",
+      "cuidados infantis",
+      "presente"
+    ],
+    "tipo_pele": [
+      "sensível"
+    ],
+    "ingredientes_chave": [],
+    "alertas": [],
+    "contraindicacoes": [
+      "Evitar em caso de alergia a algum componente da fórmula"
+    ],
+    "equivalentes": [],
+    "texto_busca": "Kit Cuidados Infantis (Sabonete + Shampoo + Loção Hidratante) 3 itens Kidz Care Kit com sabonete, shampoo e loção hidratante infantis banho do bebê cuidados infantis presente  sensível"
+  }
+]

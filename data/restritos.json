@@ -1,0 +1,714 @@
+{
+  "_aviso": "Lista de BLOQUEIO. Serve para a IA reconhecer e recusar, nunca para recomendar. Rascunho gerado com apoio de IA, SEM consulta às fontes oficiais: cada classificação deve ser conferida por duas pessoas do squad na Anvisa / Portaria SVS/MS 344/98 vigentes e registrada em FONTES.md antes do uso. Não é parecer jurídico.",
+  "versao": "0.2-rascunho",
+  "respostas_padrao": {
+    "controlado": "Esse tipo de medicamento é de controle especial e só pode ser vendido com receita, com avaliação de um profissional de saúde. Não posso indicá-lo. Posso te encaminhar para falar com um farmacêutico.",
+    "tarjado": "Esse medicamento exige receita e orientação profissional, então não posso indicá-lo. Posso te encaminhar para falar com um farmacêutico, ou te ajudar com produtos de cuidados e bem-estar.",
+    "uso_restrito": "Esse produto tem venda e uso restritos e depende de acompanhamento profissional, então não posso indicá-lo. Posso te encaminhar para falar com um farmacêutico ou orientar a buscar um serviço de saúde.",
+    "mip": "Não faço indicação de medicamentos, mesmo os de venda livre, porque a escolha depende de avaliação individual, e dúvidas sobre combinar remédios ou doses são com um profissional. Posso te encaminhar para falar com um farmacêutico, e te ajudo com produtos de cuidados e bem-estar.",
+    "sintoma_leve": "Sinto muito que você esteja assim. Eu não avalio sintomas nem indico medicamentos, mas um farmacêutico pode te orientar agora. Se piorar ou surgirem sinais de gravidade, procure atendimento médico."
+  },
+  "termos_genericos_por_classe": {
+    "controlado": [
+      "calmante",
+      "remédio para dormir",
+      "remédio para ansiedade",
+      "antidepressivo",
+      "remédio para emagrecer",
+      "emagrecedor",
+      "moderador de apetite",
+      "anabolizante",
+      "remédio controlado",
+      "tarja preta"
+    ],
+    "tarjado": [
+      "antibiótico",
+      "anti-inflamatório forte",
+      "corticoide",
+      "caneta emagrecedora",
+      "remédio para pressão",
+      "remédio para diabetes",
+      "remédio para colesterol",
+      "remédio para disfunção",
+      "remédio com receita"
+    ],
+    "uso_restrito": [
+      "abortivo",
+      "remédio para abortar",
+      "induzir menstruação",
+      "provocar aborto"
+    ],
+    "mip": [
+      "remédio para dor",
+      "analgésico",
+      "remédio para febre",
+      "antitérmico",
+      "remédio para gripe",
+      "remédio para alergia",
+      "antialérgico",
+      "remédio para azia",
+      "antiácido",
+      "remédio para enjoo",
+      "remédio para cólica",
+      "remédio para diarreia",
+      "remédio para dor de cabeça",
+      "anti-inflamatório",
+      "o que tomar para"
+    ],
+    "sintoma_leve": [
+      "dor de garganta",
+      "dor de cabeça",
+      "tosse",
+      "febre",
+      "dor nas costas",
+      "azia",
+      "enjoo",
+      "diarreia",
+      "estou com dor",
+      "estou gripado"
+    ]
+  },
+  "itens": [
+    {
+      "id": "rest-001",
+      "nome_generico": "clonazepam",
+      "nomes_comerciais": [
+        "rivotril"
+      ],
+      "variacoes_de_grafia": [
+        "rivotrill",
+        "rivotriu"
+      ],
+      "classe": "controlado",
+      "motivo_bloqueio": "Controle especial (Portaria SVS/MS 344/98): venda mediante receita específica",
+      "acao": "recusar"
+    },
+    {
+      "id": "rest-002",
+      "nome_generico": "alprazolam",
+      "nomes_comerciais": [
+        "frontal",
+        "apraz"
+      ],
+      "variacoes_de_grafia": [
+        "frontall"
+      ],
+      "classe": "controlado",
+      "motivo_bloqueio": "Controle especial (Portaria SVS/MS 344/98): venda mediante receita específica",
+      "acao": "recusar"
+    },
+    {
+      "id": "rest-003",
+      "nome_generico": "diazepam",
+      "nomes_comerciais": [
+        "valium"
+      ],
+      "variacoes_de_grafia": [
+        "valiun"
+      ],
+      "classe": "controlado",
+      "motivo_bloqueio": "Controle especial (Portaria SVS/MS 344/98): venda mediante receita específica",
+      "acao": "recusar"
+    },
+    {
+      "id": "rest-004",
+      "nome_generico": "lorazepam",
+      "nomes_comerciais": [
+        "lorax"
+      ],
+      "variacoes_de_grafia": [],
+      "classe": "controlado",
+      "motivo_bloqueio": "Controle especial (Portaria SVS/MS 344/98): venda mediante receita específica",
+      "acao": "recusar"
+    },
+    {
+      "id": "rest-005",
+      "nome_generico": "bromazepam",
+      "nomes_comerciais": [
+        "lexotan"
+      ],
+      "variacoes_de_grafia": [
+        "lexotam"
+      ],
+      "classe": "controlado",
+      "motivo_bloqueio": "Controle especial (Portaria SVS/MS 344/98): venda mediante receita específica",
+      "acao": "recusar"
+    },
+    {
+      "id": "rest-006",
+      "nome_generico": "zolpidem",
+      "nomes_comerciais": [
+        "stilnox"
+      ],
+      "variacoes_de_grafia": [
+        "stilnoz"
+      ],
+      "classe": "controlado",
+      "motivo_bloqueio": "Controle especial (Portaria SVS/MS 344/98): venda mediante receita específica",
+      "acao": "recusar"
+    },
+    {
+      "id": "rest-007",
+      "nome_generico": "fenobarbital",
+      "nomes_comerciais": [
+        "gardenal"
+      ],
+      "variacoes_de_grafia": [],
+      "classe": "controlado",
+      "motivo_bloqueio": "Controle especial (Portaria SVS/MS 344/98): venda mediante receita específica",
+      "acao": "recusar"
+    },
+    {
+      "id": "rest-008",
+      "nome_generico": "sibutramina",
+      "nomes_comerciais": [
+        "reductil"
+      ],
+      "variacoes_de_grafia": [
+        "redutil"
+      ],
+      "classe": "controlado",
+      "motivo_bloqueio": "Controle especial (Portaria SVS/MS 344/98): venda mediante receita específica",
+      "acao": "recusar"
+    },
+    {
+      "id": "rest-009",
+      "nome_generico": "metilfenidato",
+      "nomes_comerciais": [
+        "ritalina",
+        "concerta"
+      ],
+      "variacoes_de_grafia": [
+        "ritalin"
+      ],
+      "classe": "controlado",
+      "motivo_bloqueio": "Controle especial (Portaria SVS/MS 344/98): venda mediante receita específica",
+      "acao": "recusar"
+    },
+    {
+      "id": "rest-010",
+      "nome_generico": "lisdexanfetamina",
+      "nomes_comerciais": [
+        "venvanse"
+      ],
+      "variacoes_de_grafia": [
+        "venvance"
+      ],
+      "classe": "controlado",
+      "motivo_bloqueio": "Controle especial (Portaria SVS/MS 344/98): venda mediante receita específica",
+      "acao": "recusar"
+    },
+    {
+      "id": "rest-011",
+      "nome_generico": "fluoxetina",
+      "nomes_comerciais": [
+        "prozac"
+      ],
+      "variacoes_de_grafia": [],
+      "classe": "controlado",
+      "motivo_bloqueio": "Controle especial (Portaria SVS/MS 344/98): venda mediante receita específica",
+      "acao": "recusar"
+    },
+    {
+      "id": "rest-012",
+      "nome_generico": "sertralina",
+      "nomes_comerciais": [
+        "zoloft"
+      ],
+      "variacoes_de_grafia": [],
+      "classe": "controlado",
+      "motivo_bloqueio": "Controle especial (Portaria SVS/MS 344/98): venda mediante receita específica",
+      "acao": "recusar"
+    },
+    {
+      "id": "rest-013",
+      "nome_generico": "escitalopram",
+      "nomes_comerciais": [
+        "lexapro"
+      ],
+      "variacoes_de_grafia": [],
+      "classe": "controlado",
+      "motivo_bloqueio": "Controle especial (Portaria SVS/MS 344/98): venda mediante receita específica",
+      "acao": "recusar"
+    },
+    {
+      "id": "rest-014",
+      "nome_generico": "amitriptilina",
+      "nomes_comerciais": [
+        "tryptanol"
+      ],
+      "variacoes_de_grafia": [],
+      "classe": "controlado",
+      "motivo_bloqueio": "Controle especial (Portaria SVS/MS 344/98): venda mediante receita específica",
+      "acao": "recusar"
+    },
+    {
+      "id": "rest-015",
+      "nome_generico": "morfina",
+      "nomes_comerciais": [
+        "dimorf"
+      ],
+      "variacoes_de_grafia": [],
+      "classe": "controlado",
+      "motivo_bloqueio": "Controle especial (Portaria SVS/MS 344/98): venda mediante receita específica",
+      "acao": "recusar"
+    },
+    {
+      "id": "rest-016",
+      "nome_generico": "oxicodona",
+      "nomes_comerciais": [
+        "oxycontin"
+      ],
+      "variacoes_de_grafia": [],
+      "classe": "controlado",
+      "motivo_bloqueio": "Controle especial (Portaria SVS/MS 344/98): venda mediante receita específica",
+      "acao": "recusar"
+    },
+    {
+      "id": "rest-017",
+      "nome_generico": "oxandrolona",
+      "nomes_comerciais": [
+        "anavar"
+      ],
+      "variacoes_de_grafia": [],
+      "classe": "controlado",
+      "motivo_bloqueio": "Controle especial (Portaria SVS/MS 344/98): venda mediante receita específica",
+      "acao": "recusar"
+    },
+    {
+      "id": "rest-018",
+      "nome_generico": "estanozolol",
+      "nomes_comerciais": [
+        "winstrol"
+      ],
+      "variacoes_de_grafia": [],
+      "classe": "controlado",
+      "motivo_bloqueio": "Controle especial (Portaria SVS/MS 344/98): venda mediante receita específica",
+      "acao": "recusar"
+    },
+    {
+      "id": "rest-019",
+      "nome_generico": "talidomida",
+      "nomes_comerciais": [],
+      "variacoes_de_grafia": [],
+      "classe": "controlado",
+      "motivo_bloqueio": "Controle especial (Portaria SVS/MS 344/98): venda mediante receita específica",
+      "acao": "recusar"
+    },
+    {
+      "id": "rest-020",
+      "nome_generico": "amoxicilina",
+      "nomes_comerciais": [
+        "amoxil"
+      ],
+      "variacoes_de_grafia": [
+        "amoxicilina com clavulanato"
+      ],
+      "classe": "tarjado",
+      "motivo_bloqueio": "Venda sob prescrição médica (tarja vermelha)",
+      "acao": "recusar"
+    },
+    {
+      "id": "rest-021",
+      "nome_generico": "azitromicina",
+      "nomes_comerciais": [
+        "zitromax"
+      ],
+      "variacoes_de_grafia": [],
+      "classe": "tarjado",
+      "motivo_bloqueio": "Venda sob prescrição médica (tarja vermelha)",
+      "acao": "recusar"
+    },
+    {
+      "id": "rest-022",
+      "nome_generico": "ciprofloxacino",
+      "nomes_comerciais": [
+        "cipro"
+      ],
+      "variacoes_de_grafia": [],
+      "classe": "tarjado",
+      "motivo_bloqueio": "Venda sob prescrição médica (tarja vermelha)",
+      "acao": "recusar"
+    },
+    {
+      "id": "rest-023",
+      "nome_generico": "levofloxacino",
+      "nomes_comerciais": [
+        "levaquin"
+      ],
+      "variacoes_de_grafia": [],
+      "classe": "tarjado",
+      "motivo_bloqueio": "Venda sob prescrição médica (tarja vermelha)",
+      "acao": "recusar"
+    },
+    {
+      "id": "rest-024",
+      "nome_generico": "cefalexina",
+      "nomes_comerciais": [
+        "keflex"
+      ],
+      "variacoes_de_grafia": [],
+      "classe": "tarjado",
+      "motivo_bloqueio": "Venda sob prescrição médica (tarja vermelha)",
+      "acao": "recusar"
+    },
+    {
+      "id": "rest-025",
+      "nome_generico": "metronidazol",
+      "nomes_comerciais": [
+        "flagyl"
+      ],
+      "variacoes_de_grafia": [],
+      "classe": "tarjado",
+      "motivo_bloqueio": "Venda sob prescrição médica (tarja vermelha)",
+      "acao": "recusar"
+    },
+    {
+      "id": "rest-026",
+      "nome_generico": "fluconazol",
+      "nomes_comerciais": [
+        "zoltec"
+      ],
+      "variacoes_de_grafia": [],
+      "classe": "tarjado",
+      "motivo_bloqueio": "Venda sob prescrição médica (tarja vermelha)",
+      "acao": "recusar"
+    },
+    {
+      "id": "rest-027",
+      "nome_generico": "nimesulida",
+      "nomes_comerciais": [
+        "nisulid"
+      ],
+      "variacoes_de_grafia": [],
+      "classe": "tarjado",
+      "motivo_bloqueio": "Venda sob prescrição médica (tarja vermelha)",
+      "acao": "recusar"
+    },
+    {
+      "id": "rest-028",
+      "nome_generico": "prednisona",
+      "nomes_comerciais": [
+        "meticorten"
+      ],
+      "variacoes_de_grafia": [],
+      "classe": "tarjado",
+      "motivo_bloqueio": "Venda sob prescrição médica (tarja vermelha)",
+      "acao": "recusar"
+    },
+    {
+      "id": "rest-029",
+      "nome_generico": "dexametasona",
+      "nomes_comerciais": [
+        "decadron"
+      ],
+      "variacoes_de_grafia": [],
+      "classe": "tarjado",
+      "motivo_bloqueio": "Venda sob prescrição médica (tarja vermelha)",
+      "acao": "recusar"
+    },
+    {
+      "id": "rest-030",
+      "nome_generico": "sildenafila",
+      "nomes_comerciais": [
+        "viagra"
+      ],
+      "variacoes_de_grafia": [
+        "sildenafil"
+      ],
+      "classe": "tarjado",
+      "motivo_bloqueio": "Venda sob prescrição médica (tarja vermelha)",
+      "acao": "recusar"
+    },
+    {
+      "id": "rest-031",
+      "nome_generico": "tadalafila",
+      "nomes_comerciais": [
+        "cialis"
+      ],
+      "variacoes_de_grafia": [
+        "tadalafil"
+      ],
+      "classe": "tarjado",
+      "motivo_bloqueio": "Venda sob prescrição médica (tarja vermelha)",
+      "acao": "recusar"
+    },
+    {
+      "id": "rest-032",
+      "nome_generico": "isotretinoína",
+      "nomes_comerciais": [
+        "roacutan"
+      ],
+      "variacoes_de_grafia": [
+        "isotretinoina"
+      ],
+      "classe": "tarjado",
+      "motivo_bloqueio": "Venda sob prescrição médica (tarja vermelha)",
+      "acao": "recusar"
+    },
+    {
+      "id": "rest-033",
+      "nome_generico": "metformina",
+      "nomes_comerciais": [
+        "glifage"
+      ],
+      "variacoes_de_grafia": [],
+      "classe": "tarjado",
+      "motivo_bloqueio": "Venda sob prescrição médica (tarja vermelha)",
+      "acao": "recusar"
+    },
+    {
+      "id": "rest-034",
+      "nome_generico": "losartana",
+      "nomes_comerciais": [
+        "cozaar"
+      ],
+      "variacoes_de_grafia": [],
+      "classe": "tarjado",
+      "motivo_bloqueio": "Venda sob prescrição médica (tarja vermelha)",
+      "acao": "recusar"
+    },
+    {
+      "id": "rest-035",
+      "nome_generico": "atenolol",
+      "nomes_comerciais": [
+        "atenol"
+      ],
+      "variacoes_de_grafia": [],
+      "classe": "tarjado",
+      "motivo_bloqueio": "Venda sob prescrição médica (tarja vermelha)",
+      "acao": "recusar"
+    },
+    {
+      "id": "rest-036",
+      "nome_generico": "sinvastatina",
+      "nomes_comerciais": [
+        "zocor"
+      ],
+      "variacoes_de_grafia": [],
+      "classe": "tarjado",
+      "motivo_bloqueio": "Venda sob prescrição médica (tarja vermelha)",
+      "acao": "recusar"
+    },
+    {
+      "id": "rest-037",
+      "nome_generico": "levotiroxina",
+      "nomes_comerciais": [
+        "puran t4",
+        "synthroid"
+      ],
+      "variacoes_de_grafia": [],
+      "classe": "tarjado",
+      "motivo_bloqueio": "Venda sob prescrição médica (tarja vermelha)",
+      "acao": "recusar"
+    },
+    {
+      "id": "rest-038",
+      "nome_generico": "insulina",
+      "nomes_comerciais": [
+        "lantus",
+        "humalog",
+        "novorapid"
+      ],
+      "variacoes_de_grafia": [],
+      "classe": "tarjado",
+      "motivo_bloqueio": "Venda sob prescrição médica (tarja vermelha)",
+      "acao": "recusar"
+    },
+    {
+      "id": "rest-039",
+      "nome_generico": "semaglutida",
+      "nomes_comerciais": [
+        "ozempic",
+        "wegovy"
+      ],
+      "variacoes_de_grafia": [
+        "ozenpic"
+      ],
+      "classe": "tarjado",
+      "motivo_bloqueio": "Venda sob prescrição médica (tarja vermelha)",
+      "acao": "recusar"
+    },
+    {
+      "id": "rest-040",
+      "nome_generico": "tirzepatida",
+      "nomes_comerciais": [
+        "mounjaro"
+      ],
+      "variacoes_de_grafia": [],
+      "classe": "tarjado",
+      "motivo_bloqueio": "Venda sob prescrição médica (tarja vermelha)",
+      "acao": "recusar"
+    },
+    {
+      "id": "rest-041",
+      "nome_generico": "misoprostol",
+      "nomes_comerciais": [
+        "citotec",
+        "cytotec"
+      ],
+      "variacoes_de_grafia": [
+        "cytotek",
+        "citotek"
+      ],
+      "classe": "uso_restrito",
+      "motivo_bloqueio": "Venda e uso restritos; confirmar classificação vigente",
+      "acao": "recusar"
+    },
+    {
+      "id": "rest-042",
+      "nome_generico": "dipirona",
+      "nomes_comerciais": [
+        "novalgina",
+        "anador",
+        "neosaldina"
+      ],
+      "variacoes_de_grafia": [
+        "novalgin",
+        "dipirona monoidratada"
+      ],
+      "classe": "mip",
+      "motivo_bloqueio": "Medicamento isento de prescrição: a SaúdePlus não recomenda medicamentos (decisão D-03)",
+      "acao": "informar_limite_e_encaminhar"
+    },
+    {
+      "id": "rest-043",
+      "nome_generico": "paracetamol",
+      "nomes_comerciais": [
+        "tylenol"
+      ],
+      "variacoes_de_grafia": [],
+      "classe": "mip",
+      "motivo_bloqueio": "Medicamento isento de prescrição: a SaúdePlus não recomenda medicamentos (decisão D-03)",
+      "acao": "informar_limite_e_encaminhar"
+    },
+    {
+      "id": "rest-044",
+      "nome_generico": "ibuprofeno",
+      "nomes_comerciais": [
+        "advil",
+        "alivium"
+      ],
+      "variacoes_de_grafia": [],
+      "classe": "mip",
+      "motivo_bloqueio": "Medicamento isento de prescrição: a SaúdePlus não recomenda medicamentos (decisão D-03)",
+      "acao": "informar_limite_e_encaminhar"
+    },
+    {
+      "id": "rest-045",
+      "nome_generico": "ácido acetilsalicílico",
+      "nomes_comerciais": [
+        "aspirina",
+        "aas"
+      ],
+      "variacoes_de_grafia": [
+        "acido acetilsalicilico"
+      ],
+      "classe": "mip",
+      "motivo_bloqueio": "Medicamento isento de prescrição: a SaúdePlus não recomenda medicamentos (decisão D-03)",
+      "acao": "informar_limite_e_encaminhar"
+    },
+    {
+      "id": "rest-046",
+      "nome_generico": "naproxeno",
+      "nomes_comerciais": [
+        "flanax"
+      ],
+      "variacoes_de_grafia": [],
+      "classe": "mip",
+      "motivo_bloqueio": "Medicamento isento de prescrição: a SaúdePlus não recomenda medicamentos (decisão D-03)",
+      "acao": "informar_limite_e_encaminhar"
+    },
+    {
+      "id": "rest-047",
+      "nome_generico": "loratadina",
+      "nomes_comerciais": [
+        "claritin"
+      ],
+      "variacoes_de_grafia": [],
+      "classe": "mip",
+      "motivo_bloqueio": "Medicamento isento de prescrição: a SaúdePlus não recomenda medicamentos (decisão D-03)",
+      "acao": "informar_limite_e_encaminhar"
+    },
+    {
+      "id": "rest-048",
+      "nome_generico": "cetirizina",
+      "nomes_comerciais": [
+        "zyrtec"
+      ],
+      "variacoes_de_grafia": [],
+      "classe": "mip",
+      "motivo_bloqueio": "Medicamento isento de prescrição: a SaúdePlus não recomenda medicamentos (decisão D-03)",
+      "acao": "informar_limite_e_encaminhar"
+    },
+    {
+      "id": "rest-049",
+      "nome_generico": "simeticona",
+      "nomes_comerciais": [
+        "luftal"
+      ],
+      "variacoes_de_grafia": [],
+      "classe": "mip",
+      "motivo_bloqueio": "Medicamento isento de prescrição: a SaúdePlus não recomenda medicamentos (decisão D-03)",
+      "acao": "informar_limite_e_encaminhar"
+    },
+    {
+      "id": "rest-050",
+      "nome_generico": "dimenidrinato",
+      "nomes_comerciais": [
+        "dramin"
+      ],
+      "variacoes_de_grafia": [],
+      "classe": "mip",
+      "motivo_bloqueio": "Medicamento isento de prescrição: a SaúdePlus não recomenda medicamentos (decisão D-03)",
+      "acao": "informar_limite_e_encaminhar"
+    },
+    {
+      "id": "rest-051",
+      "nome_generico": "loperamida",
+      "nomes_comerciais": [
+        "imosec"
+      ],
+      "variacoes_de_grafia": [],
+      "classe": "mip",
+      "motivo_bloqueio": "Medicamento isento de prescrição: a SaúdePlus não recomenda medicamentos (decisão D-03)",
+      "acao": "informar_limite_e_encaminhar"
+    },
+    {
+      "id": "rest-052",
+      "nome_generico": "escopolamina",
+      "nomes_comerciais": [
+        "buscopan"
+      ],
+      "variacoes_de_grafia": [],
+      "classe": "mip",
+      "motivo_bloqueio": "Medicamento isento de prescrição: a SaúdePlus não recomenda medicamentos (decisão D-03)",
+      "acao": "informar_limite_e_encaminhar"
+    },
+    {
+      "id": "rest-053",
+      "nome_generico": "hidróxido de alumínio",
+      "nomes_comerciais": [
+        "maalox"
+      ],
+      "variacoes_de_grafia": [],
+      "classe": "mip",
+      "motivo_bloqueio": "Medicamento isento de prescrição: a SaúdePlus não recomenda medicamentos (decisão D-03)",
+      "acao": "informar_limite_e_encaminhar"
+    },
+    {
+      "id": "rest-054",
+      "nome_generico": "paracetamol com clorfeniramina",
+      "nomes_comerciais": [
+        "cimegripe",
+        "benegrip",
+        "resfenol"
+      ],
+      "variacoes_de_grafia": [],
+      "classe": "mip",
+      "motivo_bloqueio": "Medicamento isento de prescrição: a SaúdePlus não recomenda medicamentos (decisão D-03)",
+      "acao": "informar_limite_e_encaminhar"
+    }
+  ],
+  "como_usar": "No código: normalizar o texto do usuário (minúsculas, sem acento), procurar nome_generico, nomes_comerciais e variacoes_de_grafia com limite de palavra; se houver correspondência, responder com respostas_padrao[classe] SEM chamar a etapa de recomendação. Pedidos genéricos (termos_genericos_por_classe) seguem a mesma regra. Sintomas leves: não recomendar medicamento; oferecer o farmacêutico. Ampliar a lista com novas grafias durante os testes."
+}
