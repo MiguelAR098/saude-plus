@@ -5474,8 +5474,9 @@
     "alertas": [],
     "contraindicacoes": [],
     "equivalentes": [
+      "prod-0150",
       "prod-0139",
-      "prod-0140"
+      "prod-0151"
     ],
     "texto_busca": "Máscara de Dormir 1 un Equilibra Máscara de Dormir: indicado para conforto para dormir, viagem conforto para dormir viagem ambiente barulhento luz máscara de dormir  "
   },
@@ -5510,7 +5511,8 @@
     "contraindicacoes": [],
     "equivalentes": [
       "prod-0138",
-      "prod-0140"
+      "prod-0150",
+      "prod-0151"
     ],
     "texto_busca": "Protetor Auricular de Espuma 6 pares Equilibra Protetor Auricular de Espuma: indicado para conforto para dormir, viagem conforto para dormir viagem ambiente barulhento luz protetor auricular  "
   },
@@ -5544,8 +5546,9 @@
     "alertas": [],
     "contraindicacoes": [],
     "equivalentes": [
-      "prod-0138",
-      "prod-0139"
+      "prod-0151",
+      "prod-0150",
+      "prod-0138"
     ],
     "texto_busca": "Máscara de Dormir de Gel 1 un Ondas Máscara de Dormir de Gel: indicado para conforto para dormir, viagem conforto para dormir viagem ambiente barulhento luz máscara de dormir  "
   },
@@ -5864,5 +5867,77 @@
     ],
     "equivalentes": [],
     "texto_busca": "Kit Cuidados Infantis (Sabonete + Shampoo + Loção Hidratante) 3 itens Kidz Care Kit com sabonete, shampoo e loção hidratante infantis banho do bebê cuidados infantis presente  sensível"
+  },
+  {
+    "id": "prod-0150",
+    "nome": "Conforto para Dormir Protetor Auricular de Silicone 3 pares",
+    "marca": "Ondas",
+    "categoria": "bem-estar",
+    "subcategoria": "conforto-sono",
+    "tamanho": "3 pares",
+    "preco": 24.9,
+    "nota": 4.4,
+    "num_avaliacoes": 120,
+    "imagem": "assets/produtos/prod-0150.png",
+    "estoque_simulado": true,
+    "descricao_curta": "Conforto para Dormir Protetor Auricular de Silicone: indicado para conforto para dormir, viagem",
+    "faixa_etaria": "adulto",
+    "nivel_risco": "livre",
+    "marca_propria": false,
+    "origem_dado": "sintetico-marca-ficticia",
+    "data_coleta": "2026-10-20",
+    "indicado_para": [
+      "conforto para dormir",
+      "viagem",
+      "ambiente barulhento",
+      "luz",
+      "protetor auricular"
+    ],
+    "tipo_pele": [],
+    "ingredientes_chave": [],
+    "alertas": [],
+    "contraindicacoes": [],
+    "equivalentes": [
+      "prod-0151",
+      "prod-0138",
+      "prod-0140"
+    ],
+    "texto_busca": "Conforto para Dormir Protetor Auricular de Silicone 3 pares Ondas Conforto para Dormir Protetor Auricular de Silicone: indicado para conforto para dormir, viagem conforto para dormir viagem ambiente barulhento luz protetor auricular  "
+  },
+  {
+    "id": "prod-0151",
+    "nome": "Conforto para Dormir Máscara de Dormir 3D 1 un",
+    "marca": "Equilibra",
+    "categoria": "bem-estar",
+    "subcategoria": "conforto-sono",
+    "tamanho": "1 un",
+    "preco": 27.9,
+    "nota": 4.5,
+    "num_avaliacoes": 190,
+    "imagem": "assets/produtos/prod-0151.png",
+    "estoque_simulado": true,
+    "descricao_curta": "Conforto para Dormir Máscara de Dormir 3D: indicado para conforto para dormir, viagem",
+    "faixa_etaria": "adulto",
+    "nivel_risco": "livre",
+    "marca_propria": false,
+    "origem_dado": "sintetico-marca-ficticia",
+    "data_coleta": "2026-10-20",
+    "indicado_para": [
+      "conforto para dormir",
+      "viagem",
+      "ambiente barulhento",
+      "luz",
+      "máscara de dormir"
+    ],
+    "tipo_pele": [],
+    "ingredientes_chave": [],
+    "alertas": [],
+    "contraindicacoes": [],
+    "equivalentes": [
+      "prod-0140",
+      "prod-0150",
+      "prod-0138"
+    ],
+    "texto_busca": "Conforto para Dormir Máscara de Dormir 3D 1 un Equilibra Conforto para Dormir Máscara de Dormir 3D: indicado para conforto para dormir, viagem conforto para dormir viagem ambiente barulhento luz máscara de dormir  "
   }
 ]

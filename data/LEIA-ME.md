@@ -2,7 +2,7 @@
 
 ## Estado atual
 
-A base inicial **já está pronta**: `produtos.csv` (149 produtos sintéticos) e `produtos.json` (gerado e validado). O trabalho agora é **revisar e ajustar**, não começar do zero:
+A base inicial **já está pronta**: `produtos.csv` (151 produtos sintéticos) e `produtos.json` (gerado e validado). O trabalho agora é **revisar e ajustar**, não começar do zero:
 
 1. Abrir `produtos.csv` no Google Sheets e revisar nomes, preços e notas.
 2. Conferir os itens Dauf `a-confirmar` (veja `FONTES.md`).

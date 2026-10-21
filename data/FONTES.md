@@ -7,7 +7,7 @@ Registro da origem de tudo que está em `data/` e `tests/` (exigência do Defini
 ## Produtos (`produtos.csv` → `produtos.json`)
 
 - Gerada em 2026-10-20, com apoio de IA, e **revisada pelo time antes do uso**.
-- Total: 149 produtos, dos quais 49 da marca Dauf.
+- Total: 151 produtos, dos quais 49 da marca Dauf.
 - Valores de `origem_dado`:
   - `sintetico-marca-ficticia`: produto de marca fictícia.
   - `sintetico+linha-dauf-confirmada`: produto Dauf sintético, em linha que a página pública da marca confirma (31 itens).
@@ -17,7 +17,7 @@ Registro da origem de tudo que está em `data/` e `tests/` (exigência do Defini
 | Categoria | Produtos |
 | --- | --- |
 | bebe | 19 |
-| bem-estar | 21 |
+| bem-estar | 23 |
 | cabelo | 22 |
 | higiene | 31 |
 | kits | 7 |
@@ -73,4 +73,4 @@ Registro da origem de tudo que está em `data/` e `tests/` (exigência do Defini
 
 | Data | Quem | O que mudou |
 | --- | --- | --- |
-| 2026-10-20 | Squad 6 (com apoio de IA) | Base inicial: 149 produtos, 54 restritos, 8 categorias de emergência, 45 casos de teste |
+| 2026-10-20 | Squad 6 (com apoio de IA) | Base inicial: 149 produtos (+2 de conforto para dormir em 2026-10-20, ids prod-0150 e prod-0151), 54 restritos, 8 categorias de emergência, 45 casos de teste |
