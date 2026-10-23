@@ -22,4 +22,4 @@ def health():
 
 @app.post("/recommend", response_model=RecommendResponse)
 def recommend(req: RecommendRequest) -> RecommendResponse:
-    return pipeline.recomendar(req.mensagem, debug=config.DEBUG)
+    return pipeline.recomendar(req.mensagem, debug=config.DEBUG, sessao_id=req.sessao_id)

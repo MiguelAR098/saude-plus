@@ -1,10 +1,12 @@
 """Orquestra o fluxo: guardrails de entrada → intenção → busca → seleção → justificativa → guardrails de saída."""
 import re
+import logging
 
-from . import config, data, guardrails, intent, justify, retrieval, selection
+from . import config, data, guardrails, intent, justify, retrieval, selection, session_context
 from .schemas import ForaDaLista, Kit, ProdutoCard, RecommendResponse
 from .text import brl
 
+logger = logging.getLogger(__name__)
 _PRESCRITIVO = re.compile(r"\b(tome|use|experimente|aplique)\b", re.IGNORECASE)
 MSG_FALHA = "Não consegui montar uma recomendação segura agora. Pode reformular o que você quer resolver?"
 
@@ -40,7 +42,7 @@ def _validar_saida(resp: RecommendResponse) -> None:
             raise ValueError("linguagem prescritiva")
 
 
-def recomendar(mensagem: str, debug: bool = False) -> RecommendResponse:
+def recomendar(mensagem: str, debug: bool = False, sessao_id: str | None = None) -> RecommendResponse:
     bloqueio = guardrails.checar_entrada(mensagem)
     if bloqueio:
         resp = RecommendResponse(tipo=bloqueio.tipo, mensagem=bloqueio.mensagem,
@@ -49,7 +51,33 @@ def recomendar(mensagem: str, debug: bool = False) -> RecommendResponse:
             resp.debug = {"classe": bloqueio.classe, "motivo": bloqueio.motivo}
         return resp
 
-    it = intent.interpretar(mensagem)
+    contexto = session_context.obter(sessao_id)
+    intencao_usada = None
+
+    def executar_busca(it: intent.Intencao) -> RecommendResponse:
+        nonlocal intencao_usada
+        intencao_usada = session_context.combinar(it, contexto)
+        return _recomendar_com_intencao(mensagem, intencao_usada, debug)
+
+    if config.GEMINI_API_KEY:
+        try:
+            from . import GeminiAI
+
+            resposta = GeminiAI.recomendar(mensagem, executar_busca, contexto=contexto)
+        except Exception as exc:
+            logger.warning("Agente Gemini indisponível; usando interpretação local (%s)", type(exc).__name__)
+        else:
+            if intencao_usada is not None:
+                session_context.salvar(sessao_id, intencao_usada, resposta, contexto)
+            return resposta
+
+    intencao_usada = session_context.combinar(intent.interpretar(mensagem), contexto)
+    resposta = _recomendar_com_intencao(mensagem, intencao_usada, debug)
+    session_context.salvar(sessao_id, intencao_usada, resposta, contexto)
+    return resposta
+
+
+def _recomendar_com_intencao(mensagem: str, it: intent.Intencao, debug: bool = False) -> RecommendResponse:
     if it.sem_necessidade:
         return _pergunta(it)
     cands = retrieval.buscar(it)

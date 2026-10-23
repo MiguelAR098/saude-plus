@@ -4,12 +4,19 @@ Este módulo é a fronteira para o RAG: no próximo degrau, a pontuação por te
 é combinada com similaridade de embeddings.
 """
 import math
+import logging
+from threading import RLock
 from dataclasses import dataclass, field
 from functools import lru_cache
 
-from . import data
+from . import config, data
 from .intent import Intencao
 from .text import norm, tokens
+
+logger = logging.getLogger(__name__)
+_EMBEDDING_BATCH_SIZE = 32
+_EMBEDDING_INDEX: tuple[tuple, dict[str, list[float]]] | None = None
+_EMBEDDING_LOCK = RLock()
 
 
 @dataclass
@@ -51,18 +58,87 @@ def _alvo_explicito(consulta: set) -> dict:
     return out
 
 
+def _documentos_semanticos() -> list[tuple[str, str]]:
+    return [
+        (pid, f"title: {produto['nome']} | text: {' '.join([
+            produto['descricao_curta'], produto['texto_busca'], produto['subcategoria'].replace('-', ' '),
+            ' '.join(produto['indicado_para']), ' '.join(produto['tipo_pele']),
+        ])}")
+        for pid, produto in data.catalogo().items()
+    ]
+
+
+def _indice_semantico() -> dict[str, list[float]]:
+    global _EMBEDDING_INDEX
+    documentos = _documentos_semanticos()
+    assinatura = tuple((pid, texto) for pid, texto in documentos)
+    with _EMBEDDING_LOCK:
+        if _EMBEDDING_INDEX and _EMBEDDING_INDEX[0] == assinatura:
+            return _EMBEDDING_INDEX[1]
+
+        from google.genai import types
+        from .GeminiAI import _cliente
+
+        cliente = _cliente()
+        vetores = {}
+        for inicio in range(0, len(documentos), _EMBEDDING_BATCH_SIZE):
+            lote = documentos[inicio:inicio + _EMBEDDING_BATCH_SIZE]
+            conteudos = [
+                types.Content(parts=[types.Part.from_text(text=texto)])
+                for _, texto in lote
+            ]
+            resultado = cliente.models.embed_content(
+                model=config.GEMINI_EMBEDDING_MODEL,
+                contents=conteudos,
+                config=types.EmbedContentConfig(output_dimensionality=768),
+            )
+            if len(resultado.embeddings) != len(lote):
+                raise ValueError("quantidade inesperada de embeddings do catálogo")
+            vetores.update({pid: embedding.values for (pid, _), embedding in zip(lote, resultado.embeddings)})
+        _EMBEDDING_INDEX = (assinatura, vetores)
+        return vetores
+
+
+def _similaridades_semanticas(consulta: str) -> dict[str, float]:
+    if not config.GEMINI_API_KEY:
+        return {}
+    from google.genai import types
+    from .GeminiAI import _cliente
+
+    indice = _indice_semantico()
+    resultado = _cliente().models.embed_content(
+        model=config.GEMINI_EMBEDDING_MODEL,
+        contents=f"task: search result | query: {consulta}",
+        config=types.EmbedContentConfig(output_dimensionality=768),
+    )
+    query = resultado.embeddings[0].values
+    norma_query = math.sqrt(sum(valor * valor for valor in query)) or 1.0
+    similaridades = {}
+    for pid, vetor in indice.items():
+        norma_vetor = math.sqrt(sum(valor * valor for valor in vetor)) or 1.0
+        similaridades[pid] = sum(a * b for a, b in zip(query, vetor)) / (norma_query * norma_vetor)
+    return similaridades
+
+
 def buscar(it: Intencao) -> list:
     docs, idf = _indice()
     consulta = set(it.tokens)
     explicito = _alvo_explicito(consulta)
+    try:
+        similaridades = _similaridades_semanticas(it.mensagem)
+    except Exception as exc:
+        logger.warning("Busca semântica indisponível; usando busca lexical (%s)", type(exc).__name__)
+        similaridades = {}
     out = []
     for pid, p in data.catalogo().items():
         base = sum(idf.get(t, 0.0) for t in consulta & docs[pid])
         reforco = it.subcats_alvo.get(p["subcategoria"], 0.0) + explicito.get(p["subcategoria"], 0.0)
-        score = base + reforco
+        similaridade = similaridades.get(pid, 0.0)
+        semantico = max(0.0, similaridade - config.SEMANTIC_SCORE_THRESHOLD) * config.SEMANTIC_SCORE_WEIGHT
+        score = base + reforco + semantico
         if score <= 0:
             continue
-        razoes = []
+        razoes = ["similaridade_semantica"] if semantico > 0 else []
         faixa = p["faixa_etaria"]
         if it.infantil:
             if faixa == "infantil":

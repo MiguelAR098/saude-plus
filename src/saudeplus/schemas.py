@@ -8,7 +8,7 @@ Tipo = Literal["recomendacao", "clarificacao", "bloqueio_restrito", "bloqueio_em
 
 class RecommendRequest(BaseModel):
     mensagem: str = Field(max_length=500)
-    sessao_id: Optional[str] = None  # reservado para memória de conversa (próximo degrau)
+    sessao_id: Optional[str] = Field(default=None, min_length=8, max_length=128)
 
     @field_validator("mensagem")
     @classmethod
