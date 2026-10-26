@@ -249,3 +249,49 @@ def test_agente_executa_busca_local_e_redige_resumo(monkeypatch):
     assert resposta.mensagem == "Encontrei opções para pele seca."
     assert len(cliente.chamadas) == 2
     assert all(chamada["store"] is False for chamada in cliente.chamadas)
+
+
+@pytest.mark.parametrize(
+    ("nome_ferramenta", "pergunta", "resposta_final"),
+    [
+        ("comparar_opcoes", "Qual desses custa menos?", "O produto A custa menos."),
+        ("consultar_produtos_da_sessao", "Qual deles tem a melhor avaliação?", "O produto B tem a melhor avaliação."),
+    ],
+)
+def test_followup_responde_sem_fazer_nova_busca(monkeypatch, nome_ferramenta, pergunta, resposta_final):
+    class Etapa:
+        type = "function_call"
+        name = nome_ferramenta
+        id = "call-followup"
+        arguments = {"produto_ids": ["prod-0001", "prod-0002"]}
+        if nome_ferramenta == "consultar_produtos_da_sessao":
+            arguments["pergunta"] = pergunta
+
+        def model_dump(self, mode):
+            return {"type": self.type, "name": self.name, "id": self.id, "arguments": self.arguments}
+
+    class ClienteFalso:
+        def __init__(self):
+            self.chamadas = []
+            self.interactions = self
+
+        def create(self, **kwargs):
+            self.chamadas.append(kwargs)
+            if len(self.chamadas) == 1:
+                return SimpleNamespace(steps=[Etapa()])
+            return SimpleNamespace(steps=[], output_text=json.dumps({"mensagem": resposta_final}))
+
+    cliente = ClienteFalso()
+    monkeypatch.setattr(config, "GEMINI_API_KEY", "chave-de-teste")
+    monkeypatch.setattr(GeminiAI, "_cliente", lambda: cliente)
+
+    resposta = GeminiAI.recomendar(
+        pergunta,
+        lambda _: pytest.fail("follow-up não deve iniciar nova busca"),
+        contexto={"produto_ids": ["prod-0001", "prod-0002"]},
+    )
+
+    assert resposta.tipo == "resposta"
+    assert resposta.produtos == []
+    assert resposta.mensagem == resposta_final
+    assert len(cliente.chamadas) == 2

@@ -3,7 +3,7 @@ from typing import Literal, Optional
 
 from pydantic import BaseModel, Field, field_validator
 
-Tipo = Literal["recomendacao", "clarificacao", "bloqueio_restrito", "bloqueio_emergencia", "recusa_adversarial"]
+Tipo = Literal["recomendacao", "resposta", "clarificacao", "bloqueio_restrito", "bloqueio_emergencia", "recusa_adversarial"]
 
 
 class RecommendRequest(BaseModel):

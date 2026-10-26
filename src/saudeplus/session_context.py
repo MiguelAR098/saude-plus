@@ -31,13 +31,15 @@ def salvar(
     intencao: Intencao,
     resposta: RecommendResponse,
     contexto_anterior: dict | None = None,
+    orcamento_informado: bool = False,
 ) -> None:
     if not sessao_id or config.SESSION_CONTEXT_TTL_SECONDS <= 0:
         return
     dados = {
         "necessidades": intencao.necessidades[:8],
         "termos_busca": intencao.tokens[:12],
-        "orcamento": intencao.orcamento,
+        "orcamento": intencao.orcamento if orcamento_informado else None,
+        "orcamento_informado": orcamento_informado,
         "infantil": intencao.infantil,
         "tipos_pele": sorted(intencao.tipos_pele)[:5],
         "barato": intencao.barato,
@@ -45,6 +47,18 @@ def salvar(
         "produto_ids": [produto.id for produto in resposta.produtos[:5]] or list(
             (contexto_anterior or {}).get("produto_ids", [])[:5]
         ),
+        "produtos": [
+            {
+                "id": produto.id,
+                "nome": produto.nome,
+                "marca": produto.marca,
+                "categoria": produto.subcategoria,
+                "preco": produto.preco,
+                "nota": produto.nota,
+                "tamanho": produto.tamanho,
+            }
+            for produto in resposta.produtos[:5]
+        ] or list((contexto_anterior or {}).get("produtos", [])[:5]),
     }
     with _LOCK:
         _STORE[sessao_id] = (monotonic() + config.SESSION_CONTEXT_TTL_SECONDS, dados)
@@ -73,7 +87,7 @@ def combinar(intencao: Intencao, contexto: dict | None) -> Intencao:
                     intencao.subcats_alvo[subcategoria] = intencao.subcats_alvo.get(subcategoria, 0.0) + peso
     if not intencao.tokens:
         intencao.tokens = list(contexto.get("termos_busca", []))
-    if intencao.orcamento is None:
+    if intencao.orcamento is None and contexto.get("orcamento_informado", False):
         intencao.orcamento = contexto.get("orcamento")
     intencao.infantil = intencao.infantil or contexto.get("infantil", False)
     if not intencao.tipos_pele:

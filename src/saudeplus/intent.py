@@ -20,6 +20,7 @@ INFANTIL = {"bebe", "nenem", "crianca", "criancas", "filho", "filha", "infantil"
 TIPOS_PELE = {"seca": "seca", "oleosa": "oleosa", "oleoso": "oleosa", "mista": "mista", "sensivel": "sensivel",
               "sensiveis": "sensivel", "normal": "normal"}
 BARATO = ["barato", "baratinho", "economico", "economizar", "menor preco", "custo beneficio"]
+_SAUDACAO = re.compile(r"^(oi|ola|bom dia|boa tarde|boa noite|e ai|tudo bem)( tudo bem| como vai)?$")
 
 # (rótulo, gatilhos, {subcategoria: reforço}). Gatilho com * casa prefixo de palavra.
 LEXICO = [
@@ -93,6 +94,10 @@ def _orcamento(msg: str) -> Optional[float]:
     except ValueError:
         return None
     return v if v > 0 else None
+
+
+def eh_saudacao(mensagem: str) -> bool:
+    return bool(_SAUDACAO.fullmatch(norm(mensagem)))
 
 
 def interpretar(mensagem: str) -> Intencao:

@@ -2,6 +2,8 @@
 import re
 import logging
 
+from pydantic import ValidationError
+
 from . import config, data, guardrails, intent, justify, retrieval, selection, session_context
 from .schemas import ForaDaLista, Kit, ProdutoCard, RecommendResponse
 from .text import brl
@@ -14,6 +16,16 @@ MSG_FALHA = "Não consegui montar uma recomendação segura agora. Pode reformul
 def _pergunta(it, mensagem: str = "") -> RecommendResponse:
     p = intent.pergunta_de_clarificacao(it)
     return RecommendResponse(tipo="clarificacao", mensagem=p, pergunta=p)
+
+
+def _perguntar_orcamento() -> RecommendResponse:
+    pergunta = "Qual é o seu orçamento máximo para esses produtos?"
+    return RecommendResponse(tipo="clarificacao", mensagem=pergunta, pergunta=pergunta)
+
+
+def _responder_saudacao() -> RecommendResponse:
+    mensagem = "Oi! Como posso ajudar hoje? Me conte o que você está procurando."
+    return RecommendResponse(tipo="clarificacao", mensagem=mensagem, pergunta=mensagem)
 
 
 def _card(c, it, sel) -> ProdutoCard:
@@ -51,7 +63,20 @@ def recomendar(mensagem: str, debug: bool = False, sessao_id: str | None = None)
             resp.debug = {"classe": bloqueio.classe, "motivo": bloqueio.motivo}
         return resp
 
+    if intent.eh_saudacao(mensagem):
+        return _responder_saudacao()
+
     contexto = session_context.obter(sessao_id)
+    orcamento_informado = (
+        intent._orcamento(mensagem) is not None
+        or bool(contexto and contexto.get("orcamento_informado", False))
+    )
+    from . import GeminiAI
+
+    comparacao = GeminiAI.responder_comparacao(mensagem, contexto)
+    if comparacao is not None:
+        return comparacao
+
     intencao_usada = None
 
     def executar_busca(it: intent.Intencao) -> RecommendResponse:
@@ -61,25 +86,38 @@ def recomendar(mensagem: str, debug: bool = False, sessao_id: str | None = None)
 
     if config.GEMINI_API_KEY:
         try:
-            from . import GeminiAI
-
             resposta = GeminiAI.recomendar(mensagem, executar_busca, contexto=contexto)
+        except ValidationError as exc:
+            erros = [
+                {"loc": ".".join(str(parte) for parte in erro["loc"]), "type": erro["type"]}
+                for erro in exc.errors(include_input=False, include_context=False)
+            ]
+            logger.warning("Agente Gemini rejeitou dados estruturados: %s", erros)
         except Exception as exc:
             logger.warning("Agente Gemini indisponível; usando interpretação local (%s)", type(exc).__name__)
         else:
             if intencao_usada is not None:
-                session_context.salvar(sessao_id, intencao_usada, resposta, contexto)
+                session_context.salvar(
+                    sessao_id, intencao_usada, resposta, contexto,
+                    orcamento_informado=orcamento_informado,
+                )
             return resposta
 
     intencao_usada = session_context.combinar(intent.interpretar(mensagem), contexto)
     resposta = _recomendar_com_intencao(mensagem, intencao_usada, debug)
-    session_context.salvar(sessao_id, intencao_usada, resposta, contexto)
+    session_context.salvar(
+        sessao_id, intencao_usada, resposta, contexto,
+        orcamento_informado=orcamento_informado,
+    )
     return resposta
 
 
 def _recomendar_com_intencao(mensagem: str, it: intent.Intencao, debug: bool = False) -> RecommendResponse:
     if it.sem_necessidade:
         return _pergunta(it)
+    if it.orcamento is None:
+        resposta = _perguntar_orcamento()
+        return resposta
     cands = retrieval.buscar(it)
     if not cands or cands[0].score < config.MIN_SCORE:
         return _pergunta(it)

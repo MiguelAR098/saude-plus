@@ -5,6 +5,7 @@ Este módulo é a fronteira para o RAG: no próximo degrau, a pontuação por te
 """
 import math
 import logging
+import re
 from threading import RLock
 from dataclasses import dataclass, field
 from functools import lru_cache
@@ -17,6 +18,16 @@ logger = logging.getLogger(__name__)
 _EMBEDDING_BATCH_SIZE = 32
 _EMBEDDING_INDEX: tuple[tuple, dict[str, list[float]]] | None = None
 _EMBEDDING_LOCK = RLock()
+
+
+def _detalhes_erro_api(exc: Exception) -> tuple[object, object, str | None]:
+    status = getattr(exc, "status", None)
+    code = getattr(exc, "code", None)
+    mensagem = getattr(exc, "message", None)
+    if isinstance(mensagem, str):
+        mensagem = re.sub(r"AIza[0-9A-Za-z_-]{20,}", "[REDACTED]", mensagem)
+        mensagem = mensagem[:300]
+    return status, code, mensagem
 
 
 @dataclass
@@ -127,7 +138,11 @@ def buscar(it: Intencao) -> list:
     try:
         similaridades = _similaridades_semanticas(it.mensagem)
     except Exception as exc:
-        logger.warning("Busca semântica indisponível; usando busca lexical (%s)", type(exc).__name__)
+        status, code, detalhe = _detalhes_erro_api(exc)
+        logger.warning(
+            "Busca semântica indisponível; usando busca lexical (%s, status=%s, code=%s, detalhe=%s)",
+            type(exc).__name__, status, code, detalhe,
+        )
         similaridades = {}
     out = []
     for pid, p in data.catalogo().items():
